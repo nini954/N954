@@ -159,28 +159,6 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_22
 http://stream-02.sv6.dailymotion.com/39/dm/3/x3m6nld/live-4.m3u8
 #EXTINF:-1,AMC
 https://freeeucache3.streamlive.to/live/7pctmre0zfwsc24/live/7pctmre0zfwsc24/chunks.m3u8?nimblesessionid=537557&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTcvMjAxNyA3OjQwOjAwIEFNJmhhc2hfdmFsdWU9Nms4RmFuaDBDZTNiZXZrcmFQQ0FKQT09JnZhbGlkbWludXRlcz0xMDAwMDAmc3RybV9sZW49MjA=
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
 #EXTINF:-1,Gem Kurd
 http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
 #EXTINF:-1,PMC TV
@@ -425,7 +403,7 @@ http://osltv.zackapps.com/apps/best/alsumaria.php?id=osltv
 http://2.109.65.143/masa/14316.m3u8
 #EXTINF:-1,Al Forat (Iraq)
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/alhurra_tv_iq.png",Alhurra TV HD  (Iraq)
+#EXTINF:-1 tvg-logo="http://www.lyngsat-logo.com/logo/tv/aa/alhurra_tv_iq.png",Alhurra TV HD Â (Iraq)
 rtmp://cp51007.live.edgefcs.net/live?ovpfv=2.1.6/Alhurra_Iraq_Flash@7095
 #EXTINF:-1,Iraqia Amma (Iraq)
 http://iphone-streaming.ustream.tv/ustreamVideo/22169553/streams/live/playlist.m3u8
@@ -595,7 +573,7 @@ http://livestreaming4.itworkscdn.com/masira/livetv1/playlist.m3u8
 http://over.ddns.net:65203/
 #EXTINF:-1,GR:DISCOVERY
 http://over.ddns.net:65204/
-#EXTINF:–1,GR:HISTORY
+#EXTINF:Â–1,GR:HISTORY
 http://over.ddns.net:65205/
 #EXTINF:-1,GR:FOX
 http://over.ddns.net:65206/
