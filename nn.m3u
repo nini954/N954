@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1,Manoto
+http://63.237.48.9/ios/MANOTO_1/MANOTO_1.m3u8
+#EXTINF:-1,IRIB 3
+http://63.237.48.9/ios/IRIB_TV3_2/IRIB_TV3_2.m3u8
+#EXTINF:-1,ITN
+http://63.237.48.9/ios/ITN/ITN.m3u8
+#EXTINF:-1,Merci
+http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1,Tapesh
+http://63.237.48.9/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1,GEM
+http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
+#EXTINF:-1,Varzesh
+http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1,Gem River
+http://63.237.48.28/ios/GEM_RIVER/GEM_RIVER.m3u8
+#EXTINF:-1,BBC persian
+http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+#EXTINF:-1,Farsi 1
+http://63.237.48.28/ios/FARSI1/FARSI1.m3u8
+#EXTINF:-1,PMC
+http://63.237.48.28/ios/PMC/PMC.m3u8
+#EXTINF:-1,VOA
+http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+#EXTINF:-1,ONYX
+http://63.237.48.28/ios/ONYX/ONYX.m3u8
+#EXTINF:-1,Gem Bollywood
+http://63.237.48.28/ios/GEM_BOLLYWOOD/GEM_BOLLYWOOD.m3u8
+#EXTINF:-1,TIN
+http://63.237.48.28/ios/TIN/TIN.m3u8
+#EXTINF:-1,FACE2
+http://63.237.48.28/ios/FACE2/FACE2.m3u8
+#EXTINF:-1,FTL
+http://63.237.48.28/ios/FTL/FTL.m3u8
+#EXTINF:-1,GEM LIFE
+http://63.237.48.28/ios/GEL_LIFE/GEL_LIFE.m3u8
+#EXTINF:-1,GEM RUBIX
+http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+#EXTINF:-1,GEM Junior
+http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:-1,Time TV
+http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
+#EXTINF:-1,Gem USA
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1,Gem Mafia
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:-1,TVP
+http://63.237.48.28/ios/TVP/TVP.m3u8
+#EXTINF:-1,NEX 1
+http://63.237.48.28/ios/NEX_1/NEX_1.m3u8
+#EXTINF:-1,IRINN
+http://63.237.48.28/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,IRIB TV5
+http://63.237.48.28/ios/IRIB_TV5/IRIB_TV5.m3u8
+#EXTINF:-1,IRIB TV3
+http://63.237.48.9/ios/IRIB_TV3_3/IRIB_TV3_3.m3u8
+#EXTINF:-1,IRIB TV4
+http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
+#EXTINF:-1,IRIB TV2
+http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
+#EXTINF:-1,IRIB TV1
+http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
+#EXTINF:-1,IRIB nasim
+http://63.237.48.28/ios/IRIB_NASIM/IRIB_NASIM.m3u8
+#EXTINF:-1,IRIB salamat
+http://63.237.48.28/ios/IRIB_SALAMAT/IRIB_SALAMAT.m3u8
+#EXTINF:-1,IRIB poya
+http://63.237.48.28/ios/POOYA_TV/POOYA_TV.m3u8
+#EXTINF:-1,IRIB namayesh
+http://63.237.48.28/ios/IRIB_NAMAYESH/IRIB_NAMAYESH.m3u8
+#EXTINF:-1,IRIB mostanad
+http://63.237.48.28/ios/IRIB_MOSTANAD/IRIB_MOSTANAD.m3u8
+#EXTINF:-1,IRIB amoozesh
+http://63.237.48.28/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8
+#EXTINF:-1,IRINN
+http://63.237.48.28/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,Merci TV
+http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
+#EXTINF:-1,Tapesh
+http://63.237.48.9/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1,MI TV
+http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
+#EXTINF:-1,FTL
+http://63.237.48.28/ios/FTL/FTL.m3u8
+#EXTINF:-1,GEM Rubix
+http://63.237.48.28/ios/GEM_RUBIX/GEM_RUBIX.m3u8
+#EXTINF:-1,Time TV
+http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
+#EXTINF:-1,Gem USA
+http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+#EXTINF:-1,TVP
+http://63.237.48.28/ios/TVP/TVP.m3u8
+#EXTINF:-1,Gem Mafia
+http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
+#EXTINF:-1,TM TV
+http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
+#EXTINF:-1,Persian Star 1
+http://63.237.48.28/ios/PERSIAN_STAR_1/PERSIAN_STAR_1.m3u8
+#EXTINF:-1,Nex1
+http://63.237.48.28/ios/NEX_1/NEX_1.m3u8
+#EXTINF:-1,ITN
+http://63.237.48.9/ios/ITN/ITN.m3u8
+#EXTINF:-1,Apadana
+http://stream.aeducationaltv.org/live/appadana/index.m3u8
+#EXTINF:-1,TIN
+http://63.237.48.28/ios/TIN/TIN.m3u8
+#EXTINF:-1,ITC
+http://63.237.48.28/ios/ITC/ITC.m3u8
+#EXTINF:-1,Didar
+http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
+#EXTINF:-1,Ganje hozor
+http://63.237.48.28/ios/GANJ_E_HOZOOR/GANJ_E_HOZOOR.m3u8
+#EXTINF:-1,Afghan Bahar
+http://stream.bahartv-af.com/live/bahar/index.m3u8
+#EXTINF:-1,Afghan Time
+http://afghantimetv.com/live/afghantime1/index.m3u8
+#EXTINF:-1,Kuwait sport
+http://63.237.48.28/ios/KUWAIT_3_SPORT/KUWAIT_3_SPORT.m3u8
+#EXTINF:-1,Payame Afghan
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/tracks-v1a1/index.m3u8
+#EXTINF:-1,Radio Farda
+http://63.237.48.28/ios/Radio_Farda/Radio_Farda.m3u8
+#EXTINF:-1,Euronews Farsi
+http://63.237.48.28/ios/Euronews_Farsi/Euronews_Farsi.m3u8
+#EXTINF:-1,BBC Persian
+http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+#EXTINF:-1,VOA
+http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+#EXTINF:-1,Almayadeen
+http://63.237.48.28/ios/ALMAYADEEN/ALMAYADEEN.m3u8
+#EXTINF:-1,Press TV
+http://63.237.48.28/ios/PRESS_TV/PRESS_TV.m3u8
+#EXTINF:-1,IRINN
+http://63.237.48.28/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,4U Cartoon
+http://63.237.48.28/ios/4U_CARTOON/4U_CARTOON.m3u8
+#EXTINF:-1,Gem Junior
+http://63.237.48.28/ios/GEM_JUNIOR/GEM_JUNIOR.m3u8
+#EXTINF:-1,Pooya TV
+http://63.237.48.28/ios/POOYA_TV/POOYA_TV.m3u8
