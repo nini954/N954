@@ -1,7 +1,7 @@
 ﻿#EXTINF:-1,USA Network (USA)
 http://env-5853388.jl.serv.net.mx/tmg.m3u8?stream=amc-usa&expired=42ffd1a3ce9cdfd25f9a4d83b32cf7d7&token=b816e3fbe08f23adfae2fc192c5f92f9
 #EXTINF:-1,Bravo (USA)
-http://163.172.14.187:1944/live/WWW.IPTV2424.COM-27-11-1/PCS5VUvYCVA/1139.ts
+http://env-5853388.jl.serv.net.mx/tmg.m3u8?stream=amc-usa&expired=42ffd1a3ce9cdfd25f9a4d83b32cf7d7&token=b816e3fbe08f23adfae2fc192c5f92f9
 #EXTINF:-1,ABC spark (USA)
 http://163.172.14.187:1944/live/WWW.IPTV2424.COM-27-11-1/PCS5VUvYCVA/1130.ts
 #EXTINF:-1,NBC (USA)
