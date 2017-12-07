@@ -79,6 +79,7 @@ http://63.237.48.28/ios/IRINN/IRINN.m3u8
 http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
 #EXTINF:-1,Tapesh
 http://63.237.48.9/ios/TAPESH/TAPESH.m3u8
+
 #EXTINF:-1,MI TV
 http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
 #EXTINF:-1,FTL
@@ -143,3 +144,13 @@ http://63.237.48.28/ios/POOYA_TV/POOYA_TV.m3u8
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/chunklist_w1911765993_b2192000.m3u8
 #EXTINF:-1,MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1847865718.m3u8
+#EXTINF:-1,Manoto
+https://d1lcmmejnwm81j.cloudfront.net/manotolive_720.m3u8
+#EXTINF:-1,Irane Farda
+http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
+#EXTINF:-1,Mihan TV
+http://104.236.167.95/live/playlist1/index.m3u8
+#EXTINF:-1,AFN Music
+http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
+#EXTINF:-1,Caltex Music TV
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
