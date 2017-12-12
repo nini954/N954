@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://hulkent.com/gamma/logo/Logos%20V2/espn%20hd.png" group-title="",ESPN HD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6668.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://hulkent.com/gamma/logo/Logos%20V2/espn%202%20hd.png" group-title="",ESPN 2 HD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD" tvg-logo="https://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/032011/espn-u.png?itok=cAf-w2pr" group-title="",ESPN U HD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/8793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1" tvg-logo="" group-title="",FOX SPORTS 1 
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/11275.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Bay Area" tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Bay Area 
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Chicago" tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="US SPORTS",NBC Sports Chicago
+http://tvecsnchicago-i.akamaihd.net//hls/live/219793/CSNchicagox/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports" tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Northwest 
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports " tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Washington 
+http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports " tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Philadelphia Plus
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports " tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports California
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports " tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Philadelphia
+http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports " tvg-logo="http://digitalassets.nbcsports.com/nbcsports/logos/NBC_Sports_logo_2012.png" group-title="",NBC Sports Boston
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
+#EXTINF:-1,Pac-12 Arizona
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+#EXTINF:-1,Pac-12 Bay Area
+http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
+#EXTINF:-1,Pac-12 Los Angeles
+http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
+#EXTINF:-1,Pac-12 Mountain 
+http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
+#EXTINF:-1,Pac-12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:-1,Pac-12 Washington 
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:-1,Pac-12 Network
+http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
