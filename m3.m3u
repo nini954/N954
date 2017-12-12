@@ -1,4 +1,10 @@
-﻿#EXTM3U
+#EXTINF:-1 tvg-id="AMC HDTV [East]" tvg-name="US: AMC HD" tvg-logo="http://hulkent.com/gamma/logo/Logos%20V2/amc%20hd.png" group-title="US Ent.",US: AMC HD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3450.m3u8
+#EXTINF:-1 tvg-id="AMC HDTV [East]" tvg-name="US: AMC HD-2" tvg-logo="" group-title="US Ent.",US: AMC SD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9419.m3u8
+#EXTINF:-1 tvg-id="AMC HDTV [East]" tvg-name="US- AMC HD--" tvg-logo="http://vignette2.wikia.nocookie.net/walkingdead/images/f/fd/AMC_2013_logo.png/revision/latest?cb=20151104161903" group-title="US Ent.",US- AMC HD
+http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/10364.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://hulkent.com/gamma/logo/Logos%20V2/espn%20hd.png" group-title="",ESPN HD
 http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6668.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2 HD" tvg-logo="http://hulkent.com/gamma/logo/Logos%20V2/espn%202%20hd.png" group-title="",ESPN 2 HD
