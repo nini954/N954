@@ -94,6 +94,7 @@ http://63.237.48.28/ios/GEM_MIFA/GEM_MIFA.m3u8
 #EXTINF:-1,TM TV
 http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
 #EXTINF:-1,Persian Star 1
+
 http://63.237.48.28/ios/PERSIAN_STAR_1/PERSIAN_STAR_1.m3u8
 #EXTINF:-1,Nex1
 http://63.237.48.28/ios/NEX_1/NEX_1.m3u8
@@ -151,3 +152,5 @@ http://104.236.167.95/live/playlist1/index.m3u8
 http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
 #EXTINF:-1,Caltex Music TV
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1,Simaye azzadi
+https://hw-usa.offload.streamzilla.xlcdn.com/session/00000000000000000000000000000000/sz/simay/wowza4/live/MultiL.smil/chunklist_b774144.m3u8?ttl=1517692860&l=75&ip=24.182.55.56&arb=fbc6a9c5efbd9e6a7027902e21256d46
