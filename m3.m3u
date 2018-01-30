@@ -218,7 +218,7 @@ http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1,WLNY 10/55 New York
 http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8
 #EXTINF:-1,WCBS CBS Channel 2 New York
-http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
+https://videoserver2.org/live/L4eT2W3GnCDgzcSd5ec2Tw/1517352566/c0371e35a2b3244f5edda7947172d954.m3u8http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
 #EXTINF:-1,KCNC CBS 4 Denver
 http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8
 #EXTINF:-1,WKTV Channel 2 Utica New York
@@ -267,3 +267,5 @@ http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
 https://edge.free-speech-tv-live.top.comcast.net/out/u/242_3.m3u8
 #EXTINF:-1,NDTV 24x7 India
 http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
+#EXTINF:-1, AMC
+https://videoserver2.org/live/L4eT2W3GnCDgzcSd5ec2Tw/1517352566/c0371e35a2b3244f5edda7947172d954.m3u8
