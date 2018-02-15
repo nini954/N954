@@ -46,6 +46,7 @@ http://63.237.48.28/ios/TIN/TIN.m3u8
 
 #EXTINF:-1,Time TV
 
+
 http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
 
 #EXTINF:-1,Gem USA
@@ -115,3 +116,35 @@ http://63.237.48.9/ios/IRIB_TV3_2/IRIB_TV3_2.m3u8
 #EXTINF:-1,Varzesh
 
 http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
+
+#EXTINF:-1,IRIB 1
+
+http://irib-live.arvancloud.com/tv1/tv1_480/index.m3u
+
+#EXTINF:-1,IRIB 2
+
+http://irib-live.arvancloud.com/tv2/tv2_480/index.m3u8
+
+#EXTINF:-1,IRIB 3
+
+http://irib-live.arvancloud.com/tv3hd/tv3hd_720/index.m3u8
+
+#EXTINF:-1,IRIB 4
+
+http://irib-live.arvancloud.com/tv4/tv4_480/index.m3u8
+
+#EXTINF:-1,IRIB 5
+
+http://irib-live.arvancloud.com/tv5/tv5_480/index.m3u8
+
+#EXTINF:-1,IRIB 6
+
+http://irib-live.arvancloud.com/irinn/irinn_360/index.m3u8
+
+#EXTINF:-1,Nasim
+
+http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
+
+#EXTINF:-1,Varzesh
+
+http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
