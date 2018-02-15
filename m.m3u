@@ -119,7 +119,7 @@ http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
 
 #EXTINF:-1,IRIB 1
 
-http://nimlive3.giniko.com/irib1/irib1/chunklist_w957539671.m3u8?nimblesessionid=25852040&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNS8yMDE4IDI6MTM6MjYgQU0maGFzaF92YWx1ZT11VzBybEVwZ3FpSEkxZW9hdytNbXV3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+http://s2.telewebion.com:1935/devices/_definst_/tv1-500k.stream/chunklist_w1339289826.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMTUvMjAxOCAyOjE3OjUwIEFNJmhhc2hfdmFsdWU9M3lPdFRDbG8ycitUWUdaWldFRVZodz09JnZhbGlkbWludXRlcz02MDAw
 
 #EXTINF:-1,IRIB 2
 
