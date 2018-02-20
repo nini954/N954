@@ -63,233 +63,488 @@ http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
 http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
 #EXTINF:-1,Network
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTINF:-1,AMC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3450.m3u8
-#EXTINF:-1,AMC SD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9419.m3u8
-#EXTINF:-1,AMC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/10364.m3u8
-#EXTINF:-1,ABC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3449.m3u8
-#EXTINF:-1,CBS HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5467.m3u8
-#EXTINF:-1,NBC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/10027.m3u8
-#EXTINF:-1,FOX HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/8307.m3u8
-#EXTINF:-1,FOX HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9150.m3u8
-#EXTINF:-1,CW HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3454.m3u8
-#EXTINF:-1,CINEMAX HD 1080p
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/4240.ts
-#EXTINF:-1,HBO Zone HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6647.ts
-#EXTINF:-1,HBO
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6673.ts
-#EXTINF:-1,HBO Family HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6674.ts
-#EXTINF:-1,HBO Comedy
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5472.ts
-#EXTINF:-1,HBO
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5471.ts
-#EXTINF:-1,HBO SIGNATURE
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6675.ts
-#EXTINF:-1,MAX E HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9518.ts
-#EXTINF:-1,EPIX 2
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9515.ts
-#EXTINF:-1,Starz HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/4239.ts
-#EXTINF:-1,STARZ EDGE HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6689.ts
-#EXTINF:-1,ShowTime
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6683.ts
-#EXTINF:-1,Showtime Extreme
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6685.ts
-#EXTINF:-1,Showtime Showcase
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6686.ts
-#EXTINF:-1,Showtime West
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5493.ts
-#EXTINF:-1,Starz Cinema HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5492.ts
-#EXTINF:-1,Starz East
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5491.ts
-#EXTINF:-1,Starz Encore HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5490.ts
-#EXTINF:-1,Sky Arts
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6567.ts
-#EXTINF:-1,Sky Atlantic HD 1080p
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6568.ts
-#EXTINF:-1,Sky Living HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6583.ts
-#EXTINF:-1,Sky Cinema Disney HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6572.ts
-#EXTINF:-1,Sky Cinema Drama n Romance HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6573.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6574.ts
-#EXTINF:-1,Sky Cinema Action & Adventure HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6569.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6570.ts
-#EXTINF:-1,Sky Cinema Select HD (LOCAL)
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6578.ts
-#EXTINF:-1,Sky Cinema Select Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6590.ts
-#EXTINF:-1,Sky Comedy Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6579.ts
-#EXTINF:-1,Sky Action Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6566.ts
-#EXTINF:-1,Sky Family Movies HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6581.ts
-#EXTINF:-1,Sky Greats Movies HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6582.ts
-#EXTINF:-1,Sky Greats Movies (Backup)
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9186.ts
-#EXTINF:-1,Sky Movies Disney HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6584.ts
-#EXTINF:-1,Sky Premiere Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6588.ts
-#EXTINF:-1,Sky Cinema Premier HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6576.ts
-#EXTINF:-1,Sky Sci-Fi&Horror Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6589.ts
-#EXTINF:-1,Sky Thriller Movies
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6612.ts
-#EXTINF:-1,Alternative
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
-#EXTINF:-1,Brits + Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
-#EXTINF:-1,Dance/EDM
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
-#EXTINF:-1,Hip-Hop And R&B
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
-#EXTINF:-1,Hit List
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
-#EXTINF:-1,Indie
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
-#EXTINF:-1,Metal
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
-#EXTINF:-1,Pop & Country
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
-#EXTINF:-1,Pop Hits
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
-#EXTINF:-1,R&B Soul
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
-#EXTINF:-1,Rap
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
-#EXTINF:-1,Rap 2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
-#EXTINF:-1,Rock
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
-#EXTINF:-1,Today
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
-#EXTINF:-1,90s
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
-#EXTINF:-1,Throwback Jamz
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
-#EXTINF:-1,Y2K
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
-#EXTINF:-1,Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1,Mexicana
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
-#EXTINF:-1,Musica Urbana
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
-#EXTINF:-1,Pop Latino
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
-#EXTINF:-1,miMusic HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,Tropicales
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
-#EXTINF:-1,Teen Beats
-http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
-#EXTINF:-1,Toddler Tunes
-http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
-#EXTINF:-1,CMC USA Music channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1,ABC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3449.m3u8
-#EXTINF:-1,CBS HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5467.m3u8
-#EXTINF:-1,NBC HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/10027.m3u8
-#EXTINF:-1,FOX HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/8307.m3u8
-#EXTINF:-1,FOX HD (Backup)
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/9150.m3u8
-#EXTINF:-1,CW HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/3454.m3u8
-#EXTINF:-1,Abc Channel 9
-http://cmghlslive-i.akamaihd.net/hls/live/224711/WFTV/master.m3u8
-#EXTINF:-1,KTVU 2 FOX San Francisco
-http://play-prod1.live.anvato.net/server/play/ktvutestctg/master.m3u8
-#EXTINF:-1,KPIX 5 San Francisco
-http://play-prod1.live.anvato.net/server/play/cbslocal-kpix-dfp/master.m3u8
-#EXTINF:-1,KOVR CBS 13 Stockton
-http://play-prod1.live.anvato.net/server/play/cbslocal-kovrx-dfp/master.m3u8
-#EXTINF:-1,KMAX CW 31 Sacramento
-http://play-prod1.live.anvato.net/server/play/cbslocal-kmax-dfp/master.m3u8
-#EXTINF:-1,WGN 9 Chicago
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1,WNYW FOX 5 New York
-http://api.new.livestream.com/accounts/6372917/events/2592483/live.m3u8
-#EXTINF:-1,WGRZ NBC 2 New York
-http://wgrz-lh.akamaihd.net/i/WGRZ_Live_1@68352/index_2000_av-p.m3u8
-#EXTINF:-1,WRGB 6 Albany New York
-http://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
-#EXTINF:-1,WLNY 10/55 New York
-http://play-prod1.live.anvato.net/server/play/cbslocal-wlny-dfp/master.m3u8
-#EXTINF:-1,WCBS CBS Channel 2 New York
-https://videoserver2.org/live/L4eT2W3GnCDgzcSd5ec2Tw/1517352566/c0371e35a2b3244f5edda7947172d954.m3u8http://play-prod1.live.anvato.net/server/play/cbslocal-wcbsx-dfp/master.m3u8
-#EXTINF:-1,KCNC CBS 4 Denver
-http://play-prod1.live.anvato.net/server/play/cbslocal-kcnc-dfp/master.m3u8
-#EXTINF:-1,WKTV Channel 2 Utica New York
-http://play-prod1.live.anvato.net/server/play/wktv-dfp/master.m3u8
-#EXTINF:-1,CBS 47 Jacksonville
-http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/904k/prog.m3u8
-#EXTINF:-1,WKMG Local 6 Orlando Florida
-http://play-prod1.live.anvato.net/server/play/wkmg-dfp/master.m3u8
-#EXTINF:-1,Abc News
-http://abclive.abcnews.com/i/abc_live08@318690/index_2500_av-p.m3u8
-#EXTINF:-1,Abc News
-http://abclive2.abcnews.com/i/abc_live11@423404/index_2500_av-p.m3u8
-#EXTINF:-1,BBC News
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
-#EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_1200_av-p.m3u8
-#EXTINF:-1,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_4296_av-p.m3u8
-#EXTINF:-1,SKY News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Bloomberg HD
-http://live-bloomberg-us-east.global.ssl.fastly.net/us/us3_live.m3u8
-#EXTINF:-1,C-SPAN
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8
-#EXTINF:-1,C-SPAN 2
-http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
-#EXTINF:-1,C-SPAN 3
-http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/index_1000_av-p.m3u8
-#EXTINF:-1,CNN Chile
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
-#EXTINF:-1,Azteca Noticas ADN 40
-http://aztecalive-lh.akamaihd.net:80/i/0qeij0bji_1@26639/index_3_av-b.m3u8
-#EXTINF:-1,RT Espanol HD
-https://secure-streams.akamaized.net/rt-esp/index2500.m3u8
-#EXTINF:-1,RT News HD
-https://secure-streams.akamaized.net/rt/index2500.m3u8
-#EXTINF:-1,RT USA HD
-https://secure-streams.akamaized.net/rt-usa/index2500.m3u8
-#EXTINF:-1,RT UK HD
-https://secure-streams.akamaized.net/rt-uk/index2500.m3u8
-#EXTINF:-1,RT Docu HD
-https://secure-streams.akamaized.net/rt-doc/index2500.m3u8
-#EXTINF:-1,TV Peru HD
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,Free Speech Tv
-https://edge.free-speech-tv-live.top.comcast.net/out/u/242_3.m3u8
-#EXTINF:-1,NDTV 24x7 India
-http://ndtv.live-s.cdn.bitgravity.com/cdn-live-b7/_definst_/ndtv/live/ndtv247live.smil/playlist.m3u8
-#EXTINF:-1, AMC
-https://videoserver2.org/live/L4eT2W3GnCDgzcSd5ec2Tw/1517352566/c0371e35a2b3244f5edda7947172d954.m3u8
+#EXTM3U
+#EXTINF:0,     List-Iptv.com        CNN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/73717.ts
+#EXTINF:0,     List-Iptv.com        A&E (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79754.ts
+#EXTINF:0,     List-Iptv.com        ABC EAST (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79729.ts
+#EXTINF:0,     List-Iptv.com        AMC (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79730.ts
+#EXTINF:0,     List-Iptv.com        BBC America (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79741.ts
+#EXTINF:0,     List-Iptv.com        BET (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79705.ts
+#EXTINF:0,     List-Iptv.com        BLOOMBERG (US) Directs
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79801.ts
+#EXTINF:0,     List-Iptv.com        BRAVO (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79753.ts
+#EXTINF:0,     List-Iptv.com        CARTOON NETWORK (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79768.ts
+#EXTINF:0,     List-Iptv.com        CBS EAST
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79835.ts
+#EXTINF:0,     List-Iptv.com        CBS Sports Network (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79860.ts
+#EXTINF:0,     List-Iptv.com        Comedy Central (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79726.ts
+#EXTINF:0,     List-Iptv.com        COOKING CHANNEL (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79747.ts
+#EXTINF:0,     List-Iptv.com        CW NETWORK HD(US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79732.ts
+#EXTINF:0,     List-Iptv.com        DISNEY CHANNEL (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79763.ts
+#EXTINF:0,     List-Iptv.com        DISNEY JR  (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79765.ts
+#EXTINF:0,     List-Iptv.com        DISNEY XD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79764.ts
+#EXTINF:0,     List-Iptv.com        DogTV (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79737.ts
+#EXTINF:0,     List-Iptv.com        E! HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79745.ts
+#EXTINF:0,     List-Iptv.com        American Hero Channel (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85074.ts
+#EXTINF:0,     List-Iptv.com        GET TV (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85072.ts
+#EXTINF:0,     List-Iptv.com        Grit TV (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85073.ts
+#EXTINF:0,     List-Iptv.com        EL REY (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79743.ts
+#EXTINF:0,     List-Iptv.com        Food Network HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79746.ts
+#EXTINF:0,     List-Iptv.com        FOX BUSINESS HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79831.ts
+#EXTINF:0,     List-Iptv.com        FOX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79728.ts
+#EXTINF:0,     List-Iptv.com        FOX NEWS 25 Directs
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79799.ts
+#EXTINF:0,     List-Iptv.com        FOX NEWS HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79832.ts
+#EXTINF:0,     List-Iptv.com        FREEFORM HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79708.ts
+#EXTINF:0,     List-Iptv.com        FUSE HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79734.ts
+#EXTINF:0,     List-Iptv.com        FX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79714.ts
+#EXTINF:0,     List-Iptv.com        FXX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79711.ts
+#EXTINF:0,     List-Iptv.com        GSN (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79742.ts
+#EXTINF:0,     List-Iptv.com        Hallmark Movies & Mysteries HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79771.ts
+#EXTINF:0,     List-Iptv.com        HGTV HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/80324.ts
+#EXTINF:0,     List-Iptv.com        HBO 2 East (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79778.ts
+#EXTINF:0,     List-Iptv.com        ION TV
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79756.ts
+#EXTINF:0,     List-Iptv.com        LIFETIME HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79748.ts
+#EXTINF:0,     List-Iptv.com        LIFETIME MOVIE NETWORK HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79770.ts
+#EXTINF:0,     List-Iptv.com        MAV TV (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79750.ts
+#EXTINF:0,     List-Iptv.com        MSNBC
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79830.ts
+#EXTINF:0,     List-Iptv.com        NBC HD EAST
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79834.ts
+#EXTINF:0,     List-Iptv.com        NBCSN
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79845.ts
+#EXTINF:0,     List-Iptv.com        NICK Jr (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79766.ts
+#EXTINF:0,     List-Iptv.com        NICKELODEN (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79767.ts
+#EXTINF:0,     List-Iptv.com        OWN Directs
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79707.ts
+#EXTINF:0,     List-Iptv.com        Oxygen HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79749.ts
+#EXTINF:0,     List-Iptv.com        SHOWTIME HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79776.ts
+#EXTINF:0,     List-Iptv.com        SHOWTIME 2
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79775.ts
+#EXTINF:0,     List-Iptv.com        Paramount network (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79717.ts
+#EXTINF:0,     List-Iptv.com        STARZ EAST
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79773.ts
+#EXTINF:0,     List-Iptv.com        HBO Comedy HD East (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84808.ts
+#EXTINF:0,     List-Iptv.com        CINEMAX ACTION MAX (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84811.ts
+#EXTINF:0,     List-Iptv.com        CINEMAX HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84814.ts
+#EXTINF:0,     List-Iptv.com        Cinemax MoreMax HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84813.ts
+#EXTINF:0,     List-Iptv.com        CINEMAX OUTER MAX (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84810.ts
+#EXTINF:0,     List-Iptv.com        Cinemax Thriller Max HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84812.ts
+#EXTINF:0,     List-Iptv.com        HBO Comedy HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84805.ts
+#EXTINF:0,     List-Iptv.com        HBO Family HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84804.ts
+#EXTINF:0,     List-Iptv.com        HBO HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84807.ts
+#EXTINF:0,     List-Iptv.com        HBO HD 2 (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84801.ts
+#EXTINF:0,     List-Iptv.com        HBO Signature HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84803.ts
+#EXTINF:0,     List-Iptv.com        HBO Zone HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84806.ts
+#EXTINF:0,     List-Iptv.com        SUNDANCE TV
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79759.ts
+#EXTINF:0,     List-Iptv.com        SYFY HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79751.ts
+#EXTINF:0,     List-Iptv.com        TBS HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79760.ts
+#EXTINF:0,     List-Iptv.com        Hallmark HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79870.ts
+#EXTINF:0,     List-Iptv.com        ANIMAL PLANET (US) (Direct)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79883.ts
+#EXTINF:0,     List-Iptv.com        Destination America (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79881.ts
+#EXTINF:0,     List-Iptv.com        Discovery Channel HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79880.ts
+#EXTINF:0,     List-Iptv.com        DISCOVERY SCIENCE CHANNEL HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79879.ts
+#EXTINF:0,     List-Iptv.com        DIY NETWORK (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79872.ts
+#EXTINF:0,     List-Iptv.com        History (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79873.ts
+#EXTINF:0,     List-Iptv.com        INVESTIGATION DISCOVERY HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79884.ts
+#EXTINF:0,     List-Iptv.com        NAT GEO WILD HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79875.ts
+#EXTINF:0,     List-Iptv.com        National Geographic Channel(US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79877.ts
+#EXTINF:0,     List-Iptv.com        Discovery Velocity HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79874.ts
+#EXTINF:0,     List-Iptv.com        TCM (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79761.ts
+#EXTINF:0,     List-Iptv.com        The Weather Channel HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79807.ts
+#EXTINF:0,     List-Iptv.com        TLC (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79715.ts
+#EXTINF:0,     List-Iptv.com        TNT HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79757.ts
+#EXTINF:0,     List-Iptv.com        TruTV HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79758.ts
+#EXTINF:0,     List-Iptv.com        TV Land HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79723.ts
+#EXTINF:0,     List-Iptv.com        TV ONE (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79752.ts
+#EXTINF:0,     List-Iptv.com        UFC Fight Pass
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79833.ts
+#EXTINF:0,     List-Iptv.com        USA NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79755.ts
+#EXTINF:0,     List-Iptv.com        VH1 HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79719.ts
+#EXTINF:0,     List-Iptv.com        VICELAND HD(US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79744.ts
+#EXTINF:0,     List-Iptv.com        Big Ten Network (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/88611.ts
+#EXTINF:0,     List-Iptv.com        OLYMPICS CHANNEL FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/88553.ts
+#EXTINF:0,     List-Iptv.com        FOX 11 LOS ANGELES
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85107.ts
+#EXTINF:0,     List-Iptv.com        FOX 13 TAMPA
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85105.ts
+#EXTINF:0,     List-Iptv.com        FOX 2 DETROIT
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85104.ts
+#EXTINF:0,     List-Iptv.com        FOX 2 SAN FRANCISCO
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85103.ts
+#EXTINF:0,     List-Iptv.com        FOX 2 ST. LOUIS
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85102.ts
+#EXTINF:0,     List-Iptv.com        FOX 25 BOSTON
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85101.ts
+#EXTINF:0,     List-Iptv.com        FOX 26 HOUSTON
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85100.ts
+#EXTINF:0,     List-Iptv.com        FOX 29 PHILADELPHIA
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85106.ts
+#EXTINF:0,     List-Iptv.com        FOX 32 CHICAGO
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85099.ts
+#EXTINF:0,     List-Iptv.com        FOX 4 DALLAS
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85098.ts
+#EXTINF:0,     List-Iptv.com        FOX 43 VA BEACH
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85097.ts
+#EXTINF:0,     List-Iptv.com        FOX 5 ATLANTA
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85096.ts
+#EXTINF:0,     List-Iptv.com        FOX 5 D.C.
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85095.ts
+#EXTINF:0,     List-Iptv.com        FOX 5 NEW YORK
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85094.ts
+#EXTINF:0,     List-Iptv.com        FOX 5 SAN DIEGO
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85093.ts
+#EXTINF:0,     List-Iptv.com        FOX 7 MIAMI
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85092.ts
+#EXTINF:0,     List-Iptv.com        FOX 8 CLEVELAND
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85091.ts
+#EXTINF:0,     List-Iptv.com        FOX 8 NEW ORLEANS
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85090.ts
+#EXTINF:0,     List-Iptv.com        NBC 10 PHILADELPHIA
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85129.ts
+#EXTINF:0,     List-Iptv.com        NBC 4 D.C.
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85128.ts
+#EXTINF:0,     List-Iptv.com        NBC 4 LOS ANGELES
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85130.ts
+#EXTINF:0,     List-Iptv.com        NBC 4 NEW YORK
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85127.ts
+#EXTINF:0,     List-Iptv.com        NBC 5 CHICAGO
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85126.ts
+#EXTINF:0,     List-Iptv.com        NBC 5 DALLAS
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85125.ts
+#EXTINF:0,     List-Iptv.com        NBC 6 MIAMI
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85124.ts
+#EXTINF:0,     List-Iptv.com        NBC 7 SAN DIEGO
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85123.ts
+#EXTINF:0,     List-Iptv.com        NBC BOSTON
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85122.ts
+#EXTINF:0,     List-Iptv.com        NBC DETROIT
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85121.ts
+#EXTINF:0,     List-Iptv.com        NBC HOUSTON
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85120.ts
+#EXTINF:0,     List-Iptv.com        NBC RALEIGH
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85119.ts
+#EXTINF:0,     List-Iptv.com        WE TV (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79762.ts
+#EXTINF:0,     List-Iptv.com        C-SPAN 1
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79805.ts
+#EXTINF:0,     List-Iptv.com        C-SPAN 2
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79804.ts
+#EXTINF:0,     List-Iptv.com        C-SPAN 3
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79803.ts
+#EXTINF:0,     List-Iptv.com        ESPN
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79852.ts
+#EXTINF:0,     List-Iptv.com        ESPN 2 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79851.ts
+#EXTINF:0,     List-Iptv.com        ESPN U HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79850.ts
+#EXTINF:0,     List-Iptv.com        FOX SPORTS 1 HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79859.ts
+#EXTINF:0,     List-Iptv.com        FOX SPORTS 2  HD(US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79858.ts
+#EXTINF:0,     List-Iptv.com        GOLF CHANNEL HD (US)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79857.ts
+#EXTINF:0,     List-Iptv.com        SEC NETWORK
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79849.ts
+#EXTINF:0,     List-Iptv.com        NHL NETWORK SD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79702.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 1
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79868.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 2
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79697.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 3
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79696.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 4
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79695.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 5
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79694.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 6
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79693.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 7
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79692.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 8
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79691.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 9
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79690.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 10
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79701.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 12
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79699.ts
+#EXTINF:0,     List-Iptv.com        Directs : NHL HD 13
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79698.ts
+#EXTINF:0,     List-Iptv.com        NFL NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79688.ts
+#EXTINF:0,     List-Iptv.com        NFL NOW HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79687.ts
+#EXTINF:0,     List-Iptv.com        NFL Red Zone ( Only Available On Sunday)
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79686.ts
+#EXTINF:0,     List-Iptv.com        NBA TV HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79668.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 1 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79666.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 2 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79663.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 3 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79662.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 4 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79661.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 5 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79660.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 6 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79659.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 7 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79658.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 8 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79657.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 9 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79656.ts
+#EXTINF:0,     List-Iptv.com        Directs :  NBA PASS 10 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79667.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 11 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79665.ts
+#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 12 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79664.ts
+#EXTINF:0,     List-Iptv.com        MLB NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79685.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 1
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79684.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 10
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79683.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 12
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79681.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 13
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79680.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 14
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79679.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 15
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79678.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 16
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79677.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 2
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79676.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 3
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79675.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 4
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79674.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 5
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79673.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 6
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79672.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 7
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79671.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 8
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79670.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 9
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79669.ts
+#EXTINF:0,     List-Iptv.com        WWE NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79854.ts
+#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 11
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79682.ts
+#EXTINF:0,     List-Iptv.com        DUNYA NEWS
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/73731.ts
+#EXTINF:0,     List-Iptv.com        CA :  OLN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79655.ts
+#EXTINF:0,     List-Iptv.com        CA : ABC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79654.ts
+#EXTINF:0,     List-Iptv.com        CA : ABC SPARK
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79653.ts
+#EXTINF:0,     List-Iptv.com        CA : AMC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79652.ts
+#EXTINF:0,     List-Iptv.com        CA : BNN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79651.ts
+#EXTINF:0,     List-Iptv.com        CA : BRAVO HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79650.ts
+#EXTINF:0,     List-Iptv.com        CA : CBC ATLANTIC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79649.ts
+#EXTINF:0,     List-Iptv.com        CA : CBC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79648.ts
+#EXTINF:0,     List-Iptv.com        CA : CBC NEWS HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79647.ts
+#EXTINF:0,     List-Iptv.com        CA : CBS FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79646.ts
+#EXTINF:0,     List-Iptv.com        CA : CHCH HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79645.ts
+#EXTINF:0,     List-Iptv.com        CA : CITY FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79644.ts
+#EXTINF:0,     List-Iptv.com        CA : CNN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79643.ts
+#EXTINF:0,     List-Iptv.com        CA : COMEDY HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79642.ts
+#EXTINF:0,     List-Iptv.com        CA : CP 24 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79641.ts
+#EXTINF:0,     List-Iptv.com        CA : CPAC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79640.ts
+#EXTINF:0,     List-Iptv.com        CA : CREATE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79639.ts
+#EXTINF:0,     List-Iptv.com        CA : CTV ATLANTIC
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79638.ts
+#EXTINF:0,     List-Iptv.com        CA : CTV FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79637.ts
+#EXTINF:0,     List-Iptv.com        CA : CTV NEWS HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79636.ts
+#EXTINF:0,     List-Iptv.com        CA : CW HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79635.ts
+#EXTINF:0,     List-Iptv.com        CA : DISNEY HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79634.ts
+#EXTINF:0,     List-Iptv.com        CA : DISNEY JR HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79633.ts
+#EXTINF:0,     List-Iptv.com        CA : DISNEY XD HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79632.ts
+#EXTINF:0,     List-Iptv.com        CA : DIY NETWORK HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79631.ts
+#EXTINF:0,     List-Iptv.com        CA : E! HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79630.ts
+#EXTINF:0,     List-Iptv.com        CA : Food Network HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79629.ts
+#EXTINF:0,     List-Iptv.com        CA : FOX HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79628.ts
+#EXTINF:0,     List-Iptv.com        CA : FX HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79627.ts
+#EXTINF:0,     List-Iptv.com        CA : FXX HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79626.ts
+#EXTINF:0,     List-Iptv.com        CA : GLOBAL FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79625.ts
+#EXTINF:0,     List-Iptv.com        CA : GSN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79624.ts
+#EXTINF:0,     List-Iptv.com        CA : HBO 2 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79623.ts
+#EXTINF:0,     List-Iptv.com        CA : HBO HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79622.ts
+#EXTINF:0,     List-Iptv.com        CA : HGTV HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79621.ts
+#EXTINF:0,     List-Iptv.com        CA : HISTORY HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79620.ts
+#EXTINF:0,     List-Iptv.com        CA : HLN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79619.ts
+#EXTINF:0,     List-Iptv.com        CA : Lifetime HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79618.ts
+#EXTINF:0,     List-Iptv.com        CA : ME TV HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79617.ts
+#EXTINF:0,     List-Iptv.com        CA : MSNBC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79615.ts
+#EXTINF:0,     List-Iptv.com        CA : NAT GEO HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79614.ts
+#EXTINF:0,     List-Iptv.com        CA : NAT GEO WILD HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79613.ts
+#EXTINF:0,     List-Iptv.com        CA : NBC FHD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79612.ts
+#EXTINF:0,     List-Iptv.com        CA : OWN HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79611.ts
+#EXTINF:0,     List-Iptv.com        CA : PBS HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79610.ts
+#EXTINF:0,     List-Iptv.com        CA : PEACH TREE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79609.ts
+#EXTINF:0,     List-Iptv.com        CA : SHOWCASE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79608.ts
+#EXTINF:0,     List-Iptv.com        CA : SLICE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79607.ts
+#EXTINF:0,     List-Iptv.com        CA : SPACE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79606.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET 360 HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79605.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET EAST HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79604.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET ONE HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79603.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET ONTARIO HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79602.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET PACIFIC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79601.ts
+#EXTINF:0,     List-Iptv.com        CA : SPORTSNET WEST HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79600.ts
+#EXTINF:0,     List-Iptv.com        CA : TLC HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79598.ts
+#EXTINF:0,     List-Iptv.com        CA : TSN HD 1
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79597.ts
+#EXTINF:0,     List-Iptv.com        CA : TSN HD 2
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79596.ts
+#EXTINF:0,     List-Iptv.com        CA : TSN HD 3
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79595.ts
+#EXTINF:0,     List-Iptv.com        CA : TSN HD 4
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79594.ts
+#EXTINF:0,     List-Iptv.com        CA : TSN HD 5
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79593.ts
+#EXTINF:0,     List-Iptv.com        CA : WEATHER CHANNEL HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79592.ts
+#EXTINF:0,     List-Iptv.com        CA : WORLD HD
+http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79591.ts
