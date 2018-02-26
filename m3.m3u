@@ -1,550 +1,1654 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,Sky_Movie_greats
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_greats/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,CSNnorthwestx
-http://tvecsnnorthwest-i.akamaihd.net/hls/live/219796/CSNnorthwestx/4296k/prog.m3u8
-#EXTM3U
-#EXTINF:-1,Sky_Movie_thriller
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_thriller/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,Sky_Movie_showcase
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_showcase/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,Sky_Movie_premium
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_premium/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,Sky_Movie_family
-http://wowza2.mysoltv.com:1992/UK_ENG_Sky_Movie_family/tracks-v1a1/index.m3u8
-#EXTM3U
-#EXTINF:-1,Channel(GOLDEN_HD)
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
-#EXTM3U
-#EXTINF:-1,fox11
-http://51.15.222.188/live/fox11/index.m3u8
-#EXTINF:-1,lake tahoe tv
-https://livestream-f.akamaihd.net/i/21822229_6450069_lsismiu9qnkaqjhpixw_1@42508/index_2320_av-p.m3u8?sd=10&dw=14400&rebase=on&hdntl=exp=1515296760~acl=%2fi%2f21822229_6450069_lsismiu9qnkaqjhpixw_1%4042508%2f*~data=hdntl~hmac=c5d8dee8c44bf955105e05fac471acacd704c7c59404b38297f1c59bec9f6b70
-#EXTINF:-1,ESPN HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/6668.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/5500.m3u8
-#EXTINF:-1,ESPN U HD
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/8793.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://gammaiptv.ddns.net:8127/live/akjfkdsjafakfjdlkfjlkanmfklasmclkajdsflkajflkamvlksdajlkfa/aksdfkeirfvknaefjainvoaeirfhjajaojdflajdlkfjakldfjalkjdfklajsfklajdfkljasdkflja/11275.m3u8
-#EXTINF:-1,NBC Sports Bay Area 
-http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Chicago
-http://tvecsnchicago-i.akamaihd.net//hls/live/219793/CSNchicagox/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Northwest
-http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
-#EXTINF:-1,NBC Sports Washington 
-http://tvecsnwashington-i.akamaihd.net/hls/live/219797/CSNwashingtonx/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Philadelphia Plus
-http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports California
-http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Philadelphia
-http://tvecsnphiladelph-i.akamaihd.net/hls/live/219794/CSNphiladelphiax/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Boston
-http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
-#EXTINF:-1,Arizona
+#EXTINF:0,PORTUGAL
+http://fui.me
+#EXTINF:0,RTP 1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,RTP 2
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:0,SIC HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4049.m3u8
+#EXTINF:0,TVI
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1695.m3u8
+#EXTINF:0,SIC NOTICIAS
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:0,RTP 3
+https://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,TVI24
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8
+#EXTINF:0,SIC MULHER
+http://asdp.ddns.net:8000/live/daniel/daniel/360.m3u8
+#EXTINF:0,SPORT TV+
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2101.m3u8
+#EXTINF:0,SPORT TV+ HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4222.m3u8
+#EXTINF:0,GLOBO
+http://185.26.174.67:12345/play/a018
+#EXTINF:0,PORTO CANAL
+http://213.13.26.11:1935/live/portocanal/TeamBlue.m3u8
+#EXTINF:0,SIC CARAS
+http://asdp.ddns.net:8000/live/daniel/daniel/362.m3u8
+#EXTINF:0,SIC RADICAL
+http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
+#EXTINF:0,CM TV
+http://asdp.ddns.net:8000/live/daniel/daniel/473.m3u8
+#EXTINF:0,CM TV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4223.m3u8
+#EXTINF:0,RTP MEMORIA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,24 KITCHEN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1518.m3u8
+#EXTINF:0,CANAL Q
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1936.m3u8
+#EXTINF:0,TVI FICCAO
+http://asdp.ddns.net:8000/live/daniel/daniel/482.m3u8
+#EXTINF:0,TVI REALITY
+http://4.31.30.145:9040/
+#EXTINF:0,SPORT TV 4K
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4209.m3u8
+#EXTINF:0,SPORT TV 1
+http://asdp.ddns.net:8000/live/daniel/daniel/177.m3u8
+#EXTINF:0,SPORT TV 1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4243.m3u8
+#EXTINF:0,SPORT TV 2
+http://asdp.ddns.net:8000/live/daniel/daniel/471.m3u8
+#EXTINF:0,SPORT TV 2 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2714.m3u8
+#EXTINF:0,SPORT TV 3
+http://asdp.ddns.net:8000/live/daniel/daniel/472.m3u8
+#EXTINF:0,SPORT TV 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2716.m3u8
+#EXTINF:0,SPORT TV 4
+http://asdp.ddns.net:8000/live/daniel/daniel/202.m3u8
+#EXTINF:0,SPORT TV 4 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2718.m3u8
+#EXTINF:0,SPORT TV 4 FHD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/3034.m3u8
+#EXTINF:0,SPORT TV 5
+http://asdp.ddns.net:8000/live/daniel/daniel/184.m3u8
+#EXTINF:0,SPORT TV 5 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2721.m3u8
+#EXTINF:0,BENFICA TV
+http://asdp.ddns.net:8000/live/daniel/daniel/475.m3u8
+#EXTINF:0,BENFICA TV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4242.m3u8
+#EXTINF:0,SPORTING TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4179.m3u8
+#EXTINF:0,SPORTING TV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1667.m3u8
+#EXTINF:0,EUROSPORT
+http://asdp.ddns.net:8000/live/daniel/daniel/499.m3u8
+#EXTINF:0,EUROSPORT HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1575.m3u8
+#EXTINF:0,EUROSPORT 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1576.m3u8
+#EXTINF:0,EUROSPORT NEWS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1578.m3u8
+#EXTINF:0,MOTORSPORT.TV
+http://185.26.174.67:12345/play/a023
+#EXTINF:0,MOTORVISION TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1614.m3u8
+#EXTINF:0,PFC
+http://asdp.ddns.net:8000/live/daniel/daniel/221.m3u8
+#EXTINF:0,FUEL TV
+http://wowza2.mysoltv.com:1992/USA_FUEL_HD/index.m3u8
+#EXTINF:0,A BOLA TV
+http://asdp.ddns.net:8000/live/daniel/daniel/181.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://asdp.ddns.net:8000/live/daniel/daniel/481.m3u8
+#EXTINF:0,DISNEY JUNIOR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1567.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://asdp.ddns.net:8000/live/daniel/daniel/393.m3u8
+#EXTINF:0,PANDA
+http://asdp.ddns.net:8000/live/daniel/daniel/493.m3u8
+#EXTINF:0,PANDA BIGGS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1536.m3u8
+#EXTINF:0,BABY TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2612.m3u8
+#EXTINF:0,BABY FIRST
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1532.m3u8
+#EXTINF:0,SIC K
+http://asdp.ddns.net:8000/live/andre/andre/497.m3u8
+#EXTINF:0,JIMJAM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1600.m3u8
+#EXTINF:0,SUPER RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
+#EXTINF:0,TVCINE 1
+http://185.26.174.67:12345/play/a029
+#EXTINF:0,TVCINE 1 HD
+http://asdp.ddns.net:8000/live/daniel/daniel/405.m3u8
+#EXTINF:0,TVCINE 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4191.m3u8
+#EXTINF:0,TVCINE 2 HD
+http://asdp.ddns.net:8000/live/daniel/daniel/301.m3u8
+#EXTINF:0,TVCINE 3
+http://185.26.174.67:12345/play/a02a
+#EXTINF:0,TVCINE 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4220.m3u8
+#EXTINF:0,TVCINE 4
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4189.m3u8
+#EXTINF:0,TVCINE 4 HD
+http://asdp.ddns.net:8000/live/daniel/daniel/302.m3u8
+#EXTINF:0,TVSERIES
+http://185.26.174.67:12345/play/a02b
+#EXTINF:0,TVSERIES HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1701.m3u8
+#EXTINF:0,HOLLYWOOD
+http://asdp.ddns.net:8000/live/daniel/daniel/205.m3u8
+#EXTINF:0,HOLLYWOOD HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1596.m3u8
+#EXTINF:0,CINEMUNDO
+http://asdp.ddns.net:8000/live/daniel/daniel/494.m3u8
+#EXTINF:0,FOX MOVIES
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2086.m3u8
+#EXTINF:0,FOX MOVIES HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1588.m3u8
+#EXTINF:0,FOX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2605.m3u8
+#EXTINF:0,FOX HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1586.m3u8
+#EXTINF:0,AXN
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4181.m3u8
+#EXTINF:0,AXN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4214.m3u8
+#EXTINF:0,FOX LIFE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4183.m3u8
+#EXTINF:0,FOX LIFE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1587.m3u8
+#EXTINF:0,FOX CRIME
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2084.m3u8
+#EXTINF:0,FOX CRIME HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1585.m3u8
+#EXTINF:0,FOX COMEDY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4182.m3u8
+#EXTINF:0,FOX COMEDY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1583.m3u8
+#EXTINF:0,AXN WHITE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4180.m3u8
+#EXTINF:0,AXN WHITE HD
+http://asdp.ddns.net:8000/live/daniel/daniel/358.m3u8
+#EXTINF:0,AXN BLACK
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4162.m3u8
+#EXTINF:0,AXN BLACK HD
+http://asdp.ddns.net:8000/live/daniel/daniel/359.m3u8
+#EXTINF:0,SYFY
+http://185.26.174.67:12345/play/a020
+#EXTINF:0,SYFY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1671.m3u8
+#EXTINF:0,AMC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4186.m3u8
+#EXTINF:0,AMC HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1523.m3u8
+#EXTINF:0,MTV PORTUGAL
+http://185.26.174.67:12345/play/a01f
+#EXTINF:0,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:0,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:0,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+#EXTINF:0,VH1 EUROPE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,MCM TOP
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1925.m3u8
+#EXTINF:0,MCM POP
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1608.m3u8
+#EXTINF:0,C MUSIC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1541.m3u8
+#EXTINF:0,MEZZO
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/67/index.m3u8
+#EXTINF:0,MEZZO LIVE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8
+#EXTINF:0,I-CONCERTS
+http://188.165.13.95:8080/106/index.m3u8
+#EXTINF:0,AFRO MUSIC
+http://4.31.30.145:9034
+#EXTINF:0,TRACE TV
+http://185.26.174.67:12345/play/a02e
+#EXTINF:0,DISCOVERY
+http://185.26.174.67:12345/play/a01h
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2092.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://asdp.ddns.net:8000/live/daniel/daniel/502.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://asdp.ddns.net:8000/live/daniel/daniel/479.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1619.m3u8
+#EXTINF:0,HISTORIA
+http://185.26.174.67:12345/play/a01g
+#EXTINF:0,ODISSEIA
+http://asdp.ddns.net:8000/live/daniel/daniel/498.m3u8
+#EXTINF:0,A&E
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1520.m3u8
+#EXTINF:0,TLC
+http://4.31.30.145:9043
+#EXTINF:0,E! ENTERTAINMENT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4175.m3u8
+#EXTINF:0,E! ENTERTAINMENT HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1569.m3u8
+#EXTINF:0,TRAVEL CHANNEL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2599.m3u8
+#EXTINF:0,FTV
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/625/index.m3u8
+#EXTINF:0,FTV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1592.m3u8
+#EXTINF:0,FOOD NETWORK
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1581.m3u8
+#EXTINF:0,CBS REALITY
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/125/index.m3u8
+#EXTINF:0,BBC ENTERTAINMENT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1534.m3u8
+#EXTINF:0,GLOBO PREMIUM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4198.m3u8
+#EXTINF:0,GLOBO PREMIUM HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2208.m3u8
+#EXTINF:0,TV RECORD
+http://asdp.ddns.net:8000/live/daniel/daniel/420.m3u8
+#EXTINF:0,TV RECORD HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2209.m3u8
+#EXTINF:0,FOX NEWS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+#EXTINF:0,EURONEWS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1574.m3u8
+#EXTINF:0,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:0,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:0,RAI NEWS 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
+#EXTINF:0,TVE 24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:0,DW (ENGLISH)
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:0,FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,RECORD NEWS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7730.m3u8
+#EXTINF:0,CANCAO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:0,AR TV
+http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u
+#EXTINF:0,TPA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2637.m3u8
+#EXTINF:0,TCV
+http://213.13.26.11:1935/live/rtc_teste/TeamBlue.m3u8
+#EXTINF:0,VOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/index.m3u8
+#EXTINF:0,RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
+#EXTINF:0,TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
+#EXTINF:0,TVEi
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2641.m3u8
+#EXTINF:0,M6
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4185.m3u8
+#EXTINF:0,TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,RAI 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/index.m3u8
+#EXTINF:0,TOROS TV
+http://51.15.144.38:3222/play/a01m/index.m3u8
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
+#EXTINF:0,CACA & PESCA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1720.m3u8
+#EXTINF:0,CACAVISION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1543.m3u8
+#EXTINF:0,FIGHT NETWORK
+http://tv.bmx-tv.top:1935/live/2.smil/playlist.m3u8
+#EXTINF:0,FIGHT NETWORK HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2614.m3u8
+#EXTINF:0,M6 MUSIQUE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4779.m3u8
+#EXTINF:0,DJING CLASSIC
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,DJING DANCE FLOOR MUSIC
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJING HITS
+http://www.djing.com/tv/04.m3u8
+#EXTINF:0,DJING IBIZA
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,MCS EXTREME
+http://185.26.174.67:12345/play/a022
+#EXTINF:0,MCS LIFESTYLE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1923.m3u8
+#EXTINF:0,SUNDANCE TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1905.m3u8
+#EXTINF:0,BARCA TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7385.m3u8
+#EXTINF:0,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0,MUTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7603.m3u8
+#EXTINF:0,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,NBA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2620.m3u8
+#EXTINF:0,KOMBAT SPORT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4782.m3u8
+#EXTINF:0,OUTDOOR CHANNEL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/90/index.m3u8
+#EXTINF:0,CRIME & INVESTIGATION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4174.m3u8
+#EXTINF:0,DISCOVERY SHOWCASE
+http://asdp.ddns.net:8000/live/daniel/daniel/478.m3u8
+#EXTINF:0,FINE LIVING NETWORK
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/index.m3u8
+#EXTINF:0,REDE TV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:0,BAND
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+#EXTINF:0,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:0,SBT HD
+http://srv6.zoeweb.tv:1935/z343-live/stream/playlist.m3u8
+#EXTINF:0,CANAL 180
+http://noscdn2.connectedviews.com:8888/live/smil:canal180.smil/TeamBlue.m3u8
+#EXTINF:0,RTP AFRICA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,RTP ACORES
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b640000_slpt.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play
+#EXTINF:0,ARROIOS TV
+http://213.13.26.11:1935/live/luis/livestream.m3u
+#EXTINF:0,BRASIL
+http://0.0.0.1234
+#EXTINF:0,TV ESCOLA
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8
+#EXTINF:0,TV BRASIL
+http://ebctvbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctvbrasil/_definst_/live.m3u8
+#EXTINF:0,RECORD
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0,RECORD SP
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/tv.m3u8
+#EXTINF:0,REDE VIDA
+http://hls.cdn.upx.net.br:1935/74cc/myStream.sdp/live.m3u8
+#EXTINF:0,APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+#EXTINF:0,CANCAO NOVA
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:0,REDE TV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w83762451.m3u8
+#EXTINF:0,REDE RECORD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7729.m3u8
+#EXTINF:0,BAND
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+#EXTINF:0,SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1279440291_b216000_sleng.m3u8
+#EXTINF:0,GLOBO RJ
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7751.m3u8
+#EXTINF:0,GLOBO SP
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7750.m3u8
+#EXTINF:0,SPORTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7726.m3u8
+#EXTINF:0,SPORTV2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7725.m3u8
+#EXTINF:0,SPORTV3
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7724.m3u8
+#EXTINF:0,GLOBO NEWS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7749.m3u8
+#EXTINF:0,GNT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7747.m3u8
+#EXTINF:0,ESPN BRASIL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7758.m3u8
+#EXTINF:0,ESPN
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7759.m3u8
+#EXTINF:0,FOX LIFE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7755.m3u8
+#EXTINF:0,FOX SPORTS BR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7754.m3u8
+#EXTINF:0,FOX SPORTS 2 BR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7753.m3u8
+#EXTINF:0,BAND SPORTS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7767.m3u8
+#EXTINF:0,BAND NEWS
+http://188.165.13.95:8080/62/index.m3u8
+#EXTINF:0,DISCOVERY TURBO
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7762.m3u8
+#EXTINF:0,FUTURA
+http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
+#EXTINF:0,GLOOB
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7748.m3u8
+#EXTINF:0,NICKELODEON
+http://tv.ec.cx:1935/redecanais-stream-nick/myStream/playlist.m3u8
+#EXTINF:0,RETRO CARTOON
+http://stmv2.srvstm.com/cartoonr/cartoonr/playlist.m3u8
+#EXTINF:0,DISNEY XD
+http://tv.ec.cx:1935/redecanais-stream-disneyxd/myStream/playlist.m3u8
+#EXTINF:0,MTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7735.m3u8
+#EXTINF:0,FOX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7756.m3u8
+#EXTINF:0,FX
+http://tv.ec.cx:1935/redecanais-stream-fox/myStream/chunklist.m3u8
+#EXTINF:0,TBS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7721.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7763.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7741.m3u8
+#EXTINF:0,SYFY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7722.m3u8
+#EXTINF:0,I SAT
+http://3-120heat.pulsedmedia.com/public-llave1/kr/isat/Stream(03).m3u8
+#EXTINF:0,CANAL BRASIL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7766.m3u8
+#EXTINF:0,MEGAPIX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7736.m3u8
+#EXTINF:0,PRIME BOX BRAZIL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7732.m3u8
+#EXTINF:0,STUDIO UNIVERSAL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7723.m3u8
+#EXTINF:0,TCM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7720.m3u8
+#EXTINF:0,TELECINE PREMIUM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7715.m3u8
+#EXTINF:0,TELECINE ACTION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7719.m3u8
+#EXTINF:0,TELECINE TOUCH
+http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.ts
+#EXTINF:0,TELECINE FUN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7717.m3u8
+#EXTINF:0,TELECINE PIPOCA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7716.m3u8
+#EXTINF:0,TELECINE CULT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7718.m3u8
+#EXTINF:0,HBO
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7746.m3u8
+#EXTINF:0,HBO2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7742.m3u8
+#EXTINF:0,HBO PLUS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7744.m3u8
+#EXTINF:0,HBO FAMILY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7745.m3u8
+#EXTINF:0,HBO SIGNATURE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7743.m3u8
+#EXTINF:0,MAX UP
+http://3-120heat.pulsedmedia.com/public-llave1/kr/m4x_up/Stream(03).m3u8
+#EXTINF:0,MAX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7740.m3u8
+#EXTINF:0,MAX PRIME
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7739.m3u8
+#EXTINF:0,MAX PRIME *E
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7738.m3u8
+#EXTINF:0,PREMIERE 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7734.m3u8
+#EXTINF:0,PREMIERE 5
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7733.m3u8
+#EXTINF:0,COMBATE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7764.m3u8
+#EXTINF:0,ALL SPORTS
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0,ESPORTE INTERATIVO
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7757.m3u8
+#EXTINF:0,ESPORTE INTERATIVO 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7760.m3u8
+#EXTINF:0,SIC
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+#EXTINF:0,RAI 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/index.m3u8
+#EXTINF:0,TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,ALEMANHA
+http://0.0.0.1234
+#EXTINF:0,Das Erste
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/master.m3u8
+#EXTINF:0,ZDF
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7440.m3u8
+#EXTINF:0,RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/658/index.m3u8
+#EXTINF:0,RTL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/454/index.m3u8
+#EXTINF:0,Sat.1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/756/index.m3u8
+#EXTINF:0,Sat.1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/483/index.m3u8
+#EXTINF:0,ProSieben
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/757/index.m3u8
+#EXTINF:0,ProSieben HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/641/index.m3u8
+#EXTINF:0,kabel eins
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/758/index.m3u8
+#EXTINF:0,kabel eins HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/642/index.m3u8
+#EXTINF:0,RTL II
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/659/index.m3u8
+#EXTINF:0,RTL II HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/457/index.m3u8
+#EXTINF:0,VOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/661/index.m3u8
+#EXTINF:0,VOX HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/455/index.m3u8
+#EXTINF:0,3SAT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7553.m3u8
+#EXTINF:0,arte
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7550.m3u8
+#EXTINF:0,arte HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/777/index.m3u8
+#EXTINF:0,ONE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7417.m3u8
+#EXTINF:0,sixx
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/693/index.m3u8
+#EXTINF:0,sixx HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/643/index.m3u8
+#EXTINF:0,DMAX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/768/index.m3u8
+#EXTINF:0,Servus TV Deutschland
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/438/index.m3u8
+#EXTINF:0,ProSieben MAXX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/761/index.m3u8
+#EXTINF:0,ProSieben MAXX HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/644/index.m3u8
+#EXTINF:0,NITRO
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/662/index.m3u8
+#EXTINF:0,Sat.1 Gold
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/760/index.m3u8
+#EXTINF:0,Zee One
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/459/index.m3u8
+#EXTINF:0,NDR
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:0,NDR HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7513.m3u8
+#EXTINF:0,WDR
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8
+#EXTINF:0,WDR HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7441.m3u8
+#EXTINF:0,hr
+http://livestream-1.hr.de:80/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:0,hr HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/788/index.m3u8
+#EXTINF:0,MDR HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/785/index.m3u8
+#EXTINF:0,rbb HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/783/index.m3u8
+#EXTINF:0,1-2-3 TV
+http://123tv.cdn.ses-ps.com/index.m3u8
+#EXTINF:0,1-2-3 TV HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/450/index.m3u8
+#EXTINF:0,ORF eins
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7416.m3u8
+#EXTINF:0,ORF 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7511.m3u8
+#EXTINF:0,tagesschau24
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+#EXTINF:0,N24
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/759/index.m3u8
+#EXTINF:0,N24 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/447/index.m3u8
+#EXTINF:0,N24 Doku
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/685/index.m3u8
+#EXTINF:0,n-tv
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/664/index.m3u8
+#EXTINF:0,n-tv HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/456/index.m3u8
+#EXTINF:0,kabel eins Doku
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/762/index.m3u8
+#EXTINF:0,DW
+http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8
+#EXTINF:0,BBC World News
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:0,EuroNews
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/802/index.m3u8
+#EXTINF:0,France 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,France 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,Sport1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/774/index.m3u8
+#EXTINF:0,Sport1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/453/index.m3u8
+#EXTINF:0,Sport1 US HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7456.m3u8
+#EXTINF:0,Eurosport
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/682/index.m3u8
+#EXTINF:0,Eurosport 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7428.m3u8
+#EXTINF:0,Sky Sport News
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/460/index.m3u8
+#EXTINF:0,Sky Sport News HD
+https://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-3400.m3u8
+#EXTINF:0,Sky Sport 1 DE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/737/index.m3u8
+#EXTINF:0,Sky Sport 2 DE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/733/index.m3u8
+#EXTINF:0,Sky Sport 3 DE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7469.m3u8
+#EXTINF:0,Sky Sport 4 DE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7467.m3u8
+#EXTINF:0,Sky Sport Austria
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/746/index.m3u8
+#EXTINF:0,SKY SPORT BUNDESLIGA 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/725/index.m3u8
+#EXTINF:0,SKY SPORT BUNDESLIGA 1 HD
+http://5.255.90.209:5002/play/a00y/index.m3u8
+#EXTINF:0,SKY SPORT BUNDESLIGA 3
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7401.m3u8
+#EXTINF:0,sportdigital HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7399.m3u8
+#EXTINF:0,Super RTL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/660/index.m3u8
+#EXTINF:0,Super RTL Hd
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/468/index.m3u8
+#EXTINF:0,KiKa
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7524.m3u8
+#EXTINF:0,Disney Channel
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/449/index.m3u8
+#EXTINF:0,Toggo Plus
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/665/index.m3u8
+#EXTINF:0,Disney Jr.
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7540.m3u8
+#EXTINF:0,Disney Jr. HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/708/index.m3u8
+#EXTINF:0,Disney XD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7539.m3u8
+#EXTINF:0,Junior
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7526.m3u8
+#EXTINF:0,Boomerang
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7435.m3u8
+#EXTINF:0,Cartoon Network
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7434.m3u8
+#EXTINF:0,Nickelodeon
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/429/index.m3u8
+#EXTINF:0,Disney Cinemagic
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/745/index.m3u8
+#EXTINF:0,Disney Cinemagic HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/730/index.m3u8
+#EXTINF:0,Anixe
+http://video1.anixehd.tv:8080/Apple/wifistream.m3u8
+#EXTINF:0,MTV Dance
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:0,MTV Hits
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:0,MTV HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/465/index.m3u8
+#EXTINF:0,MTV Rocks
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+#EXTINF:0,Mezzo Live HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/153/index.m3u8
+#EXTINF:0,VH1 Europe
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,C Music
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1541.m3u8
+#EXTINF:0,VIVA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/431/index.m3u8
+#EXTINF:0,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/chunklist.m3u8
+#EXTINF:0,Deluxe Music HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/451/index.m3u8
+#EXTINF:0,bliz
+http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8
+#EXTINF:0,Discovery
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/715/index.m3u8
+#EXTINF:0,Discovery HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/738/index.m3u8
+#EXTINF:0,Fine Living Network
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/941/index.m3u8
+#EXTINF:0,Food Network
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1581.m3u8
+#EXTINF:0,NatGeo
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7514.m3u8
+#EXTINF:0,NatGeo HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/731/index.m3u8
+#EXTINF:0,Nat Geo Wild
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/742/index.m3u8
+#EXTINF:0,Nat Geo Wild HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/735/index.m3u8
+#EXTINF:0,Planet
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7414.m3u8
+#EXTINF:0,TLC
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/692/index.m3u8
+#EXTINF:0,Sonnenklar TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/763/index.m3u8
+#EXTINF:0,TV5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,Sky Cinema
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/712/index.m3u8
+#EXTINF:0,Sky Cinema HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/739/index.m3u8
+#EXTINF:0,Sky Cinema +1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7494.m3u8
+#EXTINF:0,Sky Cinema +1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/705/index.m3u8
+#EXTINF:0,Sky Cinema +24
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7493.m3u8
+#EXTINF:0,Sky Cinema +24 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/706/index.m3u8
+#EXTINF:0,Sky Cinema Action
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/700/index.m3u8
+#EXTINF:0,Sky Arts HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/476/index.m3u8
+#EXTINF:0,Sky Atlantic
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/723/index.m3u8
+#EXTINF:0,Sky Atlantic HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/729/index.m3u8
+#EXTINF:0,Sky Cinema Comedy
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7487.m3u8
+#EXTINF:0,Sky Cinema Emotion
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/717/index.m3u8
+#EXTINF:0,Sky Cinema Nostalgie
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/728/index.m3u8
+#EXTINF:0,Sky Cinema Family
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/727/index.m3u8
+#EXTINF:0,Sky Cinema Hits
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/749/index.m3u8
+#EXTINF:0,Sky Cinema Hits HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7482.m3u8
+#EXTINF:0,Sky Select
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/716/index.m3u8
+#EXTINF:0,Sky Select 1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7474.m3u8
+#EXTINF:0,Sky Select 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7407.m3u8
+#EXTINF:0,Sky Select 3
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7406.m3u8
+#EXTINF:0,Sky Select 4
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7405.m3u8
+#EXTINF:0,Sky Select 5
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7404.m3u8
+#EXTINF:0,Sky Select 6
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7403.m3u8
+#EXTINF:0,Sky Select 7
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7402.m3u8
+#EXTINF:0,Sky Krimi
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/718/index.m3u8
+#EXTINF:0,E! Entertainment
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7430.m3u8
+#EXTINF:0,History
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7530.m3u8
+#EXTINF:0,History HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/698/index.m3u8
+#EXTINF:0,Heimatkanal
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/744/index.m3u8
+#EXTINF:0,13th Street
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7554.m3u8
+#EXTINF:0,13th Street HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/734/index.m3u8
+#EXTINF:0,FOX HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/478/index.m3u8
+#EXTINF:0,Fox Serie
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7533.m3u8
+#EXTINF:0,RTL Passion
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/721/index.m3u8
+#EXTINF:0,ProSieben FUN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7413.m3u8
+#EXTINF:0,RTL Crime
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/719/index.m3u8
+#EXTINF:0,SyFy
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/747/index.m3u8
+#EXTINF:0,SyFy HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7451.m3u8
+#EXTINF:0,Kinowelt TV
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/726/index.m3u8
+#EXTINF:0,TNT Comedy
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7449.m3u8
+#EXTINF:0,TNT Film
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/740/index.m3u8
+#EXTINF:0,TNT Serie
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/751/index.m3u8
+#EXTINF:0,MGM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7521.m3u8
+#EXTINF:0,Motorvision
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7422.m3u8
+#EXTINF:0,Romance TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/461/index.m3u8
+#EXTINF:0,RTL Living
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/470/index.m3u8
+#EXTINF:0,Universal Channel HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7394.m3u8
+#EXTINF:0,AXN
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7548.m3u8
+#EXTINF:0,BBC Entertainment
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1534.m3u8
+#EXTINF:0,Classica
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7546.m3u8
+#EXTINF:0,FTV
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/625/index.m3u8
+#EXTINF:0,Jukebox
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/477/index.m3u8
+#EXTINF:0,Mezzo
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/67/index.m3u8
+#EXTINF:0,MOTORSPORT.TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7520.m3u8
+#EXTINF:0,Trace TV
+http://185.26.174.67:12345/play/a02e
+#EXTINF:0,ESPANHA
+http://0.0.0.1234
+#EXTINF:0,LA 1
+http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8
+#EXTINF:0,LA 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7352.m3u8
+#EXTINF:0,ANTENA 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+#EXTINF:0,ANTENA 3 HD
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/index_4_av-b.m3u8
+#EXTINF:0,CUATRO
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+#EXTINF:0,CUATRO HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/616/index.m3u8
+#EXTINF:0,TELECINCO
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/617/index.m3u8
+#EXTINF:0,TELECINCO HD
+http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/617/index.m3u8
+#EXTINF:0,LA SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+#EXTINF:0,LA SEXTA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/618/index.m3u8
+#EXTINF:0,#0
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/611/index.m3u8
+#EXTINF:0,TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+#EXTINF:0,LA OTRA
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+#EXTINF:0,MOVISTAR SERIES XTRA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7373.m3u8
+#EXTINF:0,MOVISTAR SERIES XTRA HD
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/568/index.m3u8
+#EXTINF:0,FOX
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/608/index.m3u8
+#EXTINF:0,FOX HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7312.m3u8
+#EXTINF:0,AXN
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/610/index.m3u8
+#EXTINF:0,AXN HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/579/index.m3u8
+#EXTINF:0,TNT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7335.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7370.m3u8
+#EXTINF:0,COMEDY CENTRAL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/572/index.m3u8
+#EXTINF:0,CALLE 13
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7381.m3u8
+#EXTINF:0,COSMO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0,COSMO HD
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/570/index.m3u8
+#EXTINF:0,AMC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7389.m3u8
+#EXTINF:0,AMC HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/614/index.m3u8
+#EXTINF:0,FOX LIFE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:0,FOX LIFE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/567/index.m3u8
+#EXTINF:0,AXN WHITE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/609/index.m3u8
+#EXTINF:0,SYFY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7339.m3u8
+#EXTINF:0,NON STOP PEOPLE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7298.m3u8
+#EXTINF:0,FDF
+https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
+#EXTINF:0,NEOX
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+#EXTINF:0,ATRESERIES
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+#EXTINF:0,ATRESERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8
+#EXTINF:0,ENERGY
+https://mdslivehls-i.akamaihd.net/hls/live/571649/energy/bitrate_1.m3u8
+#EXTINF:0,MOVISTAR ESTRENOS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7377.m3u8
+#EXTINF:0,MOVISTAR XTRA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7372.m3u8
+#EXTINF:0,MOVISTAR ACCION
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/605/index.m3u8
+#EXTINF:0,MOVISTAR ACCION HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/576/index.m3u8
+#EXTINF:0,MOVISTAR COMEDIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/606/index.m3u8
+#EXTINF:0,MOVISTAR COMEDIA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/580/index.m3u8
+#EXTINF:0,MOVISTAR DCINE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/607/index.m3u8
+#EXTINF:0,MOVISTAR DCINE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7304.m3u8
+#EXTINF:0,MOVISTAR CINE ESPANOL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7305.m3u8
+#EXTINF:0,TCM
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7338.m3u8
+#EXTINF:0,HOLLYWOOD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7355.m3u8
+#EXTINF:0,HOLLYWOOD HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/577/index.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7344.m3u8
+#EXTINF:0,MOVISTAR FUTBOL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7303.m3u8
+#EXTINF:0,MOVISTAR FUTBOL HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/575/index.m3u8
+#EXTINF:0,BEIN SPORTS LALIGA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7321.m3u8
+#EXTINF:0,BEIN SPORTS LALIGA HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/574/index.m3u8
+#EXTINF:0,BEIN SPORTS
+http://51.15.144.38:3222/play/a02b/index.m3u8
+#EXTINF:0,BEIN SPORTS HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/566/index.m3u8
+#EXTINF:0,MOVISTAR DEPORTES 1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7378.m3u8
+#EXTINF:0,MOVISTAR DEPORTES 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7367.m3u8
+#EXTINF:0,MOVISTAR FORMULA 1
+http://51.15.144.38:3222/play/a01w/index.m3u8
+#EXTINF:0,MOVISTAR FORMULA 1 HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/612/index.m3u8
+#EXTINF:0,MOVISTAR MOTO GP
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7350.m3u8
+#EXTINF:0,MOVISTAR GOLF
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7376.m3u8
+#EXTINF:0,MOVISTAR GOLF HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/569/index.m3u8
+#EXTINF:0,GOL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7310.m3u8
+#EXTINF:0,LALIGA TV
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:0,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0,BARCA TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7385.m3u8
+#EXTINF:0,EUROSPORT 1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7360.m3u8
+#EXTINF:0,EUROSPORT 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7359.m3u8
+#EXTINF:0,TELEDEPORTE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7296.m3u8
+#EXTINF:0,CAZA Y PESCA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7371.m3u8
+#EXTINF:0,IBERALIA
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/603/index.m3u8
+#EXTINF:0,TOROS TV
+http://51.15.144.38:3222/play/a01m/index.m3u8
+#EXTINF:0,TOROS TV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2636.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7299.m3u8
+#EXTINF:0,NATGEO WILD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7300.m3u8
+#EXTINF:0,HISTORIA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7356.m3u8
+#EXTINF:0,DISCOVERY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7366.m3u8
+#EXTINF:0,ODISEA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7375.m3u8
+#EXTINF:0,A&E
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7390.m3u8
+#EXTINF:0,VIAJAR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7333.m3u8
+#EXTINF:0,CRIMEN & INVESTIGATION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7317.m3u8
+#EXTINF:0,CANAL COCINA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7319.m3u8
+#EXTINF:0,DECASA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7379.m3u8
+#EXTINF:0,DIVINITY
+https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
+#EXTINF:0,NOVA
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8
+#EXTINF:0,MEGA
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:0,BE MAD
+https://mdslivehls-i.akamaihd.net/hls/live/571646/bemad/bitrate_1.m3u8
+#EXTINF:0,BABY TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7322.m3u8
+#EXTINF:0,CANAL PANDA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7374.m3u8
+#EXTINF:0,NICKELODEON
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7512.m3u8
+#EXTINF:0,DISNEY XD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7363.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7365.m3u8
+#EXTINF:0,BOING
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7383.m3u8
+#EXTINF:0,CLAN
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7318.m3u8
+#EXTINF:0,MTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7349.m3u8
+#EXTINF:0,VH1 EUROPE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,MEZZO
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/67/index.m3u8
+#EXTINF:0,TVE 24H
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:0,TV GALICIA
+http://europa-crtvg.flumotion.com/crtvg/europa/playlist.m3u8
+#EXTINF:0,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,FOX NEWS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+#EXTINF:0,FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,RUSSIA TODAY ESPAÑOL
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/211/index.m3u8
+#EXTINF:0,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:0,TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,DW LATINO
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+#EXTINF:0,LAS ESTRELLAS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,TELESUR
+http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8
+#EXTINF:0,FRANCA
+http://0.0.0.1234
+#EXTINF:0,TF1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4742.m3u8
+#EXTINF:0,FRANCE 2 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4793.m3u8
+#EXTINF:0,FRANCE 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4791.m3u8
+#EXTINF:0,CANAL+ HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4821.m3u8
+#EXTINF:0,FRANCE 5 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4789.m3u8
+#EXTINF:0,M6
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4185.m3u8
+#EXTINF:0,ARTE HD
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/804/index.m3u8
+#EXTINF:0,C8 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4825.m3u8
+#EXTINF:0,W9 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4731.m3u8
+#EXTINF:0,TMC HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4740.m3u8
+#EXTINF:0,NT1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4766.m3u8
+#EXTINF:0,NRJ12 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4768.m3u8
+#EXTINF:0,LA CHAINE PARLAMENTAIRE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/828/index.m3u8
+#EXTINF:0,FRANCE 4 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4790.m3u8
+#EXTINF:0,BFM TV
+http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
+#EXTINF:0,GULLI HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4786.m3u8
+#EXTINF:0,FRANCE Ô
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4788.m3u8
+#EXTINF:0,L'EQUIPE 21 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4781.m3u8
+#EXTINF:0,6TER HD
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/417/index.m3u8
+#EXTINF:0,NUMERO 23 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4765.m3u8
+#EXTINF:0,RMC DECOUVERTE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4754.m3u8
+#EXTINF:0,CHERIE 25 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4815.m3u8
+#EXTINF:0,RTL9
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/486/index.m3u8
+#EXTINF:0,RTL9 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4753.m3u8
+#EXTINF:0,beiN SPORTS 1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4830.m3u8
+#EXTINF:0,beiN SPORTS 2 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4829.m3u8
+#EXTINF:0,beiN SPORTS 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4828.m3u8
+#EXTINF:0,beiN SPORTS MAX 4 FR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4836.m3u8
+#EXTINF:0,beiN SPORTS MAX 5 FR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4835.m3u8
+#EXTINF:0,beiN SPORTS MAX 6 FR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4834.m3u8
+#EXTINF:0,beiN SPORTS MAX 7 FR
+http://185.115.33.90:8080/hls/BEINMAX7.m3u
+#EXTINF:0,beiN SPORTS MAX 8 FR
+http://185.115.33.90:8080/hls/BEINMAX8.m3u
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4831.m3u8
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4837.m3u8
+#EXTINF:0,SFR SPORT 1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4750.m3u8
+#EXTINF:0,SFR SPORT 2 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4749.m3u8
+#EXTINF:0,SFR SPORT 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4748.m3u8
+#EXTINF:0,SFR SPORT 5
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4747.m3u8
+#EXTINF:0,EUROSPORT FR HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4796.m3u8
+#EXTINF:0,EUROSPORT 2 FR HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4795.m3u8
+#EXTINF:0,TEVA HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4743.m3u8
+#EXTINF:0,AB 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/484/index.m3u8
+#EXTINF:0,AB 1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4843.m3u8
+#EXTINF:0,CANAL+ CINEMA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4824.m3u8
+#EXTINF:0,CANAL+ SPORT
+http://stream.sport-ch.com/16974f3ca2725490fa6655629eefe8f7/10077/index.m3u8
+#EXTINF:0,CANAL+ SPORT HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4819.m3u8
+#EXTINF:0,CANAL+ SERIES
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4820.m3u8
+#EXTINF:0,CANAL+ FAMILY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4822.m3u8
+#EXTINF:0,CANAL+ DECALE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4823.m3u8
+#EXTINF:0,DISNEY CHANNEL HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4803.m3u8
+#EXTINF:0,DISNEY CINEMA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4801.m3u8
+#EXTINF:0,DISNEY CINEMA HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4802.m3u8
+#EXTINF:0,CINE+ PREMIER
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4810.m3u8
+#EXTINF:0,OCS MAX HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4761.m3u8
+#EXTINF:0,OCS CITY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4763.m3u8
+#EXTINF:0,OCS CHOC HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4764.m3u8
+#EXTINF:0,OCS GEANTS HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4762.m3u8
+#EXTINF:0,ACTION HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4841.m3u8
+#EXTINF:0,TCM CINEMA HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4745.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4760.m3u8
+#EXTINF:0,PLANETE+ HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4757.m3u8
+#EXTINF:0,NAT GEO WILD HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4774.m3u8
+#EXTINF:0,VOYAGE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4732.m3u8
+#EXTINF:0,E! ENTERTAINMENT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4798.m3u8
+#EXTINF:0,M6 MUSIQUE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4779.m3u8
+#EXTINF:0,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:0,TRACE URBAN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4738.m3u8
+#EXTINF:0,TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4736.m3u8
+#EXTINF:0,COMEDIE+
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4807.m3u8
+#EXTINF:0,13E RUE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4846.m3u8
+#EXTINF:0,SYFY HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4746.m3u8
+#EXTINF:0,SERIE CLUB HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4751.m3u8
+#EXTINF:0,MTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4775.m3u8
+#EXTINF:0,MANGAS
+http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,GONG
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:0,CINE+ FRISSON
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4811.m3u8
+#EXTINF:0,CINE+ EMOTION HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4813.m3u8
+#EXTINF:0,CINE+ FAMIZ
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4812.m3u8
+#EXTINF:0,CINE+ CLASSIC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4814.m3u8
+#EXTINF:0,CINE POLAR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4808.m3u8
+#EXTINF:0,CINE FX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4809.m3u8
+#EXTINF:0,DISNEY JUNIOR HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4800.m3u8
+#EXTINF:0,NICKELODEON JUNIOR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4772.m3u8
+#EXTINF:0,TIJI
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/143/index.m3u8
+#EXTINF:0,PIWI+
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4758.m3u8
+#EXTINF:0,BOOMERANG
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4826.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4817.m3u8
+#EXTINF:0,NICKELODEON HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4770.m3u8
+#EXTINF:0,DISNEY XD HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4799.m3u8
+#EXTINF:0,CANAL J HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4818.m3u8
+#EXTINF:0,NICKELODEON 4TEEN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4771.m3u8
+#EXTINF:0,BABY TV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4838.m3u8
+#EXTINF:0,INFO SPORT+ HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4783.m3u8
+#EXTINF:0,AB MOTEURS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/485/index.m3u8
+#EXTINF:0,AB MOTEURS HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4844.m3u8
+#EXTINF:0,EQUIDIA LIVE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4797.m3u8
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4776.m3u8
+#EXTINF:0,GOLF CHANNEL HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4787.m3u8
+#EXTINF:0,PLANETE+ CI
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4755.m3u8
+#EXTINF:0,PLANETE+ A&E
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4756.m3u8
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4804.m3u8
+#EXTINF:0,USHUAIA TV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4734.m3u8
+#EXTINF:0,HISTOIRE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4784.m3u8
+#EXTINF:0,TOUTE L'HISTOIRE
+http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,ANIMAUX
+http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,ANIMAUX HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4840.m3u8
+#EXTINF:0,CHASSE & PECHE
+http://live-s101.abweb.com/liveabs101/ngrp:chasseetpeche.stream_bis/chunklist_b1096000.m3u8
+#EXTINF:0,FTV
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/625/index.m3u8
+#EXTINF:0,FTV HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/1592.m3u8
+#EXTINF:0,MEZZO
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/67/index.m3u8
+#EXTINF:0,MCM TOP
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/4777.m3u8
+#EXTINF:0,I-CONCERTS
+http://188.165.13.95:8080/106/index.m3u8
+#EXTINF:0,VH1 EUROPE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,EURONEWS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/684/index.m3u8
+#EXTINF:0,BFM BUSINESS
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:0,BBC WORLD NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,FOX NEWS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8
+#EXTINF:0,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:0,ITALIA
+http://0.0.0.1234
+#EXTINF:0,RAI 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/965/index.m3u8
+#EXTINF:0,RAI 2
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/964/index.m3u8
+#EXTINF:0,RAI 3
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/963/index.m3u8
+#EXTINF:0,RETE 4
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(03)/index.m3u8
+#EXTINF:0,CANALE 5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(03)/index.m3u8
+#EXTINF:0,CANALE 5 HD
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:0,CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:0,ITALIA1
+http://hlslive.msf.ticdn.it/hls/CH14/live.m3u8
+#EXTINF:0,ITALIA1 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:0,ITALIA2
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(03)/index.m3u8
+#EXTINF:0,LA 7
+http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8
+#EXTINF:0,LA 5
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+#EXTINF:0,LA 5 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:0,LA 5
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(03)/index.m3u8
+#EXTINF:0,LA 5 HD
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:0,IRIS
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(03)/index.m3u8
+#EXTINF:0,TOPCRIME
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(03)/index.m3u8
+#EXTINF:0,RAI 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0,RAI 5
+http://b2.stream12.rai.it/live/smil%3arai5.smil/playlist.m3u8
+#EXTINF:0,RAI GULP
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,RAI GULP HD
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:0,RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:0,RAI PREMIUM HD
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,RAI SCUOLA
+http://originstream6.rai.it/italy/smil:raiscuola.smil/chunklist_b900000.m3u8
+#EXTINF:0,RAI YOYO
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/973/index.m3u8
+#EXTINF:0,RAI YOYO HD
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:0,RAI MOVIE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/976/index.m3u8
+#EXTINF:0,RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,VIDEOLINA
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+#EXTINF:0,MEDIASET EXTRA
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(03)/index.m3u8
+#EXTINF:0,SKY TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:0,TGCOM 24
+http://live2.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+#EXTINF:0,RAI NEWS 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
+#EXTINF:0,FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,EURONEWS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/937/index.m3u8
+#EXTINF:0,SENATO TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:0,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:0,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:0,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+#EXTINF:0,VH1 EUROPE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,RAI MOVIE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/976/index.m3u8
+#EXTINF:0,RAI MOVIE HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,PARAMOUNT CHANNEL
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+#EXTINF:0,ALICE
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,SUPER TENNIS
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/670/index.m3u8
+#EXTINF:0,RAI SPORT 1
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/528/index.m3u8
+#EXTINF:0,RETE 8 SPORT
+http://flash2.streaming.xdevel.com/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:0,HISTORY LAB
+http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
+#EXTINF:0,MARCO POLO
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,ITALIAN FISHING
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/587/index.m3u8
+#EXTINF:0,INGLATERRA
+http://0.0.0.1234
+#EXTINF:0,ITV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7589.m3u8
+#EXTINF:0,CHANNEL 4 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7591.m3u8
+#EXTINF:0,CHANNEL 5 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7590.m3u8
+#EXTINF:0,SKY ONE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7583.m3u8
+#EXTINF:0,SKY LIVING
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7575.m3u8
+#EXTINF:0,ITV 2
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7588.m3u8
+#EXTINF:0,ITV 3
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7587.m3u8
+#EXTINF:0,ITV 4
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7586.m3u8
+#EXTINF:0,ITVBe
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7585.m3u8
+#EXTINF:0,SKY TWO
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7582.m3u8
+#EXTINF:0,SKY ARTS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7580.m3u8
+#EXTINF:0,PICK
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7596.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7612.m3u8
+#EXTINF:0,TLC
+http://wowza2.mysoltv.com:1992/UK_ENG_tlc/index.m3u8
+#EXTINF:0,INVESTIGATION DISCOVERY
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_id/index.m3u8
+#EXTINF:0,DISCOVERY
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery/index.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_science/index.m3u8
+#EXTINF:0,DISCOVERY TURBO
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_turbo/index.m3u8
+#EXTINF:0,NAT GEO WILD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7602.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7601.m3u8
+#EXTINF:0,CRIME + INVESTIGATION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7611.m3u8
+#EXTINF:0,DISCOVERY HOME & HEALTH
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_home/index.m3u8
+#EXTINF:0,DISCOVERY SHED
+http://wowza2.mysoltv.com:1992/UK_ENG_discovery_shed/index.m3u8
+#EXTINF:0,MTV LIVE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+#EXTINF:0,MTV HITS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/229/index.m3u8
+#EXTINF:0,MTV DANCE
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:0,MTV ROCKS
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/230/index.m3u8
+#EXTINF:0,VH1 EUROPE
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/238/index.m3u8
+#EXTINF:0,SKY CINEMA PREMIERE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7571.m3u8
+#EXTINF:0,SKY CINEMA GREATS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7576.m3u8
+#EXTINF:0,SKY CINEMA DISNEY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7574.m3u8
+#EXTINF:0,SKY CINEMA FAMILY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7577.m3u8
+#EXTINF:0,SKY CINEMA ACTION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7581.m3u8
+#EXTINF:0,SKY CINEMA COMEDY
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7578.m3u8
+#EXTINF:0,SKY CINEMA THRILLER
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7556.m3u8
+#EXTINF:0,SKY CINEMA SCI-FI & HORROR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7570.m3u8
+#EXTINF:0,SKY CINEMA DRAMA & ROMANCE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7573.m3u8
+#EXTINF:0,SKY CINEMA SELECT
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7569.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7560.m3u8
+#EXTINF:0,SKY SPORTS PREMIER LEAGUE HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7559.m3u8
+#EXTINF:0,SKY SPORTS MAIN EVENT HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7567.m3u8
+#EXTINF:0,SKY SPORTS CRICKET
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7566.m3u8
+#EXTINF:0,SKY SPORTS CRICKET HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7565.m3u8
+#EXTINF:0,SKY SPORTS GOLF
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7562.m3u8
+#EXTINF:0,SKY SPORTS GOLF HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7561.m3u8
+#EXTINF:0,SKY SPORTS F1
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7558.m3u8
+#EXTINF:0,SKY SPORTS ACTION
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7564.m3u8
+#EXTINF:0,SKY SPORTS ACTION HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7563.m3u8
+#EXTINF:0,SKY SPORTS NEWS HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7568.m3u8
+#EXTINF:0,SKY SPORTS MIX
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7557.m3u8
+#EXTINF:0,MUTV
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7603.m3u8
+#EXTINF:0,BT SPORT 1 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7594.m3u8
+#EXTINF:0,BT SPORT 2 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7593.m3u8
+#EXTINF:0,BT SPORT 3 HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7592.m3u8
+#EXTINF:0,BT SPORT ESPN HD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7595.m3u8
+#EXTINF:0,CHELSEA TV
+http://ooyalahd2-f.akamaihd.net/i/chelsea02_delivery@145821/master.m3u8
+#EXTINF:0,BBC NEWS
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,CNBC
+http://playlist.onlybest.tv/ru/channel/78ad82ff7979f9daa5f44464e8788080/340/index.m3u8
+#EXTINF:0,RTE ONE
+http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
+#EXTINF:0,RTE TWO
+http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
+#EXTINF:0,FRANCE 24 EN
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0,FRANCE 24 FR
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,BABY TV
+http://wowza2.mysoltv.com:1992/UK_UK_Baby/tracks-v1a1/index.m3u8
+#EXTINF:0,DISNEY XD
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7607.m3u8
+#EXTINF:0,NICK JR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7599.m3u8
+#EXTINF:0,NICK JR Too
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7600.m3u8
+#EXTINF:0,NICKTOONS
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7597.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7606.m3u8
+#EXTINF:0,DISNEY JUNIOR
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/7605.m3u8
+#EXTINF:0,USA
+http://0.0.0.1234
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8
+#EXTINF:0,FOX 23
+http://cmghlslive-i.akamaihd.net:80/hls/live/224709/KOKI/904k/prog.m3u8
+#EXTINF:0,FOX 30
+http://cmghlslive-i.akamaihd.net:80/hls/live/224710/WFOX/904k/prog.m3u8
+#EXTINF:0,BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0,CNN
+http://4.31.30.145:9001
+#EXTINF:0,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:0,C-SPAN
+http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/master.m3u8
+#EXTINF:0,C-SPAN 2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/master.m3u8
+#EXTINF:0,C-SPAN 3
+http://cspan3-lh.akamaihd.net/i/cspan3_1@304729/master.m3u8
+#EXTINF:0,WGN 9 NEWS CHICAGO
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:0,DW
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8
+#EXTINF:0,RT AMERICA
+https://secure-streams.akamaized.net/rt-usa/index.m3u8
+#EXTINF:0,WORLD FASHION
+http://btv-net.mediacdn.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:0,DISCOVERY SCIENCE
+http://cdnworld.magictvbox.eu/Discovery_Science_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:0,H2
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:0,HISTORY
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:0,NATIONAL GEOGRAPHIC
+http://cdnworld.magictvbox.eu/National_Geographic_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:0,NATIONAL GEOGRAPHIC WILD
+http://cdnworld.magictvbox.eu/Nat_Geo_Wild_HD/tracks-v3a1/index.m3u8?token=soc4up
+#EXTINF:0,FOX USA
+http://cdnworld.magictvbox.eu/Fox_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:0,FOX LIFE
+http://cdnworld.magictvbox.eu/Fox_Life_HD/tracks-v2a1/index.m3u8?token=soc4up
+#EXTINF:0,NBA
+http://54.37.167.53:27568/live/GWgtWSITBt/xrtiX6kPJK/2620.m3u8
+#EXTINF:0,NBC GOLF
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:0,PAC 12 Arizona
 http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
-#EXTINF:-1,Bay Area
+#EXTINF:0,PAC 12 Bay Area
 http://p12b-lh.akamaihd.net/i/bayarea_delivery@429334/master.m3u8
-#EXTINF:-1,Los Angeles
+#EXTINF:0,PAC 12 Los Angeles
 http://p12l-lh.akamaihd.net/i/la_delivery@425541/master.m3u8
-#EXTINF:-1,Mountain 
+#EXTINF:0,PAC 12 Moutain
 http://p12m-lh.akamaihd.net/i/mountain_delivery@428912/master.m3u8
-#EXTINF:-1,Oregon
-http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
-#EXTINF:-1,Washington 
-http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
-#EXTINF:-1,Network
+#EXTINF:0,PAC 12 Network (National)
 http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8
-#EXTM3U
-#EXTINF:0,     List-Iptv.com        CNN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/73717.ts
-#EXTINF:0,     List-Iptv.com        A&E (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79754.ts
-#EXTINF:0,     List-Iptv.com        ABC EAST (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79729.ts
-#EXTINF:0,     List-Iptv.com        AMC (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79730.ts
-#EXTINF:0,     List-Iptv.com        BBC America (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79741.ts
-#EXTINF:0,     List-Iptv.com        BET (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79705.ts
-#EXTINF:0,     List-Iptv.com        BLOOMBERG (US) Directs
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79801.ts
-#EXTINF:0,     List-Iptv.com        BRAVO (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79753.ts
-#EXTINF:0,     List-Iptv.com        CARTOON NETWORK (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79768.ts
-#EXTINF:0,     List-Iptv.com        CBS EAST
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79835.ts
-#EXTINF:0,     List-Iptv.com        CBS Sports Network (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79860.ts
-#EXTINF:0,     List-Iptv.com        Comedy Central (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79726.ts
-#EXTINF:0,     List-Iptv.com        COOKING CHANNEL (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79747.ts
-#EXTINF:0,     List-Iptv.com        CW NETWORK HD(US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79732.ts
-#EXTINF:0,     List-Iptv.com        DISNEY CHANNEL (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79763.ts
-#EXTINF:0,     List-Iptv.com        DISNEY JR  (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79765.ts
-#EXTINF:0,     List-Iptv.com        DISNEY XD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79764.ts
-#EXTINF:0,     List-Iptv.com        DogTV (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79737.ts
-#EXTINF:0,     List-Iptv.com        E! HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79745.ts
-#EXTINF:0,     List-Iptv.com        American Hero Channel (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85074.ts
-#EXTINF:0,     List-Iptv.com        GET TV (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85072.ts
-#EXTINF:0,     List-Iptv.com        Grit TV (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85073.ts
-#EXTINF:0,     List-Iptv.com        EL REY (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79743.ts
-#EXTINF:0,     List-Iptv.com        Food Network HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79746.ts
-#EXTINF:0,     List-Iptv.com        FOX BUSINESS HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79831.ts
-#EXTINF:0,     List-Iptv.com        FOX HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79728.ts
-#EXTINF:0,     List-Iptv.com        FOX NEWS 25 Directs
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79799.ts
-#EXTINF:0,     List-Iptv.com        FOX NEWS HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79832.ts
-#EXTINF:0,     List-Iptv.com        FREEFORM HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79708.ts
-#EXTINF:0,     List-Iptv.com        FUSE HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79734.ts
-#EXTINF:0,     List-Iptv.com        FX HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79714.ts
-#EXTINF:0,     List-Iptv.com        FXX HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79711.ts
-#EXTINF:0,     List-Iptv.com        GSN (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79742.ts
-#EXTINF:0,     List-Iptv.com        Hallmark Movies & Mysteries HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79771.ts
-#EXTINF:0,     List-Iptv.com        HGTV HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/80324.ts
-#EXTINF:0,     List-Iptv.com        HBO 2 East (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79778.ts
-#EXTINF:0,     List-Iptv.com        ION TV
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79756.ts
-#EXTINF:0,     List-Iptv.com        LIFETIME HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79748.ts
-#EXTINF:0,     List-Iptv.com        LIFETIME MOVIE NETWORK HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79770.ts
-#EXTINF:0,     List-Iptv.com        MAV TV (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79750.ts
-#EXTINF:0,     List-Iptv.com        MSNBC
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79830.ts
-#EXTINF:0,     List-Iptv.com        NBC HD EAST
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79834.ts
-#EXTINF:0,     List-Iptv.com        NBCSN
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79845.ts
-#EXTINF:0,     List-Iptv.com        NICK Jr (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79766.ts
-#EXTINF:0,     List-Iptv.com        NICKELODEN (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79767.ts
-#EXTINF:0,     List-Iptv.com        OWN Directs
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79707.ts
-#EXTINF:0,     List-Iptv.com        Oxygen HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79749.ts
-#EXTINF:0,     List-Iptv.com        SHOWTIME HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79776.ts
-#EXTINF:0,     List-Iptv.com        SHOWTIME 2
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79775.ts
-#EXTINF:0,     List-Iptv.com        Paramount network (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79717.ts
-#EXTINF:0,     List-Iptv.com        STARZ EAST
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79773.ts
-#EXTINF:0,     List-Iptv.com        HBO Comedy HD East (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84808.ts
-#EXTINF:0,     List-Iptv.com        CINEMAX ACTION MAX (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84811.ts
-#EXTINF:0,     List-Iptv.com        CINEMAX HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84814.ts
-#EXTINF:0,     List-Iptv.com        Cinemax MoreMax HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84813.ts
-#EXTINF:0,     List-Iptv.com        CINEMAX OUTER MAX (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84810.ts
-#EXTINF:0,     List-Iptv.com        Cinemax Thriller Max HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84812.ts
-#EXTINF:0,     List-Iptv.com        HBO Comedy HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84805.ts
-#EXTINF:0,     List-Iptv.com        HBO Family HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84804.ts
-#EXTINF:0,     List-Iptv.com        HBO HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84807.ts
-#EXTINF:0,     List-Iptv.com        HBO HD 2 (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84801.ts
-#EXTINF:0,     List-Iptv.com        HBO Signature HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84803.ts
-#EXTINF:0,     List-Iptv.com        HBO Zone HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/84806.ts
-#EXTINF:0,     List-Iptv.com        SUNDANCE TV
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79759.ts
-#EXTINF:0,     List-Iptv.com        SYFY HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79751.ts
-#EXTINF:0,     List-Iptv.com        TBS HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79760.ts
-#EXTINF:0,     List-Iptv.com        Hallmark HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79870.ts
-#EXTINF:0,     List-Iptv.com        ANIMAL PLANET (US) (Direct)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79883.ts
-#EXTINF:0,     List-Iptv.com        Destination America (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79881.ts
-#EXTINF:0,     List-Iptv.com        Discovery Channel HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79880.ts
-#EXTINF:0,     List-Iptv.com        DISCOVERY SCIENCE CHANNEL HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79879.ts
-#EXTINF:0,     List-Iptv.com        DIY NETWORK (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79872.ts
-#EXTINF:0,     List-Iptv.com        History (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79873.ts
-#EXTINF:0,     List-Iptv.com        INVESTIGATION DISCOVERY HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79884.ts
-#EXTINF:0,     List-Iptv.com        NAT GEO WILD HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79875.ts
-#EXTINF:0,     List-Iptv.com        National Geographic Channel(US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79877.ts
-#EXTINF:0,     List-Iptv.com        Discovery Velocity HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79874.ts
-#EXTINF:0,     List-Iptv.com        TCM (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79761.ts
-#EXTINF:0,     List-Iptv.com        The Weather Channel HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79807.ts
-#EXTINF:0,     List-Iptv.com        TLC (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79715.ts
-#EXTINF:0,     List-Iptv.com        TNT HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79757.ts
-#EXTINF:0,     List-Iptv.com        TruTV HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79758.ts
-#EXTINF:0,     List-Iptv.com        TV Land HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79723.ts
-#EXTINF:0,     List-Iptv.com        TV ONE (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79752.ts
-#EXTINF:0,     List-Iptv.com        UFC Fight Pass
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79833.ts
-#EXTINF:0,     List-Iptv.com        USA NETWORK HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79755.ts
-#EXTINF:0,     List-Iptv.com        VH1 HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79719.ts
-#EXTINF:0,     List-Iptv.com        VICELAND HD(US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79744.ts
-#EXTINF:0,     List-Iptv.com        Big Ten Network (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/88611.ts
-#EXTINF:0,     List-Iptv.com        OLYMPICS CHANNEL FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/88553.ts
-#EXTINF:0,     List-Iptv.com        FOX 11 LOS ANGELES
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85107.ts
-#EXTINF:0,     List-Iptv.com        FOX 13 TAMPA
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85105.ts
-#EXTINF:0,     List-Iptv.com        FOX 2 DETROIT
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85104.ts
-#EXTINF:0,     List-Iptv.com        FOX 2 SAN FRANCISCO
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85103.ts
-#EXTINF:0,     List-Iptv.com        FOX 2 ST. LOUIS
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85102.ts
-#EXTINF:0,     List-Iptv.com        FOX 25 BOSTON
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85101.ts
-#EXTINF:0,     List-Iptv.com        FOX 26 HOUSTON
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85100.ts
-#EXTINF:0,     List-Iptv.com        FOX 29 PHILADELPHIA
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85106.ts
-#EXTINF:0,     List-Iptv.com        FOX 32 CHICAGO
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85099.ts
-#EXTINF:0,     List-Iptv.com        FOX 4 DALLAS
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85098.ts
-#EXTINF:0,     List-Iptv.com        FOX 43 VA BEACH
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85097.ts
-#EXTINF:0,     List-Iptv.com        FOX 5 ATLANTA
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85096.ts
-#EXTINF:0,     List-Iptv.com        FOX 5 D.C.
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85095.ts
-#EXTINF:0,     List-Iptv.com        FOX 5 NEW YORK
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85094.ts
-#EXTINF:0,     List-Iptv.com        FOX 5 SAN DIEGO
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85093.ts
-#EXTINF:0,     List-Iptv.com        FOX 7 MIAMI
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85092.ts
-#EXTINF:0,     List-Iptv.com        FOX 8 CLEVELAND
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85091.ts
-#EXTINF:0,     List-Iptv.com        FOX 8 NEW ORLEANS
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85090.ts
-#EXTINF:0,     List-Iptv.com        NBC 10 PHILADELPHIA
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85129.ts
-#EXTINF:0,     List-Iptv.com        NBC 4 D.C.
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85128.ts
-#EXTINF:0,     List-Iptv.com        NBC 4 LOS ANGELES
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85130.ts
-#EXTINF:0,     List-Iptv.com        NBC 4 NEW YORK
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85127.ts
-#EXTINF:0,     List-Iptv.com        NBC 5 CHICAGO
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85126.ts
-#EXTINF:0,     List-Iptv.com        NBC 5 DALLAS
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85125.ts
-#EXTINF:0,     List-Iptv.com        NBC 6 MIAMI
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85124.ts
-#EXTINF:0,     List-Iptv.com        NBC 7 SAN DIEGO
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85123.ts
-#EXTINF:0,     List-Iptv.com        NBC BOSTON
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85122.ts
-#EXTINF:0,     List-Iptv.com        NBC DETROIT
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85121.ts
-#EXTINF:0,     List-Iptv.com        NBC HOUSTON
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85120.ts
-#EXTINF:0,     List-Iptv.com        NBC RALEIGH
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/85119.ts
-#EXTINF:0,     List-Iptv.com        WE TV (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79762.ts
-#EXTINF:0,     List-Iptv.com        C-SPAN 1
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79805.ts
-#EXTINF:0,     List-Iptv.com        C-SPAN 2
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79804.ts
-#EXTINF:0,     List-Iptv.com        C-SPAN 3
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79803.ts
-#EXTINF:0,     List-Iptv.com        ESPN
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79852.ts
-#EXTINF:0,     List-Iptv.com        ESPN 2 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79851.ts
-#EXTINF:0,     List-Iptv.com        ESPN U HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79850.ts
-#EXTINF:0,     List-Iptv.com        FOX SPORTS 1 HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79859.ts
-#EXTINF:0,     List-Iptv.com        FOX SPORTS 2  HD(US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79858.ts
-#EXTINF:0,     List-Iptv.com        GOLF CHANNEL HD (US)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79857.ts
-#EXTINF:0,     List-Iptv.com        SEC NETWORK
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79849.ts
-#EXTINF:0,     List-Iptv.com        NHL NETWORK SD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79702.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 1
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79868.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 2
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79697.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 3
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79696.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 4
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79695.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 5
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79694.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 6
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79693.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 7
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79692.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 8
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79691.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 9
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79690.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 10
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79701.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 12
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79699.ts
-#EXTINF:0,     List-Iptv.com        Directs : NHL HD 13
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79698.ts
-#EXTINF:0,     List-Iptv.com        NFL NETWORK HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79688.ts
-#EXTINF:0,     List-Iptv.com        NFL NOW HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79687.ts
-#EXTINF:0,     List-Iptv.com        NFL Red Zone ( Only Available On Sunday)
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79686.ts
-#EXTINF:0,     List-Iptv.com        NBA TV HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79668.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 1 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79666.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 2 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79663.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 3 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79662.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 4 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79661.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 5 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79660.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 6 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79659.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 7 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79658.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 8 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79657.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 9 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79656.ts
-#EXTINF:0,     List-Iptv.com        Directs :  NBA PASS 10 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79667.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 11 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79665.ts
-#EXTINF:0,     List-Iptv.com        Directs : NBA PASS 12 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79664.ts
-#EXTINF:0,     List-Iptv.com        MLB NETWORK HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79685.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 1
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79684.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 10
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79683.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 12
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79681.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 13
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79680.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 14
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79679.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 15
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79678.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 16
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79677.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 2
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79676.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 3
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79675.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 4
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79674.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 5
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79673.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 6
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79672.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 7
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79671.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 8
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79670.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 9
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79669.ts
-#EXTINF:0,     List-Iptv.com        WWE NETWORK HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79854.ts
-#EXTINF:0,     List-Iptv.com        MLB EXTRA HD 11
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79682.ts
-#EXTINF:0,     List-Iptv.com        DUNYA NEWS
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/73731.ts
-#EXTINF:0,     List-Iptv.com        CA :  OLN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79655.ts
-#EXTINF:0,     List-Iptv.com        CA : ABC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79654.ts
-#EXTINF:0,     List-Iptv.com        CA : ABC SPARK
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79653.ts
-#EXTINF:0,     List-Iptv.com        CA : AMC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79652.ts
-#EXTINF:0,     List-Iptv.com        CA : BNN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79651.ts
-#EXTINF:0,     List-Iptv.com        CA : BRAVO HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79650.ts
-#EXTINF:0,     List-Iptv.com        CA : CBC ATLANTIC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79649.ts
-#EXTINF:0,     List-Iptv.com        CA : CBC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79648.ts
-#EXTINF:0,     List-Iptv.com        CA : CBC NEWS HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79647.ts
-#EXTINF:0,     List-Iptv.com        CA : CBS FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79646.ts
-#EXTINF:0,     List-Iptv.com        CA : CHCH HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79645.ts
-#EXTINF:0,     List-Iptv.com        CA : CITY FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79644.ts
-#EXTINF:0,     List-Iptv.com        CA : CNN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79643.ts
-#EXTINF:0,     List-Iptv.com        CA : COMEDY HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79642.ts
-#EXTINF:0,     List-Iptv.com        CA : CP 24 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79641.ts
-#EXTINF:0,     List-Iptv.com        CA : CPAC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79640.ts
-#EXTINF:0,     List-Iptv.com        CA : CREATE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79639.ts
-#EXTINF:0,     List-Iptv.com        CA : CTV ATLANTIC
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79638.ts
-#EXTINF:0,     List-Iptv.com        CA : CTV FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79637.ts
-#EXTINF:0,     List-Iptv.com        CA : CTV NEWS HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79636.ts
-#EXTINF:0,     List-Iptv.com        CA : CW HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79635.ts
-#EXTINF:0,     List-Iptv.com        CA : DISNEY HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79634.ts
-#EXTINF:0,     List-Iptv.com        CA : DISNEY JR HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79633.ts
-#EXTINF:0,     List-Iptv.com        CA : DISNEY XD HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79632.ts
-#EXTINF:0,     List-Iptv.com        CA : DIY NETWORK HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79631.ts
-#EXTINF:0,     List-Iptv.com        CA : E! HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79630.ts
-#EXTINF:0,     List-Iptv.com        CA : Food Network HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79629.ts
-#EXTINF:0,     List-Iptv.com        CA : FOX HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79628.ts
-#EXTINF:0,     List-Iptv.com        CA : FX HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79627.ts
-#EXTINF:0,     List-Iptv.com        CA : FXX HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79626.ts
-#EXTINF:0,     List-Iptv.com        CA : GLOBAL FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79625.ts
-#EXTINF:0,     List-Iptv.com        CA : GSN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79624.ts
-#EXTINF:0,     List-Iptv.com        CA : HBO 2 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79623.ts
-#EXTINF:0,     List-Iptv.com        CA : HBO HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79622.ts
-#EXTINF:0,     List-Iptv.com        CA : HGTV HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79621.ts
-#EXTINF:0,     List-Iptv.com        CA : HISTORY HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79620.ts
-#EXTINF:0,     List-Iptv.com        CA : HLN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79619.ts
-#EXTINF:0,     List-Iptv.com        CA : Lifetime HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79618.ts
-#EXTINF:0,     List-Iptv.com        CA : ME TV HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79617.ts
-#EXTINF:0,     List-Iptv.com        CA : MSNBC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79615.ts
-#EXTINF:0,     List-Iptv.com        CA : NAT GEO HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79614.ts
-#EXTINF:0,     List-Iptv.com        CA : NAT GEO WILD HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79613.ts
-#EXTINF:0,     List-Iptv.com        CA : NBC FHD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79612.ts
-#EXTINF:0,     List-Iptv.com        CA : OWN HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79611.ts
-#EXTINF:0,     List-Iptv.com        CA : PBS HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79610.ts
-#EXTINF:0,     List-Iptv.com        CA : PEACH TREE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79609.ts
-#EXTINF:0,     List-Iptv.com        CA : SHOWCASE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79608.ts
-#EXTINF:0,     List-Iptv.com        CA : SLICE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79607.ts
-#EXTINF:0,     List-Iptv.com        CA : SPACE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79606.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET 360 HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79605.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET EAST HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79604.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET ONE HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79603.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET ONTARIO HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79602.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET PACIFIC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79601.ts
-#EXTINF:0,     List-Iptv.com        CA : SPORTSNET WEST HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79600.ts
-#EXTINF:0,     List-Iptv.com        CA : TLC HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79598.ts
-#EXTINF:0,     List-Iptv.com        CA : TSN HD 1
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79597.ts
-#EXTINF:0,     List-Iptv.com        CA : TSN HD 2
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79596.ts
-#EXTINF:0,     List-Iptv.com        CA : TSN HD 3
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79595.ts
-#EXTINF:0,     List-Iptv.com        CA : TSN HD 4
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79594.ts
-#EXTINF:0,     List-Iptv.com        CA : TSN HD 5
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79593.ts
-#EXTINF:0,     List-Iptv.com        CA : WEATHER CHANNEL HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79592.ts
-#EXTINF:0,     List-Iptv.com        CA : WORLD HD
-http://fhdiptv3.ddns.net:8080/live/Mom/Mom/79591.ts
+#EXTINF:0,PAC 12 Oregon
+http://p12o-lh.akamaihd.net/i/oregon_delivery@103261/master.m3u8
+#EXTINF:0,PAC 12 Washington
+http://p12w-lh.akamaihd.net/i/washington_delivery@426584/master.m3u8
+#EXTINF:0,RADIOS
+http://0.0.0.1234
+#EXTINF:0,94FM (Copyright © 2018 by TeamBlue)
+http://195.8.58.150:35022/stream/1/
+#EXTINF:0,AMALIA (Copyright © 2018 by TeamBlue)
+http://stream.radio.com.pt:9496/stream
+#EXTINF:0,ANTENA 1 (Copyright © 2018 by TeamBlue)
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:0,ANTENA 2 (Copyright © 2018 by TeamBlue)
+http://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:0,ANTENA MINHO (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9464
+#EXTINF:0,MARGINAL (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:8499/stream/1/
+#EXTINF:0,MARGINAL (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:8499/stream/1/
+#EXTINF:0,MEGA HITS (Copyright © 2018 by TeamBlue)
+http://19553.live.streamtheworld.com/MEGA_HITS_SC
+#EXTINF:0,NOSTALGIA (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:8435
+#EXTINF:0,NOVA ERA (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9478/stream/1/
+#EXTINF:0,ORBITAL (Copyright © 2018 by TeamBlue)
+http://195.23.85.126:8401/stream/1/
+#EXTINF:0,PLACARD (Copyright © 2018 by TeamBlue)
+http://213.239.218.99:7098/;?1475760096281.aac
+#EXTINF:0,RADAR (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:8497/stream/1/
+#EXTINF:0,RADIO COMERCIAL (Copyright © 2018 by TeamBlue)
+http://mcrscast.mcr.iol.pt/comercial.mp3
+#EXTINF:0,RADIO FESTIVAL (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9520/stream/1/
+#EXTINF:0,RADIO NOVA (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9528/stream/1/
+#EXTINF:0,RADIO ONDA VIVA (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9524/stream
+#EXTINF:0,RFM (Copyright © 2018 by TeamBlue)
+http://19553.live.streamtheworld.com/RFM_SC
+#EXTINF:0,RFM 80 (Copyright © 2018 by TeamBlue)
+http://19573.live.streamtheworld.com/GR80SRFM_SC
+#EXTINF:0,SMOOTH FM (Copyright © 2018 by TeamBlue)
+http://centova.radios.pt:9498
+#EXTINF:0,SUPER FM (104.8) (Copyright © 2018 by TeamBlue)
+http://94.23.76.235:9956/;
+#EXTINF:0,TSF (Copyright © 2018 by TeamBlue)
+http://tsfdirecto.tsf.pt/tsfdirecto.mp3
+#EXTINF:0,Copyright © 2018 - TeamBlue
+https://raw.githubusercontent.com/teamblue65/LISTAS/master/Copyright%20%C2%A9%202018%20-%20TeamBlue
