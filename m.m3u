@@ -6,7 +6,7 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 #EXTINF:-1,Manoto
 
-http://63.237.48.9/ios/MANOTO_1/MANOTO_1.m3u8
+https://d3k1w9cxbwgqyk.cloudfront.net/profile2/out_0_1500.m3u8
 
 #EXTINF:-1,PMC
 
@@ -30,7 +30,11 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1,ITN
 
-http://63.237.48.9/ios/ITN/ITN.m3u8
+http://38.99.146.181:7777/ITN/ITN_LR.m3u8?user=sglsabrmhlrxdyp4my55xx5fnb3d&session=35c674279ab73522161c8082d5c57c31a512177b8842a91e8fc98296753904d9035463a4cf1ddd0f39b2ac6d59db850a76a53a31f79a0d18&hlsid=HTTP_ID_1821404&group_id=-1&
+
+#EXTINF:-1, Cinefilm
+
+http://176.9.48.184:1935/cinefilmhd/CineFilm/chunklist_w1942574941.m3u8
 
 #EXTINF:-1,Merci
 
@@ -38,14 +42,13 @@ http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
 
 #EXTINF:-1,Tapesh
 
-http://63.237.48.9/ios/TAPESH/TAPESH.m3u8
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:-1,TIN
 
 http://63.237.48.28/ios/TIN/TIN.m3u8
 
 #EXTINF:-1,Time TV
-
 
 http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
 
@@ -63,7 +66,7 @@ http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
 
 #EXTINF:-1,Persian Star 1
 
-http://63.237.48.28/ios/PERSIAN_STAR_1/PERSIAN_STAR_1.m3u8
+http://38.117.88.158:7777/PersianStar1/PersianStar1_LR.m3u8?user=sglsabrmhlrxdyp4my55xx5fnb3d&session=b214f3f0f29c6ad557b14162a17a57c1a5efa60ab34bcb522d4474e11c168c750d5929e3ece1c8dcbee53f4cf74b5f6d9a8572e2cf23fdad13d5ccb264f101fb&hlsid=HTTP_ID_2384095&group_id=-1&
 
 #EXTINF:-1,Apadana
 
@@ -75,7 +78,7 @@ http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
 
 #EXTINF:-1,BBC persian
 
-http://63.237.48.28/ios/BBC_PERSIAN/BBC_PERSIAN.m3u8
+http://38.117.88.158:7777/BBCPersian/BBCPersian_LR.m3u8?user=sgls51jox455krwii4r11etgor45&session=1008051ec43c15b15fe11a8ff27b311efd46899971a63a7a38c355fef4236af461f9b12ec9edf6a451659bf6c3e33401ba447235df9e27fd5893628775e44683&hlsid=HTTP_ID_2383483&group_id=-1&
 
 #EXTINF:-1,VOA
 
