@@ -196,34 +196,21 @@ http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
 
 http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
 
-#EXTINF:-1,MBC
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8425.ts
-
+#EXTINF:-1,MBC 1
+http://5.196.90.62:8080/MBC_1/index.m3u8
 #EXTINF:-1,MBC 2
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8426.ts
-
-#EXTINF:-1,MBC 3
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8427.ts
-
+http://5.196.90.62:8080/MBC_2/index.m3u8
 #EXTINF:-1,MBC 4
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8428.ts
-
-#EXTINF:-1,MBC Action
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8431.ts
-
-#EXTINF:-1,MBC Bollywood
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8429.ts
-
-#EXTINF:-1,MBC Drama
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8430.ts
-
-#EXTINF:-1,MBC Maxx
-
-http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8432.ts
+http://5.196.90.62:8080/MBC_4/index.m3u8
+#EXTINF:-1,MBC DRAMA
+http://5.196.90.62:8080/MBC_Drama/index.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://5.196.90.62:8080/MBC_Bollywood/index.m3u8
+#EXTINF:-1,MBC 1 HD
+http://5.196.90.62:8080/MBC1_HD/index.m3u8
+#EXTINF:-1,MBC 2 HD
+http://5.196.90.62:8080/MBC2_HD/index.m3u8
+#EXTINF:-1,MBC 4 HD
+http://5.196.90.62:8080/MBC4_HD/index.m3u8
+#EXTINF:-1,MEDI 1
+http://5.196.90.62:8080/Medi_1/index.m3u8
