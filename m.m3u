@@ -197,20 +197,37 @@ http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
 http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
 
 #EXTINF:-1,MBC 1
+
 http://5.196.90.62:8080/MBC_1/index.m3u8
+
 #EXTINF:-1,MBC 2
+
 http://5.196.90.62:8080/MBC_2/index.m3u8
+
 #EXTINF:-1,MBC 4
+
 http://5.196.90.62:8080/MBC_4/index.m3u8
+
 #EXTINF:-1,MBC DRAMA
+
 http://5.196.90.62:8080/MBC_Drama/index.m3u8
+
 #EXTINF:-1,MBC BOLLYWOOD
+
 http://5.196.90.62:8080/MBC_Bollywood/index.m3u8
+
 #EXTINF:-1,MBC 1 HD
+
 http://5.196.90.62:8080/MBC1_HD/index.m3u8
+
 #EXTINF:-1,MBC 2 HD
+
 http://5.196.90.62:8080/MBC2_HD/index.m3u8
+
 #EXTINF:-1,MBC 4 HD
+
 http://5.196.90.62:8080/MBC4_HD/index.m3u8
+
 #EXTINF:-1,MEDI 1
+
 http://5.196.90.62:8080/Medi_1/index.m3u8
