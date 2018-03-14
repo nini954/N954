@@ -36,6 +36,50 @@ http://38.99.146.181:7777/ITN/ITN_LR.m3u8?user=sglsabrmhlrxdyp4my55xx5fnb3d&sess
 
 http://176.9.48.184:1935/cinefilmhd/CineFilm/chunklist_w1942574941.m3u8
 
+#EXTINF:-1,Cine Series HD
+
+http://5.255.90.242:5000/play/a051
+
+#EXTINF:-1,Home & Health TV
+
+http://5.255.90.242:5000/play/a00p
+
+#EXTINF:-1,IR Cama 1 TV
+
+http://5.255.90.242:5000/play/a00h
+
+#EXTINF:-1,4U TV
+
+http://5.255.90.242:5000/play/a00l
+
+#EXTINF:-1,CATV
+
+http://5.255.90.242:5000/play/a00e
+
+#EXTINF:-1,Extreme Sports
+
+http://5.255.90.242:5000/play/a003
+
+#EXTINF:-1,NOW TV
+
+http://5.255.90.242:5000/play/a00s
+
+#EXTINF:-1,IR Cama 3 TV
+
+http://5.255.90.242:5000/play/a00j
+
+#EXTINF:-1,Nat Geo Farsi HD
+
+http://5.255.90.242:5000/play/a006
+
+#EXTINF:-1,Khane Film
+
+http://5.255.90.242:5000/play/a00m
+
+#EXTINF:-1,Khanehonarmandan
+
+http://5.255.90.242:5000/play/a00f
+
 #EXTINF:-1,Merci
 
 http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
@@ -151,3 +195,35 @@ http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
 #EXTINF:-1,Varzesh
 
 http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
+
+#EXTINF:-1,MBC
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8425.ts
+
+#EXTINF:-1,MBC 2
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8426.ts
+
+#EXTINF:-1,MBC 3
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8427.ts
+
+#EXTINF:-1,MBC 4
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8428.ts
+
+#EXTINF:-1,MBC Action
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8431.ts
+
+#EXTINF:-1,MBC Bollywood
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8429.ts
+
+#EXTINF:-1,MBC Drama
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8430.ts
+
+#EXTINF:-1,MBC Maxx
+
+http://tv.smartal.net:25461/live/kanaletsomaleze/somalezekanalet/8432.ts
