@@ -10,7 +10,7 @@ https://d3k1w9cxbwgqyk.cloudfront.net/profile2/out_0_1500.m3u8
 
 #EXTINF:-1,PMC
 
-http://38.99.146.180:7777/PMCMusic/PMCMusic_LR.m3u8?user=sglsnpn4himm4wmzcrjewx4y5a55&session=af612f7acdb3344fcf38c6cbc14dd9f17bc3a6e43933c3f3b760fe8d5df77e06c8cca8df4856d83d58dd1d18c7ba9c6898cae5ac26ff34fade2a9a15d4e21705&hlsid=HTTP_ID_2429129&group_id=-1&
+http://63.237.48.28/ios/PMC/PMC.m3u8
 
 #EXTINF:-1,MTC
 
@@ -19,6 +19,10 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1847865718.m3u8
 #EXTINF:-1,Radio Farda
 
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/chunklist_w1404657365_b2892000.m3u8
+
+#EXTINF:-1,Tapesh
+
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:-1,AFN Music
 
@@ -30,7 +34,7 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1,ITN
 
-http://38.99.146.181:7777/ITN/ITN_LR.m3u8?user=sglsabrmhlrxdyp4my55xx5fnb3d&session=35c674279ab73522161c8082d5c57c31a512177b8842a91e8fc98296753904d9035463a4cf1ddd0f39b2ac6d59db850a76a53a31f79a0d18&hlsid=HTTP_ID_1821404&group_id=-1&
+http://iriptv.com:1935/iriptv1/8.stream/index.m3u8
 
 #EXTINF:-1, Cinefilm
 
@@ -70,11 +74,11 @@ http://5.255.90.242:5000/play/a00j
 
 #EXTINF:-1,Nat Geo Farsi HD
 
-http://5.255.90.242:5000/play/a006
+http://63.237.48.28/ios/ICC/ICC.m3u8
 
 #EXTINF:-1,Khane Film
 
-http://5.255.90.242:5000/play/a00m
+http://iriptv.com:1935/iriptv1/9.stream/index.m3u8
 
 #EXTINF:-1,Khanehonarmandan
 
@@ -84,9 +88,49 @@ http://5.255.90.242:5000/play/a00f
 
 http://63.237.48.28/ios/MERCI_TV/MERCI_TV.m3u8
 
-#EXTINF:-1,Tapesh
+#EXTINF:-1, Persian Star 1
 
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+http://iriptv.com:1935/iriptv1/10.stream/index.m3u8
+
+#EXTINF:-1,Iran TV Israel
+
+http://54.86.164.91:1935/edge/80_11_live/chunklist_w1480665735.m3u8
+
+#EXTINF:-1,Israel Pars TV
+
+http://66.160.192.250:8080/asaltv/live/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Sat7 Pars
+
+http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/chunklist_w30144826_b1000000.m3u8
+
+#EXTINF:-1,Persian Bazar
+
+http://stream.persiantv1.com/live/pbtv/index.m3u8
+
+#EXTINF:-1,Kalameh
+
+rtmp://184.75.208.99/livepkgr//kalemeh2
+
+#EXTINF:-1,Payvan
+
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
+
+#EXTINF:-1,GALA 1
+
+http://iriptv.com:1935/iriptv1/2.stream/index.m3u8
+
+#EXTINF:-1,HTV Network
+
+http://35.182.9.220:1935/HTVNetwork/myStream/chunklist_w1248167906.m3u8
+
+#EXTINF:-1,HTV Toon
+
+http://35.182.9.220:1935/HTVToon/myStream/chunklist_w1443131338.m3u8
+
+#EXTINF:-1,Dream Land TV
+
+http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
 
 #EXTINF:-1,TIN
 
@@ -99,6 +143,10 @@ http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
 #EXTINF:-1,Gem USA
 
 http://63.237.48.28/ios/GEM_USA/GEM_USA.m3u8
+
+#EXTINF:-1,Gem Junior
+
+http://nimlive3.giniko.com/gemjunior/gemjunior/chunklist_w1232898574.m3u8?nimblesessionid=28072768&wmsAuthSign=c2VydmVyX3RpbWU9My8xNS8yMDE4IDU6MzE6MjEgUE0maGFzaF92YWx1ZT1mSkpuZjUwamtJMnp2a2RxSmhENy9BPT0mdmFsaWRtaW51dGVzPTE0NDA=
 
 #EXTINF:-1,TVP
 
@@ -127,6 +175,10 @@ http://38.117.88.158:7777/BBCPersian/BBCPersian_LR.m3u8?user=sgls51jox455krwii4r
 #EXTINF:-1,VOA
 
 http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
+
+#EXTINF:-1,Channel One
+
+http://2nbyjjx7y53k-hls-live.5centscdn.com/835/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Euronews Farsi
 
