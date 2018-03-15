@@ -40,37 +40,25 @@ http://iriptv.com:1935/iriptv1/8.stream/index.m3u8
 
 http://176.9.48.184:1935/cinefilmhd/CineFilm/chunklist_w1942574941.m3u8
 
-#EXTINF:-1,Cine Series HD
+#EXTINF:-1,MI TV
 
-http://5.255.90.242:5000/play/a051
+http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
 
-#EXTINF:-1,Home & Health TV
+#EXTINF:-1,AAA family
 
-http://5.255.90.242:5000/play/a00p
+http://63.237.48.28/ios/AAA_FAMILY/AAA_FAMILY.m3u8
 
-#EXTINF:-1,IR Cama 1 TV
+#EXTINF:-1,Persian movie
 
-http://5.255.90.242:5000/play/a00h
+http://63.237.48.28/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
 
-#EXTINF:-1,4U TV
+#EXTINF:-1,Iran FMTV
 
-http://5.255.90.242:5000/play/a00l
+http://63.237.48.28/ios/IRAN_FMTV/IRAN_FMTV.m3u8
 
-#EXTINF:-1,CATV
+#EXTINF:-1,TVP 1
 
-http://5.255.90.242:5000/play/a00e
-
-#EXTINF:-1,Extreme Sports
-
-http://5.255.90.242:5000/play/a003
-
-#EXTINF:-1,NOW TV
-
-http://5.255.90.242:5000/play/a00s
-
-#EXTINF:-1,IR Cama 3 TV
-
-http://5.255.90.242:5000/play/a00j
+http://63.237.48.28/ios/TVP/TVP.m3u8
 
 #EXTINF:-1,Nat Geo Farsi HD
 
@@ -79,10 +67,6 @@ http://63.237.48.28/ios/ICC/ICC.m3u8
 #EXTINF:-1,Khane Film
 
 http://iriptv.com:1935/iriptv1/9.stream/index.m3u8
-
-#EXTINF:-1,Khanehonarmandan
-
-http://5.255.90.242:5000/play/a00f
 
 #EXTINF:-1,Merci
 
@@ -107,6 +91,10 @@ http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/chunklist_w30144826_b
 #EXTINF:-1,Persian Bazar
 
 http://stream.persiantv1.com/live/pbtv/index.m3u8
+
+#EXTINF:-1,TM TV
+
+http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
 
 #EXTINF:-1,Kalameh
 
@@ -284,19 +272,3 @@ http://5.196.90.62:8080/MBC4_HD/index.m3u8
 #EXTINF:-1,MEDI 1
 
 http://5.196.90.62:8080/Medi_1/index.m3u8
-
-#EXTINF:0,osn:WWE ART+
- 
-http://streaming.i-sat.tv:8081/live/wwe/chunks.m3u8
-
-#EXTINF:0,osn:ARTcinema
- 
-http://streaming.i-sat.tv:8081/live/oci/chunks.m3u8
-
-#EXTINF:0,osn:MOVIES+2
- 
-http://streaming.i-sat.tv:8081/live/osm/chunks.m3u8
-
-#EXTINF:0,osn: foxMOVIES+
- 
-http://streaming.i-sat.tv:8081/live/fox1/chunks.m3u8
