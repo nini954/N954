@@ -124,10 +124,6 @@ http://63.237.48.28/ios/TVP/TVP.m3u8
 
 http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
 
-#EXTINF:-1,Persian Star 1
-
-http://38.117.88.158:7777/PersianStar1/PersianStar1_LR.m3u8?user=sglsabrmhlrxdyp4my55xx5fnb3d&session=b214f3f0f29c6ad557b14162a17a57c1a5efa60ab34bcb522d4474e11c168c750d5929e3ece1c8dcbee53f4cf74b5f6d9a8572e2cf23fdad13d5ccb264f101fb&hlsid=HTTP_ID_2384095&group_id=-1&
-
 #EXTINF:-1,Apadana
 
 http://stream.aeducationaltv.org/live/appadana/index.m3u8
