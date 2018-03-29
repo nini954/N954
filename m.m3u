@@ -132,14 +132,6 @@ http://stream.aeducationaltv.org/live/appadana/index.m3u8
 
 http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
 
-#EXTINF:-1,BBC persian
-
-http://38.117.88.158:7777/BBCPersian/BBCPersian_LR.m3u8?user=sgls51jox455krwii4r11etgor45&session=1008051ec43c15b15fe11a8ff27b311efd46899971a63a7a38c355fef4236af461f9b12ec9edf6a451659bf6c3e33401ba447235df9e27fd5893628775e44683&hlsid=HTTP_ID_2383483&group_id=-1&
-
-#EXTINF:-1,VOA
-
-http://63.237.48.28/ios/VOA_PERSIAN/VOA_PERSIAN.m3u8
-
 #EXTINF:-1,Channel One
 
 http://2nbyjjx7y53k-hls-live.5centscdn.com/835/cls040317/0070c5b7ef083bdc8de09065c61a34d8.sdp/tracks-v1a1/index.m3u8
