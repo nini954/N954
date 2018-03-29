@@ -116,10 +116,6 @@ http://35.182.9.220:1935/HTVToon/myStream/chunklist_w1443131338.m3u8
 
 http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
 
-#EXTINF:-1,TIN
-
-http://63.237.48.28/ios/TIN/TIN.m3u8
-
 #EXTINF:-1,Time TV
 
 http://63.237.48.28/ios/TIME_TV/TIME_TV.m3u8
