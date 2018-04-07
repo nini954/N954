@@ -160,7 +160,6 @@ http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
 
 http://s2.telewebion.com:1935/devices/_definst_/tv1-500k.stream/chunklist_w1339289826.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMTUvMjAxOCAyOjE3OjUwIEFNJmhhc2hfdmFsdWU9M3lPdFRDbG8ycitUWUdaWldFRVZodz09JnZhbGlkbWludXRlcz02MDAw
 
-
 #EXTINF:-1,IRIB 2
 
 http://irib-live.arvancloud.com/tv2/tv2_480/index.m3u8
@@ -189,6 +188,26 @@ http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
 
 http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
 
+#EXTINF:-1,IRIB TV5
+
+http://63.237.48.28/ios/IRIB_TV5/IRIB_TV5.m3u8
+
+#EXTINF:-1,IRIB TV3
+
+http://63.237.48.9/ios/IRIB_TV3_3/IRIB_TV3_3.m3u8
+
+#EXTINF:-1,IRIB TV4
+
+http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
+
+#EXTINF:-1,IRIB TV2
+
+http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
+
+#EXTINF:-1,IRIB TV1
+
+http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
+
 #EXTINF:-1,MBC 1
 
 http://5.196.90.62:8080/MBC_1/index.m3u8
@@ -212,6 +231,10 @@ http://5.196.90.62:8080/MBC_Bollywood/index.m3u8
 #EXTINF:-1,MBC 1 HD
 
 http://5.196.90.62:8080/MBC1_HD/index.m3u8
+
+#EXTINF:-1,Varzesh
+
+http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
 
 #EXTINF:-1,MBC 2 HD
 
