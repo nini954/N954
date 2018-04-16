@@ -212,6 +212,14 @@ http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
 
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 
+#EXTINF:-1,One TV
+
+https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/chunklist_w1395320655.m3u8
+
+#EXTINF:-1,ID Fashion
+
+http://95.67.8.22/hls/idfashion/index.m3u8
+
 #EXTINF:-1,MBC 1
 
 http://5.196.90.62:8080/MBC_1/index.m3u8
