@@ -112,6 +112,10 @@ http://35.182.9.220:1935/HTVNetwork/myStream/chunklist_w1248167906.m3u8
 
 http://35.182.9.220:1935/HTVToon/myStream/chunklist_w1443131338.m3u8
 
+#EXTINF:-1,HTV Fashion
+
+http://35.182.9.220:1935/HTVFashion/myStream/chunklist_w543560942.m3u8
+
 #EXTINF:-1,Dream Land TV
 
 http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
