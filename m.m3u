@@ -34,7 +34,7 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1,ITN
 
-http://iriptv.com:1935/iriptv1/8.stream/index.m3u8
+http://63.237.48.28/ios/ITN/ITN.m3u8
 
 #EXTINF:-1, Cinefilm
 
@@ -111,6 +111,10 @@ http://35.182.9.220:1935/HTVNetwork/myStream/chunklist_w1248167906.m3u8
 #EXTINF:-1,HTV Toon
 
 http://35.182.9.220:1935/HTVToon/myStream/chunklist_w1443131338.m3u8
+
+#EXTINF:-1,HTV Sport
+
+http://35.182.9.220:1935/HTVSports/myStream/chunklist_w1400531665.m3u8
 
 #EXTINF:-1,HTV Fashion
 
@@ -259,3 +263,8 @@ http://5.196.90.62:8080/MBC4_HD/index.m3u8
 #EXTINF:-1,MEDI 1
 
 http://5.196.90.62:8080/Medi_1/index.m3u8
+
+#EXTINF:-1,PBS kids
+
+http://live-cdn.pbskids.org/out/u/est_3.m3u8
+
