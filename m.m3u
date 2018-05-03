@@ -268,18 +268,6 @@ http://154.54.220.216:9981/stream/channelid/2013862304
 
 http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
 
-#EXTINF:-1,MBC 2 HD
-
-http://5.196.90.62:8080/MBC2_HD/index.m3u8
-
-#EXTINF:-1,MBC 4 HD
-
-http://5.196.90.62:8080/MBC4_HD/index.m3u8
-
-#EXTINF:-1,MEDI 1
-
-http://5.196.90.62:8080/Medi_1/index.m3u8
-
 #EXTINF:-1,PBS kids
 
 http://live-cdn.pbskids.org/out/u/est_3.m3u8
