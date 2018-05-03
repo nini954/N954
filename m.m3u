@@ -36,6 +36,10 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 http://63.237.48.28/ios/ITN/ITN.m3u8
 
+#EXTINF:-1,We1
+
+rtmp://63.237.48.28/live//GEM_TV
+
 #EXTINF:-1, Cinefilm
 
 http://176.9.48.184:1935/cinefilmhd/CineFilm/chunklist_w1942574941.m3u8
