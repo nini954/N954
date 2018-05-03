@@ -226,47 +226,43 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 
 #EXTINF:-1,MBC Action HD
 
-http://154.54.220.216:9981/stream/channelid/1104809670
+http://154.54.220.216:9981/stream/channelid/1104809670.ts
 
 #EXTINF:-1,MBC Bollywood HD
 
-http://154.54.220.216:9981/stream/channelid/552331296
+http://154.54.220.216:9981/stream/channelid/552331296.ts
 
 #EXTINF:-1,MBC Drama HD
 
-http://154.54.220.216:9981/stream/channelid/2025093463
+http://154.54.220.216:9981/stream/channelid/2025093463.ts
 
 #EXTINF:-1,MBC MAX HD
 
-http://154.54.220.216:9981/stream/channelid/616326957
+http://154.54.220.216:9981/stream/channelid/616326957.ts
 
 #EXTINF:-1,MBC P VARIETY
 
-http://154.54.220.216:9981/stream/channelid/577938466
+http://154.54.220.216:9981/stream/channelid/577938466.ts
 
 #EXTINF:-1,MBC+ Drama HD
 
-http://154.54.220.216:9981/stream/channelid/1765034104
+http://154.54.220.216:9981/stream/channelid/1765034104.ts
 
 #EXTINF:-1,MBC1 HD
 
-http://154.54.220.216:9981/stream/channelid/1977556500
+http://154.54.220.216:9981/stream/channelid/1977556500.ts
 
 #EXTINF:-1,MBC2 HD
 
-http://154.54.220.216:9981/stream/channelid/266844742
+http://154.54.220.216:9981/stream/channelid/266844742.ts
 
 #EXTINF:-1,MBC3 HD
 
-http://154.54.220.216:9981/stream/channelid/2095979087
+http://154.54.220.216:9981/stream/channelid/2095979087.ts
 
 #EXTINF:-1,MBC4 HD
 
-http://154.54.220.216:9981/stream/channelid/2013862304
-
-#EXTINF:-1,Varzesh
-
-http://63.237.48.28/ios/VARZESH_TV/VARZESH_TV.m3u8
+http://154.54.220.216:9981/stream/channelid/2013862304.ts
 
 #EXTINF:-1,PBS kids
 
