@@ -224,29 +224,45 @@ https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/chunklist_w1395320655.m3u8
 
 http://95.67.8.22/hls/idfashion/index.m3u8
 
-#EXTINF:-1,MBC 1
+#EXTINF:-1,MBC Action HD
 
-http://5.196.90.62:8080/MBC_1/index.m3u8
+http://154.54.220.216:9981/stream/channelid/1104809670
 
-#EXTINF:-1,MBC 2
+#EXTINF:-1,MBC Bollywood HD
 
-http://5.196.90.62:8080/MBC_2/index.m3u8
+http://154.54.220.216:9981/stream/channelid/552331296
 
-#EXTINF:-1,MBC 4
+#EXTINF:-1,MBC Drama HD
 
-http://5.196.90.62:8080/MBC_4/index.m3u8
+http://154.54.220.216:9981/stream/channelid/2025093463
 
-#EXTINF:-1,MBC DRAMA
+#EXTINF:-1,MBC MAX HD
 
-http://5.196.90.62:8080/MBC_Drama/index.m3u8
+http://154.54.220.216:9981/stream/channelid/616326957
 
-#EXTINF:-1,MBC BOLLYWOOD
+#EXTINF:-1,MBC P VARIETY
 
-http://5.196.90.62:8080/MBC_Bollywood/index.m3u8
+http://154.54.220.216:9981/stream/channelid/577938466
 
-#EXTINF:-1,MBC 1 HD
+#EXTINF:-1,MBC+ Drama HD
 
-http://5.196.90.62:8080/MBC1_HD/index.m3u8
+http://154.54.220.216:9981/stream/channelid/1765034104
+
+#EXTINF:-1,MBC1 HD
+
+http://154.54.220.216:9981/stream/channelid/1977556500
+
+#EXTINF:-1,MBC2 HD
+
+http://154.54.220.216:9981/stream/channelid/266844742
+
+#EXTINF:-1,MBC3 HD
+
+http://154.54.220.216:9981/stream/channelid/2095979087
+
+#EXTINF:-1,MBC4 HD
+
+http://154.54.220.216:9981/stream/channelid/2013862304
 
 #EXTINF:-1,Varzesh
 
