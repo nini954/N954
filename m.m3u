@@ -214,7 +214,7 @@ http://63.237.48.28/ios/IRIB_TV4/IRIB_TV4.m3u8
 
 #EXTINF:-1,IRIB TV2
 
-http://63.237.48.28/ios/IRIB_TV2/IRIB_TV2.m3u8
+http://dl7.film2movie.us/film/Re.ady.Pla.yer.On.e.2018.720p.hd.rp.MkvCage.Film2Movie_US.mkv
 
 #EXTINF:-1,IRIB TV1
 
@@ -272,3 +272,6 @@ http://154.54.220.216:9981/stream/channelid/2013862304.ts
 
 http://live-cdn.pbskids.org/out/u/est_3.m3u8
 
+#EXTINF:-1,Ready player one
+
+http://dl7.film2movie.us/film/Re.ady.Pla.yer.On.e.2018.720p.hd.rp.MkvCage.Film2Movie_US.mkv
