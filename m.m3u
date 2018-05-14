@@ -40,6 +40,14 @@ http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
 
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
+#EXTINF:-1,MI TV
+
+http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
+
+#EXTINF:-1,Iran TV Israel
+
+http://54.86.164.91:1935/edge/80_11_live/playlist.m3u8
+
 #EXTINF:-1,ebc1hd
 
 http://66.160.192.249:8080/ebc1hd.tvboxhd.com/high/27987/tracks-v1a1/index.m3u8
@@ -63,10 +71,6 @@ http://63.237.48.28/ios/ITN/ITN.m3u8
 #EXTINF:-1,We1
 
 rtmp://63.237.48.28/live//GEM_TV
-
-#EXTINF:-1,MI TV
-
-http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
 
 #EXTINF:-1,AAA family
 
@@ -99,10 +103,6 @@ http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u
 #EXTINF:-1, Persian Star 1
 
 http://iriptv.com:1935/iriptv1/10.stream/index.m3u8
-
-#EXTINF:-1,Iran TV Israel
-
-http://54.86.164.91:1935/edge/80_11_live/playlist.m3u8
 
 #EXTINF:-1,Asal TV
 
