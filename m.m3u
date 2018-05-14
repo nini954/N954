@@ -156,10 +156,6 @@ https://59355e6c6462b.streamlock.net/live/azadah/playlist.m3u8
 
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
 
-#EXTINF:-1,GALA 1
-
-http://iriptv.com:1935/iriptv1/2.stream/index.m3u8
-
 #EXTINF:-1,HTV Network
 
 http://35.182.9.220:1935/HTVNetwork/myStream/chunklist_w1248167906.m3u8
@@ -267,10 +263,6 @@ http://dl7.film2movie.us/film/Re.ady.Pla.yer.On.e.2018.720p.hd.rp.MkvCage.Film2M
 #EXTINF:-1,IRIB TV1
 
 http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
-
-#EXTINF:-1,One TV
-
-https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/chunklist_w1395320655.m3u8
 
 #EXTINF:-1,ID Fashion
 
