@@ -152,14 +152,6 @@ http://104.236.167.95/live/playlist.m3u8
 
 https://59355e6c6462b.streamlock.net/live/azadah/playlist.m3u8
 
-#EXTINF:-1, PDF TV
-
-http://iriptv.com:1935/iriptv/pdftv.stream/index.m3u8
-
-#EXTINF:-1,Kalameh
-
-rtmp://184.75.208.99/livepkgr//kalemeh2
-
 #EXTINF:-1,Payvan
 
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
