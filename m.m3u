@@ -56,10 +56,6 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 http://stream.rtimetv.com/live/rtimetv/index.m3u8
 
-#EXTINF:-1, GEM we1
-
-http://63.237.48.28/ios/GEM_TV/GEM_TV.m3u8
-
 #EXTINF:-1,ITN
 
 http://63.237.48.28/ios/ITN/ITN.m3u8
