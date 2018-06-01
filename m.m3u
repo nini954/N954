@@ -44,10 +44,6 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 http://63.237.48.28/ios/MI_TV/MI_TV.m3u8
 
-#EXTINF:-1,Iran TV Israel
-
-http://54.86.164.91:1935/edge/80_11_live/playlist.m3u8
-
 #EXTINF:-1,ebc1hd
 
 http://66.160.192.249:8080/ebc1hd.tvboxhd.com/high/27987/tracks-v1a1/index.m3u8
@@ -59,14 +55,6 @@ http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 #EXTINF:-1,Parsiland
 
 http://vps.parsiland.net/hls/ParsiLand.m3u8
-
-#EXTINF:-1, ROYAL TV
-
-http://stream.rtimetv.com/live/rtimetv/index.m3u8
-
-#EXTINF:-1,ITN
-
-http://63.237.48.28/ios/ITN/ITN.m3u8
 
 #EXTINF:-1,We1
 
@@ -84,33 +72,17 @@ http://63.237.48.28/ios/PERSIAN_MOVIE/PERSIAN_MOVIE.m3u8
 
 http://63.237.48.28/ios/IRAN_FMTV/IRAN_FMTV.m3u8
 
-#EXTINF:-1,TVP 1
-
-http://63.237.48.28/ios/TVP/TVP.m3u8
-
 #EXTINF:-1,Nat Geo Farsi HD
 
 http://63.237.48.28/ios/ICC/ICC.m3u8
-
-#EXTINF:-1,Khane Film
-
-http://iriptv.com:1935/iriptv1/9.stream/index.m3u8
 
 #EXTINF:-1, Omide Iran tv
 
 http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, Persian Star 1
-
-http://iriptv.com:1935/iriptv1/10.stream/index.m3u8
-
 #EXTINF:-1,Asal TV
 
 http://66.160.192.250:8080/asaltv/live/index.m3u8
-
-#EXTINF:-1,Sat7 Pars
-
-http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/chunklist_w30144826_b1000000.m3u8
 
 #EXTINF:-1,Persian Bazar
 
@@ -156,41 +128,9 @@ https://59355e6c6462b.streamlock.net/live/azadah/playlist.m3u8
 
 http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
 
-#EXTINF:-1,HTV Network
-
-http://35.182.9.220:1935/HTVNetwork/myStream/chunklist_w1248167906.m3u8
-
-#EXTINF:-1,HTV Toon
-
-http://35.182.9.220:1935/HTVToon/myStream/chunklist_w1443131338.m3u8
-
-#EXTINF:-1,HTV Sport
-
-http://35.182.9.220:1935/HTVSports/myStream/chunklist_w1400531665.m3u8
-
-#EXTINF:-1,HTV Fashion
-
-http://35.182.9.220:1935/HTVFashion/myStream/chunklist_w543560942.m3u8
-
 #EXTINF:-1,Dream Land TV
 
 http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
-
-#EXTINF:-1,TVP
-
-http://63.237.48.28/ios/TVP/TVP.m3u8
-
-#EXTINF:-1,TM TV
-
-http://63.237.48.28/ios/TM_TV/TM_TV.m3u8
-
-#EXTINF:-1,Apadana
-
-http://stream.aeducationaltv.org/live/appadana/index.m3u8
-
-#EXTINF:-1,Didar
-
-http://63.237.48.28/ios/DIDAR/DIDAR.m3u8
 
 #EXTINF:-1,Euronews Farsi
 
@@ -267,46 +207,6 @@ http://63.237.48.28/ios/IRIB_TV1/IRIB_TV1.m3u8
 #EXTINF:-1,ID Fashion
 
 http://95.67.8.22/hls/idfashion/index.m3u8
-
-#EXTINF:-1,MBC Action HD
-
-http://154.54.220.216:9981/stream/channelid/1104809670.ts
-
-#EXTINF:-1,MBC Bollywood HD
-
-http://154.54.220.216:9981/stream/channelid/552331296.ts
-
-#EXTINF:-1,MBC Drama HD
-
-http://154.54.220.216:9981/stream/channelid/2025093463.ts
-
-#EXTINF:-1,MBC MAX HD
-
-http://154.54.220.216:9981/stream/channelid/616326957.ts
-
-#EXTINF:-1,MBC P VARIETY
-
-http://154.54.220.216:9981/stream/channelid/577938466.ts
-
-#EXTINF:-1,MBC+ Drama HD
-
-http://154.54.220.216:9981/stream/channelid/1765034104.ts
-
-#EXTINF:-1,MBC1 HD
-
-http://154.54.220.216:9981/stream/channelid/1977556500.ts
-
-#EXTINF:-1,MBC2 HD
-
-http://154.54.220.216:9981/stream/channelid/266844742.ts
-
-#EXTINF:-1,MBC3 HD
-
-http://154.54.220.216:9981/stream/channelid/2095979087.ts
-
-#EXTINF:-1,MBC4 HD
-
-http://154.54.220.216:9981/stream/channelid/2013862304.ts
 
 #EXTINF:-1,PBS kids
 
