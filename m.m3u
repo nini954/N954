@@ -226,4 +226,5 @@ http://cdn1.live.irib.ir:1935/e-tv/tv3-300k.stream/chunklist.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://s2.telewebion.com:1935/devices/_definst_/tv3-500k.stream/chunklist_w1146531891.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTYvMTQvMjAxOCA1OjU6MTAgUE0maGFzaF92YWx1ZT11ZjA3bEVMazloTHVEcjU0aGlGaTNBPT0mdmFsaWRtaW51dGVzPTYwMDA%3D
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist.m3u8
+
