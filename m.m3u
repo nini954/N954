@@ -215,3 +215,11 @@ http://live-cdn.pbskids.org/out/u/est_3.m3u8
 #EXTINF:-1,IRIB TV3
 
 http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist_w1781376120_b2048000_slFA.m3u8?livestreamendtime=1529174888&livestreamhash=pwzNoE26FKU3REFSjN4nRpgG-EtxYUwuAqdtwI9L4e3ek9YEbDgrc6SaYHgZbuUoZGPCg-s5ourjG0Tf1wqFuw%3D%3D&livestreamstarttime=1528994868
+
+#EXTINF:-1,IRIB TV3
+
+http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist.m3u8
+
+#EXTINF:-1,IRIB TV3
+
+http://cdn1.live.irib.ir:1935/e-tv/tv3-300k.stream/chunklist.m3u8
