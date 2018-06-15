@@ -236,3 +236,15 @@ http://s2.telewebion.com:1935/devices/_definst_/tv3-500k.stream/chunklist_w12060
 
 http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist.m3u8
 
+#EXTINF:-1,IRIB TV3
+
+https://irib-live.arvancloud.com/tv3/tv3_240/index.m3u8
+
+#EXTINF:-1,IRIB TV3
+
+https://irib-live.arvancloud.com/tv3/tv3_360/index.m3u8
+
+#EXTINF:-1,IRIB TV3
+
+https://irib-live.arvancloud.com/tv3/tv3_480/index.m3u8
+
