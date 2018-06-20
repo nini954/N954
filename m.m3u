@@ -214,40 +214,44 @@ http://live-cdn.pbskids.org/out/u/est_3.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist_w1781376120_b2048000_slFA.m3u8?livestreamendtime=1529174888&livestreamhash=pwzNoE26FKU3REFSjN4nRpgG-EtxYUwuAqdtwI9L4e3ek9YEbDgrc6SaYHgZbuUoZGPCg-s5ourjG0Tf1wqFuw%3D%3D&livestreamstarttime=1528994868
+http://63.237.48.9/ios/IRIB_TV3_2/IRIB_TV3_2.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist.m3u8
+http://cdn1.live.irib.ir:1935/channel-live/tv3-300k.stream/chunklist.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://cdn1.live.irib.ir:1935/e-tv/tv3-300k.stream/chunklist.m3u8
+http://cdn1.live.irib.ir:1935/channel-live/smil:tv3/chunklist.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://cdn1.live.irib.ir:1935/channel-live/smil:tv1/chunklist.m3u8
+http://2219.janjuaplayer.com:8088/live/zendetv_1/playlist.m3u8?id=81238&wowzasessionid=439299889&pk=41b8eb08d07d2b943c160492cd81e3a36432421fe3f5ede0492fe98112dc9a0f
 
 #EXTINF:-1,IRIB TV3
 
-http://s2.telewebion.com:1935/devices/_definst_/tv3-500k.stream/chunklist_w1206077085.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTYvMTQvMjAxOCA1OjE2OjI5IFBNJmhhc2hfdmFsdWU9QVAxalpBRFA3Tkd4OVovL3ErcEpVQT09JnZhbGlkbWludXRlcz02MDAw
+http://s2.telewebion.com:1935/devices/_definst_/tv3-500k.stream/chunklist.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist.m3u8
+http://94.182.132.10/live-53/53_tv3.stream_low.m3u8?
 
 #EXTINF:-1,IRIB TV3
 
-https://irib-live.arvancloud.com/tv3/tv3_240/index.m3u8
+http://94.182.132.11/live-53/53_tv3.stream_mid.m3u8?
 
 #EXTINF:-1,IRIB TV3
 
-https://irib-live.arvancloud.com/tv3/tv3_360/index.m3u8
+http://94.182.132.11/live-53/53_tv3.stream_hd720.m3u8?
 
 #EXTINF:-1,IRIB TV3
 
-https://irib-live.arvancloud.com/tv3/tv3_480/index.m3u8
+http://77.238.121.150/live-53/smil:53_tv3.smil/chunklist.m3u8
 
 #EXTINF:-1,IRIB TV3
 
-http://77.238.121.147/live-53/smil:53_tv3.smil/chunklist.m3u8
+http://77.238.121.150/live-53/smil:53_tv3.smil/chunklist.m3u8
+
+#EXTINF:-1,IRIB TV3
+
+http://77.238.121.150/live-53/smil:53_tv3.smil/chunklist.m3u8
