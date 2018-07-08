@@ -20,22 +20,6 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1847865718.m3u8
 
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/chunklist_w1404657365_b2892000.m3u8
 
-#EXTINF:-1,HTVtoon
-
-http://35.203.16.99:1935/HTVToon/myStream/chunklist_w1528188621.m3u8
-
-#EXTINF:-1,HTV network
-
-http://35.203.16.99:1935/HTVNetwork/myStream/chunklist_w1845553049.m3u8
-
-#EXTINF:-1,HTV fashion
-
-http://35.203.16.99:1935/HTVFashion/myStream/chunklist_w1213358422.m3u8
-
-#EXTINF:-1,HTV sport
-
-http://35.203.16.99:1935/HTVSports/myStream/chunklist_w1079849198.m3u8
-
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
