@@ -36,10 +36,6 @@ http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
 
 http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Caltex Music TV
-
-http://vid1.caltexmusic.com/hls/caltextv.m3u8
-
 #EXTINF:-1,gem tv
 
 http://38.99.146.150:7777/GEMTV/GEMTV_LR.m3u8?user=sglsi0wpulmpudlimgr4iefaximo&session=437a5dba85c777bcc2dc70e3c3e51f3f7ff8af01fd00ad1f72c4189682e573373f944d4d36b0831e026f8d2ac83bf38c4a5cae587b2c935d&hlsid=HTTP_ID_28690&group_id=-1&
@@ -104,21 +100,9 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
 https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8?DVR
 
-#EXTINF:-1,Payvan
-
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
-
-#EXTINF:-1,Dream Land TV
-
-http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
-
 #EXTINF:-1,kalameh
 
 http://184.75.208.98:1935/live/kalemeh/chunklist_w755575072.m3u8
-
-#EXTINF:-1,Irane Farda
-
-http://66.160.192.249:8080/iranefarda/high/112416/TVBOXHD.COM/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,bbc
 
@@ -128,6 +112,14 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_400_av-p.m3u8
 
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8?
 
+#EXTINF:-1,Payvan
+
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
+
+#EXTINF:-1,Dream Land TV
+
+http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
+
 #EXTINF:-1,parnian tv
 
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@529746/index_150_av-p.m3u8?
@@ -136,41 +128,9 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@529746/index_150_av-p.m3u8?
 
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,IRIB 1
-
-http://s2.telewebion.com:1935/devices/_definst_/tv1-500k.stream/chunklist_w1339289826.m3u8?wmsAuthSign=aXNfZnJlZT0xJnNlcnZlcl90aW1lPTIvMTUvMjAxOCAyOjE3OjUwIEFNJmhhc2hfdmFsdWU9M3lPdFRDbG8ycitUWUdaWldFRVZodz09JnZhbGlkbWludXRlcz02MDAw
-
-#EXTINF:-1,IRIB 2
-
-http://irib-live.arvancloud.com/tv2/tv2_480/index.m3u8
-
-#EXTINF:-1,IRIB 3
-
-http://irib-live.arvancloud.com/tv3hd/tv3hd_720/index.m3u8
-
-#EXTINF:-1,IRIB 4
-
-http://irib-live.arvancloud.com/tv4/tv4_480/index.m3u8
-
-#EXTINF:-1,IRIB 5
-
-http://irib-live.arvancloud.com/tv5/tv5_480/index.m3u8
-
 #EXTINF:-1,IRIB 6
 
-http://irib-live.arvancloud.com/irinn/irinn_360/index.m3u8
-
-#EXTINF:-1,Nasim
-
-http://irib-live.arvancloud.com/nasim/nasim_480/index.m3u8
-
-#EXTINF:-1,Varzesh
-
-http://irib-live.arvancloud.com/varzesh/varzesh_360/index.m3u8
-
-#EXTINF:-1,IRIB TV2
-
-http://dl7.film2movie.us/film/Re.ady.Pla.yer.On.e.2018.720p.hd.rp.MkvCage.Film2Movie_US.mkv
+http://cdn1.live.irib.ir:1935/channel-live/irinn-300k.stream/chunklist.m3u8
 
 #EXTINF:-1,ID Fashion
 
@@ -179,4 +139,8 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 #EXTINF:-1,PBS kids
 
 http://live-cdn.pbskids.org/out/u/est_3.m3u8
+
+#EXTINF:-1,Caltex Music TV
+
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
