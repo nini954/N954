@@ -20,6 +20,10 @@ https://live.navahang.tv/hls/navahangtv.m3u8
 
 https://rjtv1.rjtv.me/live/smil:rjtv.smil/chunklist_w1404657365_b2892000.m3u8
 
+#EXTINF:-1,Caltex Music TV
+
+http://vid1.caltexmusic.com/hls/caltextv.m3u8
+
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
@@ -36,25 +40,9 @@ http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
 
 http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,gem tv
-
-http://38.99.146.150:7777/GEMTV/GEMTV_LR.m3u8?user=sglsi0wpulmpudlimgr4iefaximo&session=437a5dba85c777bcc2dc70e3c3e51f3f7ff8af01fd00ad1f72c4189682e573373f944d4d36b0831e026f8d2ac83bf38c4a5cae587b2c935d&hlsid=HTTP_ID_28690&group_id=-1&
-
-#EXTINF:-1,gem river
-
-http://38.99.146.180:7777/GemLife1/GemLife1_LR.m3u8?user=sglsi0wpulmpudlimgr4iefaximo&session=b459b08049fc2a96eaa29a4319105dbff257ec6b8cea0aa36afe52b8a121b1507d00697b36685a656b7b1678cf51ec8ee2f75a7ae5258a0ade2a9a15d4e21705&hlsid=HTTP_ID_724885&group_id=-1&
-
-#EXTINF:-1,royal tv
-
-http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
-
 #EXTINF:-1,Persian bazar
 
 http://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-
-#EXTINF:-1, KRAL LOVE
-
-http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 
 #EXTINF:-1,Parsiland
 
@@ -140,7 +128,10 @@ http://95.67.8.22/hls/idfashion/index.m3u8
 
 http://live-cdn.pbskids.org/out/u/est_3.m3u8
 
-#EXTINF:-1,Caltex Music TV
+#EXTINF:-1,royal tv
 
-http://vid1.caltexmusic.com/hls/caltextv.m3u8
+http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 
+#EXTINF:-1, KRAL LOVE
+
+http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
