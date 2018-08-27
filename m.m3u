@@ -13,7 +13,12 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
 http://63.237.48.9/ios/ITN/ITN.m3u8
 
 #EXTINF:-1,GEM
+
 http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/50.ts
+
+#EXTINF:-1,PMC
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/86.ts
 
 #EXTINF:-1,MTC
 
