@@ -6,19 +6,167 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 #EXTINF:-1,Manoto
 
-https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
+https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 
 #EXTINF:-1,ITN
 
 http://63.237.48.9/ios/ITN/ITN.m3u8
 
-#EXTINF:-1,GEM
+#EXTINF:-1,GEM USA
 
 http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/50.ts
 
 #EXTINF:-1,PMC
 
 http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/86.ts
+
+#EXTINF:-1,GEM Rubix
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/87.ts
+
+#EXTINF:-1,GEM RIver
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/88.ts
+
+#EXTINF:-1,VOA
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/85.ts
+
+#EXTINF:-1,Gem Travel
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/47.ts
+
+#EXTINF:-1,TV Persia
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/38.ts
+
+#EXTINF:-1,Tapesh
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/41.ts
+
+#EXTINF:-1,TIM TV
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/34.ts
+
+#EXTINF:-1,ONYX Movie
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/44.ts
+
+#EXTINF:-1,Gem Mafia
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/42.ts
+
+#EXTINF:-1,Gem Life
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/46.ts
+
+#EXTINF:-1,Gem Junior
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/49.ts
+
+#EXTINF:-1,Gem Bollywood
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/45.ts
+
+#EXTINF:-1,Gem TV
+
+http://63.149.204.50:8000/live/OQurscsctQ/Eo3oeZHLeE/26.ts
+
+#EXTINF:-1,BBC Persian
+
+http://63.149.204.50:8000/live/OQurscsctQ/Eo3oeZHLeE/22.ts
+
+#EXTINF:-1,TIK TV
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/33.ts
+
+#EXTINF:-1,TV Persia
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/38.ts
+
+#EXTINF:-1,Persian Star 2
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/36.ts
+
+#EXTINF:-1,Persian star 1
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/36.ts
+
+#EXTINF:-1,Gem Kurd
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/43.ts
+
+#EXTINF:-1,Omid Iran
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/40.ts
+
+#EXTINF:-1,Mihan TV
+
+http://iptv.mihantv.com/live/playlist2/index.m3u8
+
+#EXTINF:-1,Iran International
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/66.ts
+
+#EXTINF:-1,Radio Farda
+
+http://63.149.204.50:8000/live/OQurscsctQ/Eo3oeZHLeE/23.m3u8
+
+#EXTINF:-1,Payame afghan
+
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/602/live1234/2621b29e501b445fabf227b086123b70.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,iFilm
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/64.ts
+
+#EXTINF:-1,IRIB 1
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/84.ts
+
+#EXTINF:-1,IRIB 2
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/83.ts
+
+#EXTINF:-1,IRIB 3
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/61.ts
+
+#EXTINF:-1,IRIB 4
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/82.ts
+
+#EXTINF:-1,IRIB 5
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/81.ts
+
+#EXTINF:-1,IRIB mostanad
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/80.ts
+
+#EXTINF:-1,IRIB Varzesh
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/51.ts
+
+#EXTINF:-1,IRIB Pooya
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/53.ts
+
+#EXTINF:-1,Nasim
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/35.ts
+
+#EXTINF:-1,IRINN
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/59.ts
+
+#EXTINF:-1,Jame Jam
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/57.ts
+
+#EXTINF:-1,tin TV
+
+http://63.237.48.28/ios/TIN/TIN.m3u8
 
 #EXTINF:-1,MTC
 
