@@ -8,6 +8,10 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 https://d6kn5bcgzkd2t.cloudfront.net/live_1000.m3u8
 
+#EXTINF:-1,ITN
+
+http://63.237.48.9/ios/ITN/ITN.m3u8
+
 #EXTINF:-1,MTC
 
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8
