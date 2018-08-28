@@ -291,3 +291,7 @@ http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 #EXTINF:-1, KRAL LOVE
 
 http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
+
+#EXTINF:-1,Shahrzad 1
+
+https://parstubes.com/wp-content/cache/fv-player-mpd/1/init-253587344-1535417734-0.mp4
