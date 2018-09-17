@@ -32,10 +32,6 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 
-#EXTINF:-1,Tapesh
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/41.ts
-
 #EXTINF:-1,AFN Music
 
 http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
@@ -43,10 +39,6 @@ http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8
 #EXTINF:-1,HIVERSION
 
 http://204.174.104.71:88/HIGHVISION_WEB_1205/highvision/tracks-v1a1/index.m3u8
-
-#EXTINF:-1,Persian bazar
-
-http://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 
 #EXTINF:-1,Parsiland
 
