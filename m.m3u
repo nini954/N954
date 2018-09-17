@@ -112,6 +112,10 @@ http://2nbyjjx7y53k-hls-live.5centscdn.com/835/shaditv/23abe62a446fc05ce0a6c810f
 
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 
+#EXTINF:-1,Andisheh tv
+
+http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/29.ts
+
 #EXTINF:-1,sat7 pars
 
 http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/chunklist_w1909752575_b1000000.m3u8
