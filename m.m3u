@@ -8,10 +8,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 
-#EXTINF:-1,PMC
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/86.ts
-
 #EXTINF:-1,navahang tv
 
 https://live.navahang.tv/hls/navahangtv.m3u8
@@ -48,54 +44,6 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 http://63.237.48.9/ios/ITN/ITN.m3u8
 
-#EXTINF:-1,GEM USA
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/50.ts
-
-#EXTINF:-1,GEM Rubix
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/87.ts
-
-#EXTINF:-1,Gem Mafia
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/42.ts
-
-#EXTINF:-1,Gem Life
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/46.ts
-
-#EXTINF:-1,Gem Junior
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/49.ts
-
-#EXTINF:-1,Gem Bollywood
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/45.ts
-
-#EXTINF:-1,Gem Travel
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/47.ts
-
-#EXTINF:-1,Gem Kurd
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/43.ts
-
-#EXTINF:-1,TV Persia
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/38.ts
-
-#EXTINF:-1,TIM TV
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/34.ts
-
-#EXTINF:-1,ONYX Movie
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/44.ts
-
-#EXTINF:-1,TV Persia
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/38.ts
-
 #EXTINF:-1,Mihan TV
 
 http://iptv.mihantv.com/live/playlist2/index.m3u8
@@ -111,10 +59,6 @@ http://2nbyjjx7y53k-hls-live.5centscdn.com/835/shaditv/23abe62a446fc05ce0a6c810f
 #EXTINF:-1,Andisheh tv
 
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-
-#EXTINF:-1,Andisheh tv
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/29.ts
 
 #EXTINF:-1,sat7 pars
 
@@ -160,10 +104,6 @@ http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_400_av-p.m3u8
 
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/index_800_av-b.m3u8?
 
-#EXTINF:-1,Payvan
-
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/chunklist_w786523193.m3u8
-
 #EXTINF:-1,Dream Land TV
 
 http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
@@ -196,10 +136,6 @@ http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/83.ts
 
 http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/61.ts
 
-#EXTINF:-1,IRIB mostanad
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/80.ts
-
 #EXTINF:-1,IRIB Varzesh
 
 http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8
@@ -211,10 +147,6 @@ http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/53.ts
 #EXTINF:-1,IRIB 6
 
 http://cdn1.live.irib.ir:1935/channel-live/irinn-300k.stream/chunklist.m3u8
-
-#EXTINF:-1,ID Fashion
-
-http://95.67.8.22/hls/idfashion/index.m3u8
 
 #EXTINF:-1,PBS kids
 
