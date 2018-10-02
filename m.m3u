@@ -124,9 +124,9 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/602/live1234/2621b29e501b445fabf227b086123b70.sdp/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,IRINN
+#EXTINF:-1,IRIB 1
 
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/59.ts
+http://cdn1.live.irib.ir:1935/channel-live/tv1-300k.stream/chunklist.m3u8
 
 #EXTINF:-1,IRIB 2
 
@@ -135,6 +135,14 @@ http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/83.ts
 #EXTINF:-1,IRIB 3
 
 http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/61.ts
+
+#EXTINF:-1,IRIB 3
+
+http://cdn1.live.irib.ir:1935/channel-live/tv3-300k.stream/chunklist.m3u8
+
+#EXTINF:-1,IRIB 3
+
+http://sa15.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist.m3u8
 
 #EXTINF:-1,IRIB Varzesh
 
