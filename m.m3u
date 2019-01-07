@@ -144,6 +144,10 @@ http://cdn1.live.irib.ir:1935/channel-live/tv3-300k.stream/chunklist.m3u8
 
 http://sa15.telewebion.com:1935/devices/_definst_/tv3-1000k.stream/chunklist.m3u8
 
+#EXTINF:-1,IRIB 3
+
+http://38.117.88.154:7777/IRIBChannel3/IRIBChannel3_Low.m3u8?user=sglskpbgsbstjqxjf3v5g4wudv3r&session=15bff1b847942d212a2be3fb21ff459bc6c881f701fba8c6e97f7659e7b9c3ffe1c889dd482f01aafe4da0031bbef1ef40d06fe2038deaee5e61f252f32aaa98&hlsid=HTTP_ID_1024722&group_id=-1&starttime=20180927T151649.349750
+
 #EXTINF:-1,IRIB Varzesh
 
 http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8
