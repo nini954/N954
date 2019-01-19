@@ -4,6 +4,10 @@
 
 https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
+#EXTINF:-1,test1
+
+https://videoserver1.org/live/lsfhYVKyw5lrZ8X5yZr5VA/1547935517/9fac7d4ab09566d65b4bc06f4b06ba58.m3u8
+
 #EXTINF:-1,Manoto
 
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
