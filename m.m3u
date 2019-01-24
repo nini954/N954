@@ -146,7 +146,7 @@ http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/720_.m3u8
 
 #EXTINF:-1,IRIB 3
 
-http://38.117.88.154:7777/IRIBChannel3/IRIBChannel3_Low.m3u8?user=sglskpbgsbstjqxjf3v5g4wudv3r&session=15bff1b847942d212a2be3fb21ff459bc6c881f701fba8c6e97f7659e7b9c3ffe1c889dd482f01aafe4da0031bbef1ef40d06fe2038deaee5e61f252f32aaa98&hlsid=HTTP_ID_1024722&group_id=-1&starttime=20180927T151649.349750
+http://38.99.146.180:7777/IRIBChannel3RES/IRIBChannel3_LowRES.m3u8?user=sglsxlfmnfdteiks2covzhjdilg4&session=398ef9fe002c9ffd2a2be3fb21ff459b06f549da65f92ddbd755d1cc12c029579dd5579b83ed45064df6af13c7f9fb0969823c75ff502d74770b5c45b0891f12de2a9a15d4e21705&hlsid=HTTP_ID_133398&group_id=-1&starttime=20190115T180630.022875
 
 #EXTINF:-1,IRIB Varzesh
 
