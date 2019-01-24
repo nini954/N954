@@ -172,8 +172,29 @@ http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 
 http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 
-#EXTINF:-1, Fox Sport 2 Thailand
+#EXTINF: -1,Fox Movies 
 
-http://180.183.53.229:9981/stream/channelid/1067136145?ticket=8b31a4a587f02cdd38b91eefd8bbf6765beda784&profile=pass
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF: -1,Fox Action Movies
+
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+
+#EXTINF: -1,USA HBO 2
+
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+
+#EXTINF: -1,Movies HBO 3
+
+http://87.246.0.155:5286/tv_HBO_
+
+#EXTINF: -1,Movies HBO Adria
+
+http://87.246.0.155:5286/tv_HBO
+
+#EXTINF: -1,Movies HBO 2
+
+http://87.246.0.155:5286/tv_HBO_2
+
 
 
