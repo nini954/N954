@@ -172,48 +172,16 @@ http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 
 http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 
-#EXTINF: -1,Fox Movies 
-
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF: -1,Fox Action Movies
 
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
-#EXTINF: -1,USA HBO 2
-
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF: -1,Movies HBO 3
-
-http://87.246.0.155:5286/tv_HBO_
-
-#EXTINF: -1,Movies HBO Adria
-
-http://87.246.0.155:5286/tv_HBO
-
-#EXTINF: -1,Movies HBO 2
-
-http://87.246.0.155:5286/tv_HBO_2
 
 #EXTINF: -1,HBO
 
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
-#EXTINF:0,Movie: HW Movies #1
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8%20dcx%20http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
-
-#EXTINF:0,Movie: HW Movies #2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
 #EXTINF:0,Movie: HW Movies #3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:0,Movie: HW Movies #4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:0,Movie: HW Movies #5
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
 
 #EXTINF:0,Movie: HW Movies #6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
@@ -226,9 +194,6 @@ http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699
 
 #EXTINF:0,Movie: HW Movies #9
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:0,Movie: HW Movies #10
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
 
 #EXTINF:0,Movie: HW Movies #11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
@@ -251,9 +216,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274
 #EXTINF:0,Movie: HW Movies #17
 http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
 
-#EXTINF:0,Movie: HW Movies #18
-http://tx.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #19
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8?thebestfreeenglishchannels.m3u8
 
@@ -269,29 +231,6 @@ http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274
 #EXTINF:0,Movie: Sum Movies #1
 http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 
-#EXTINF:0,Movie: Sum Movies #2
-http://dlhls.cdn.zhanqi.tv/zqlive/102444_ZGmRp.m3u8
-
-#EXTINF:0,Movie: Sum Movies #3
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-
 #EXTINF:0,Movie: Sum Movies #4
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
-#EXTINF:0,Movie: Sum Movies #5
-http://dlhls.cdn.zhanqi.tv/zqlive/7032_0s2qn_1024/index.m3u8
-
-#EXTINF:0,Movie: Pluto Action Movies 
-https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:0,Movie: Pluto Classic Movies 
-https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:0,Movie: Pluto Movies 
-https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:0,Movie: Pluto Movies 2  
-https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:0,Movie: Prive HD 
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
