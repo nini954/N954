@@ -180,59 +180,63 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
+#EXTINF:0,Movie: HW Movies #1
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
+#EXTINF:0,Movie: HW Movies #2
+http://tx.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
+#EXTINF:0,Movie: HW Movies #4
+http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8
+#EXTINF:0,Movie: HW Movies #5
+http://tx.hls.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
 #EXTINF:0,Movie: HW Movies #6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
 #EXTINF:0,Movie: HW Movies #7
 http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
 #EXTINF:0,Movie: HW Movies #8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
 #EXTINF:0,Movie: HW Movies #9
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
+#EXTINF:0,Movie: HW Movies #10
+http://tx.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
 #EXTINF:0,Movie: HW Movies #12
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #13
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3y8
-
+http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
 #EXTINF:0,Movie: HW Movies #14
 http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #15
-http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
-
+http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #16
 http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #17
 http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
-
+#EXTINF:0,Movie: HW Movies #18
+http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #19
 http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #20
 http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #21
 http://tx.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8?thebestfreeenglishchannels.m3u8
-
 #EXTINF:0,Movie: HW Movies #22
 http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8?thebestfreeenglishchannels.m3u8
-
+#EXTINF:0,Movie: HW Movies #23
+http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
+#EXTINF:0,Movie: HW Movies #24
+http://tx.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1.m3u8
+#EXTINF:0,Movie: HW Movies #25
+http://tx.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
+#EXTINF:0,Movie: HW Movies #26
+http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
 #EXTINF:0,Movie: Sum Movies #1
 http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
-
 #EXTINF:0,Movie: Sum Movies #4
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+
 
 #EXTINF:-1,24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
