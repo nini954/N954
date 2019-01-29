@@ -173,13 +173,9 @@ http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 
 #EXTINF: -1,Fox Action Movies
-
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-
 #EXTINF: -1,HBO
-
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
 #EXTINF:0,Movie: HW Movies #1
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #2
@@ -197,49 +193,39 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 #EXTINF:0,Movie: HW Movies #8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+http://tx.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #10
 http://tx.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #12
-http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #13
 http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8
 #EXTINF:0,Movie: HW Movies #14
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #15
 http://aldirect.hls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #16
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #17
-http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8?thebestfreeenglishchannels.m3u8
+http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #18
 http://tx.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #19
-http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8?thebestfreeenglishchannels.m3u8
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
 #EXTINF:0,Movie: HW Movies #20
-http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+http://aldirect.hls.huya.com/huyalive/28466698-2689656358-11551986095088467968-3048959616-10057-A-1525510878-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #21
-http://tx.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8?thebestfreeenglishchannels.m3u8
+http://tx.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
 #EXTINF:0,Movie: HW Movies #22
-http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8?thebestfreeenglishchannels.m3u8
+http://tx.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
 #EXTINF:0,Movie: HW Movies #23
 http://tx.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1.m3u8
-#EXTINF:0,Movie: HW Movies #24
-http://tx.hls.huya.com/huyalive/30765679-2554414567-10971127025691000832-3048991638-10057-A-0-1.m3u8
-#EXTINF:0,Movie: HW Movies #25
-http://tx.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1.m3u8
-#EXTINF:0,Movie: HW Movies #26
-http://tx.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
 #EXTINF:0,Movie: Sum Movies #1
 http://dlhls.cdn.zhanqi.tv/zqlive/35180_KUDhx.m3u8
 #EXTINF:0,Movie: Sum Movies #4
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-
-#EXTINF:-1,24/7 Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:0, HBO Adria
 http://87.246.0.155:5286/tv_HBO
 #EXTINF:0, Cinemax 1 HD
@@ -254,14 +240,6 @@ http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8?fluxustv.m3u8
 http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
 #EXTINF:0, Rai Movie IT
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0, 24/7 Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:0, 24/7 Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:0, 24/7 Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:0, 24/7 Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 #EXTINF:0, A1 Cinema
 http://178.132.6.97:8080/A1Cinema1/index.m3u8
 #EXTINF:0, FOX Comedy
@@ -284,5 +262,3 @@ https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, (ONLINE) Movee 4U
 https://nimble.dashmedia.tv/onestudio/movee4u/playlist.m3u8
-#EXTINF:0, Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
