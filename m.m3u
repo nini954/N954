@@ -20,6 +20,10 @@ http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 http://bozztv.com/36bay2/gin/gin-pmctv/index.m3u8 
 
+#EXTINF:-1,MTC
+
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8
+
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
@@ -107,10 +111,6 @@ http://iriptv.com:1935/iriptv/dreamlandtv.stream/dreamlandtv.m3u8
 #EXTINF:-1,parnian tv
 
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@529746/index_150_av-p.m3u8?
-
-#EXTINF:-1,MTC
-
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8
 
 #EXTINF:-1,Payame Afghan
 
