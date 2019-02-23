@@ -8,10 +8,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 
-#EXTINF:-1,Radio Farda
-
-https://rjtv1.rjtv.me/live/smil:rjtv.smil/chunklist_w1404657365_b2892000.m3u8
-
 #EXTINF:-1,Caltex Music TV
 
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
@@ -27,10 +23,6 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8
 #EXTINF:-1,EBC1
 
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-
-#EXTINF:-1,radio javan
-
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
 
 #EXTINF:-1,Tapesh
 
@@ -195,6 +187,10 @@ http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/53.ts
 #EXTINF:-1,IRIB 6
 
 http://cdn1.live.irib.ir:1935/channel-live/irinn-300k.stream/chunklist.m3u8
+
+#EXTINF:-1,radio javan
+
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8
 
 #EXTINF:-1,PBS kids
 
