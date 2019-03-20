@@ -24,17 +24,6 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
 rtmp://qc.castr.io/static//66fb82d08b2511e8b7e83f46400f9176
 
-#EXTINF:-1,|IR| BBC_Persian
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2851
-#EXTINF:-1,|IR| GEM_FOOD
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2877
-#EXTINF:-1,|IR| Iran_International
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2849
-#EXTINF:-1,|IR| RUBIX
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
-#EXTINF:-1,|IR| VoA_TV_Persian
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
-
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
@@ -167,6 +156,17 @@ http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2866
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2868
 #EXTINF:-1,|IR| GEM_TV
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2871
+#EXTINF:-1,|IR| BBC_Persian
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2851
+#EXTINF:-1,|IR| GEM_FOOD
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2877
+#EXTINF:-1,|IR| Iran_International
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2849
+#EXTINF:-1,|IR| RUBIX
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
+#EXTINF:-1,|IR| VoA_TV_Persian
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
+
 
 #EXTINF:-1,ifilm
 
