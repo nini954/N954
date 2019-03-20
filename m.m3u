@@ -12,9 +12,9 @@ https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
 
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 
-#EXTINF:-1,pmc
+#EXTINF:-1,PMC
 
-http://bozztv.com/36bay2/gin/gin-pmctv/index.m3u8 
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2817
 
 #EXTINF:-1,MTC
 
@@ -23,6 +23,35 @@ http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist.m3u8
 #EXTINF:-1,EBC1
 
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+
+#EXTINF:-1,|IR| BBC_Persian
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2851
+#EXTINF:-1,|IR| GEM_CLASSIC
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2867
+#EXTINF:-1,|IR| GEM_DRAMA
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2876
+#EXTINF:-1,|IR| GEM_FOOD
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2877
+#EXTINF:-1,|IR| GEM_JUNIOR
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2869
+#EXTINF:-1,|IR| GEM_LIFE
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2866
+#EXTINF:-1,|IR| GEM_SERIES
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2868
+#EXTINF:-1,|IR| GEM_TV
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2871
+#EXTINF:-1,|IR| Iran_International
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2849
+#EXTINF:-1,|IR| Khatereh_TV
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2830
+#EXTINF:-1,|IR| Persian_Music
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2807
+#EXTINF:-1,|IR| RIVER
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2816
+#EXTINF:-1,|IR| RUBIX
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
+#EXTINF:-1,|IR| VoA_TV_Persian
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
 
 #EXTINF:-1,Tapesh
 
