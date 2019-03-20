@@ -26,10 +26,7 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
 #EXTINF:-1,|IR| BBC_Persian
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2851
-#EXTINF:-1,|IR| GEM_CLASSIC
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2867
-#EXTINF:-1,|IR| GEM_DRAMA
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2876
+
 #EXTINF:-1,|IR| GEM_FOOD
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2877
 #EXTINF:-1,|IR| GEM_JUNIOR
@@ -42,12 +39,6 @@ http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2868
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2871
 #EXTINF:-1,|IR| Iran_International
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2849
-#EXTINF:-1,|IR| Khatereh_TV
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2830
-#EXTINF:-1,|IR| Persian_Music
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2807
-#EXTINF:-1,|IR| RIVER
-http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2816
 #EXTINF:-1,|IR| RUBIX
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
 #EXTINF:-1,|IR| VoA_TV_Persian
@@ -172,6 +163,12 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 #EXTINF:-1,Payame afghan
 
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/602/live1234/2621b29e501b445fabf227b086123b70.sdp/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,|IR| GEM_CLASSIC
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2867
+#EXTINF:-1,|IR| GEM_DRAMA
+http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2876
+
 
 #EXTINF:-1,ifilm
 
