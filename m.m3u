@@ -168,49 +168,41 @@ http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
 
 
-#EXTINF:-1,ifilm
+#EXTINF:-1,IRIB 3
 
-http://mn-nl.mncdn.com/ifilm/smil:ifilmfa.smil/chunklist.m3u8
-
-#EXTINF:-1,IRIB 1
-
-http://cdn1.live.irib.ir:1935/channel-live/tv1-300k.stream/chunklist.m3u8
-
-#EXTINF:-1,IRIB 2
-
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/83.ts
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364155.ts
 
 #EXTINF:-1,IRIB 3
 
-http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/360_.m3u8
+https://sa4.telewebion.com/devices/_definst_/tv3-500k.stream/media_w171900095_2007.ts
 
 #EXTINF:-1,IRIB 3
 
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/61.ts
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364675.ts
 
 #EXTINF:-1,IRIB 3
 
-http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/240_.m3u8
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364819.ts
 
 #EXTINF:-1,IRIB 3
 
-http://s1.live.cdn.tvnet.ir/live/IRIB-TV3/720_.m3u8
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364879.ts
 
 #EXTINF:-1,IRIB 3
 
-http://38.99.146.180:7777/IRIBChannel3RES/IRIBChannel3_LowRES.m3u8?user=sglsxlfmnfdteiks2covzhjdilg4&session=398ef9fe002c9ffd2a2be3fb21ff459b06f549da65f92ddbd755d1cc12c029579dd5579b83ed45064df6af13c7f9fb0969823c75ff502d74770b5c45b0891f12de2a9a15d4e21705&hlsid=HTTP_ID_133398&group_id=-1&starttime=20190115T180630.022875
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364904.ts
+
+#EXTINF:-1,IRIB 3
+
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364940.ts
 
 #EXTINF:-1,IRIB Varzesh
 
-http://cdn1.live.irib.ir:1935/channel-live/varzesh-1mb.stream/chunklist.m3u8
+http://live4.fam.ir/hls/VARZESH2_high/1560367594.ts
 
-#EXTINF:-1,IRIB Pooya
+#EXTINF:-1,IRIB Varzesh
 
-http://63.149.204.50:8000/live/3lQYowYbWt/v2rzDewCpC/53.ts
-
-#EXTINF:-1,IRIB 6
-
-http://cdn1.live.irib.ir:1935/channel-live/irinn-300k.stream/chunklist.m3u8
+http://live4.fam.ir/hls/VARZESH2_high/1560368285.ts
 
 #EXTINF:-1,radio javan
 
