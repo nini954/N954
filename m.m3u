@@ -170,39 +170,20 @@ http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
 
 #EXTINF:-1,IRIB 3
 
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364155.ts
+https://stream.persianleague.com/live/tv3/chunks.m3u8
 
 #EXTINF:-1,IRIB 3
 
-https://sa4.telewebion.com/devices/_definst_/tv3-500k.stream/media_w171900095_2007.ts
+http://live4.fam.ir/hls/IRIB-TV3HD_mid/playlist.m3u8
 
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364675.ts
-
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364819.ts
-
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364879.ts
-
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364904.ts
-
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/1560364940.ts
 
 #EXTINF:-1,IRIB Varzesh
 
-http://live4.fam.ir/hls/VARZESH2_high/1560367594.ts
+https://stream.persianleague.com/live/varzesh/chunks.m3u8
 
 #EXTINF:-1,IRIB Varzesh
 
-http://live4.fam.ir/hls/VARZESH2_high/1560368285.ts
+http://live4.fam.ir/hls/VARZESH2_high/playlist.m3u8
 
 #EXTINF:-1,radio javan
 
