@@ -167,6 +167,29 @@ http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2815
 #EXTINF:-1,|IR| VoA_TV_Persian
 http://main.ipfox.co:9000/atlas/Q3vdYIzloa/2852
 
+#EXTINF:-1,IRIB 1
+
+http://live4.fam.ir/hls/IRIB-TV11_high/playlist.m3u8
+
+#EXTINF:-1,IRIB 2
+
+http://live4.fam.ir/hls/IRIB-TV21_high/playlist.m3u8
+
+#EXTINF:-1,IRIB 4
+
+http://live4.fam.ir/hls/IRIB-TV41_high/playlist.m3u8
+
+#EXTINF:-1,IRIB 5
+
+http://live4.fam.ir/hls/IRIB-TV51_high/playlist.m3u8
+
+#EXTINF:-1,JAMEJAM
+
+http://live4.fam.ir/hls/JAMEJAM1_high/playlist.m3u8
+
+#EXTINF:-1,IRIB 6
+
+http://live4.fam.ir/hls/IRINN1_high/playlist.m3u8
 
 #EXTINF:-1,IRIB 3
 
