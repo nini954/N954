@@ -170,20 +170,11 @@ http://npro.one-iptv.com:25443/abdou01/abdou01/19496
 
 #EXTINF:-1,IRIB 3
 
-https://sa4.telewebion.com/devices/_definst_/tv3-500k.stream/chunklist_w1762068193.m3u8?
-
-#EXTINF:-1,IRIB 3
-
-http://live4.fam.ir/hls/IRIB-TV3HD_mid/playlist.m3u8
-
+https://stream.persianleague.com/live/tv3/playlist.m3u8
 
 #EXTINF:-1,IRIB Varzesh
 
 https://stream.persianleague.com/live/varzesh/chunks.m3u8
-
-#EXTINF:-1,IRIB Varzesh
-
-http://live4.fam.ir/hls/VARZESH2_high/playlist.m3u8
 
 #EXTINF:-1,radio javan
 
