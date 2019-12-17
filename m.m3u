@@ -172,18 +172,11 @@ http://live-cdn.pbskids.org/out/u/est_3.m3u8
 
 http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 
-#EXTINF:-1, KRAL LOVE
-
-http://fxghp7vn.rocketcdn.com/kraldijital-lovetv.smil/chunklist.m3u8
 
 #EXTINF:-1, HTV Sports
 
 http://18.191.157.133:1935/HTVSport/myStream/chunklist.m3u8
 
-#EXTINF: -1,Fox Action Movies
-http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
-#EXTINF: -1,HBO
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:0,Movie: HW Movies #1
 http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8
 #EXTINF:0,Movie: HW Movies #2
