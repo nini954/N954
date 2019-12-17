@@ -6,7 +6,11 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/07.m3u8
 
 #EXTINF:-1,Manoto
 
-https://d6kn5bcgzkd2t.cloudfront.net/live_1500.m3u8
+https://dow6lwapg8fa4.cloudfront.net/live_750.m3u8
+
+#EXTINF:-1,Manoto2
+
+https://dow6lwapg8fa4.cloudfront.net/live_1500.m3u8
 
 #EXTINF:-1,Caltex Music TV
 
