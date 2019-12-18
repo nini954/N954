@@ -20,10 +20,6 @@ http://51.158.77.153/hls/stream.m3u8
 
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
-#EXTINF:-1,Ayeneh
-
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
-
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
@@ -39,10 +35,6 @@ http://51.15.229.209/hls/stream.m3u8
 #EXTINF:-1,4u
 
 http://5.9.153.199:1935/4utv/live/playlist.m3u8
-
-#EXTINF:-1,Canada Star TV
-
-https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
 
 #EXTINF:-1,AFN Music
 
@@ -131,6 +123,10 @@ https://live2.parnian.tv/hls/.m3u8
 #EXTINF:-1,Royal Time TV
 
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
+
+#EXTINF:-1,Ayeneh
+
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
 
 #EXTINF:-1,IRIB 1
 
