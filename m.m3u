@@ -20,10 +20,6 @@ http://212.47.226.211/hls/stream.m3u8
 
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
-#EXTINF:-1,PMC
-
-https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?
-
 #EXTINF:-1,EBC1
 
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
