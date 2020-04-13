@@ -8,10 +8,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
-#EXTINF:-1,Manoto2
-
-https://dow6lwapg8fa4.cloudfront.net/live_1500.m3u8
-
 #EXTINF:-1,Oxir TV
 
 http://212.47.226.211/hls/stream.m3u8
@@ -28,17 +24,9 @@ https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
-#EXTINF:-1,Dream Land TV
-
-http://ad.mysisli.com/live/Dr13/index.m3u8
-
 #EXTINF:-1,Persiana TV
 
 http://51.15.229.209/hls/stream.m3u8
-
-#EXTINF:-1,4u
-
-http://5.9.153.199:1935/4utv/live/playlist.m3u8
 
 #EXTINF:-1,AFN Music
 
