@@ -28,10 +28,6 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 http://51.15.229.209/hls/stream.m3u8
 
-#EXTINF:-1,AFN Music
-
-https://unirtmp.tulix.tv/tintv2/tintv2//playlist.m3u8
-
 #EXTINF:-1,Mihan TV
 
 http://iptv.mihantv.com/live/playlist.m3u8
