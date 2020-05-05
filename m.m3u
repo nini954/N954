@@ -12,6 +12,14 @@ https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 http://212.47.226.211/hls/stream.m3u8
 
+#EXTINF:-1,mbc persia
+
+https://soltaan.com/iptv/mbcpersiahd.m3u8
+
+#EXTINF:-1,Gem TV
+
+https://soltaan.com/iptv/gemtv.m3u8
+
 #EXTINF:-1,caltextv
 
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
