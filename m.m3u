@@ -20,13 +20,25 @@ https://soltaan.com/iptv/mbcpersiahd.m3u8
 
 https://soltaan.com/iptv/gemtv.m3u8
 
+#EXTINF:-1,Gem TV
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/chunklist_w234538238.m3u8
+
 #EXTINF:-1,gemusa
 
 https://soltaan.com/iptv/gemusa.m3u8
 
+#EXTINF:-1,gemusa
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
+
 #EXTINF:-1,gemseries
 
 https://soltaan.com/iptv/gemseries.m3u8
+
+#EXTINF:-1,gemseries
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w755850064.m3u8
 
 #EXTINF:-1,gemdrama
 
