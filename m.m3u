@@ -8,25 +8,73 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.pmc.tv/img/logo-light@2x.png",PMC
+
+http://51.15.139.108/hls/stream.m3u8
+
+#EXTINF:-1,caltextv
+
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
+#EXTINF:-1,Navahang
+
+http://163.172.134.85/hls/stream.m3u8
+
+#EXTINF:-1,radio javan
+
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
 #EXTINF:-1,Oxir TV
 
 http://212.47.226.211/hls/stream.m3u8
 
-#EXTINF:-1,Gem TV
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
 
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/chunklist_w234538238.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 
-#EXTINF:-1,gemusa
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png",GEM USA
 
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/chunklist.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 
-#EXTINF:-1,gemseries
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
 
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/chunklist_w755850064.m3u8
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:-1,Gem mafia
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png",Gem mafia
 
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/chunklist_w461721237.m3u8
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png",GEM Junior
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png",GEM Kids
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png",Mifa
+
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
+
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
+
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
 #EXTINF:-1,mellitv
 
@@ -100,17 +148,9 @@ http://51.15.193.127/hls/stream.m3u8
 
 http://51.158.116.146/hls/stream.m3u8
 
-#EXTINF:-1,Navahang
-
-http://163.172.134.85/hls/stream.m3u8
-
 #EXTINF:-1,Mihan TV
 
 http://iptv.mihantv.com/live/playlist.m3u8
-
-#EXTINF:-1,tin TV
-
-https://unirtmp.tulix.tv/tintv/tintv/chunklist_w2122680247.m3u8
 
 #EXTINF:-1,omid javedan
 
@@ -128,9 +168,17 @@ http://unirtmp.tulix.tv:1935/sat7pars/satparslive-web.smil/playlist.m3u8
 
 http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
+#EXTINF:-1,BBC Persia
+
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+
 #EXTINF:-1, Iran International tv
 
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+
+#EXTINF:-1, Iran International tv
+
+https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1, Radio Farda
 
@@ -196,17 +244,17 @@ https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 https://livetv.persianleague.com/live/tv3/chunks.m3u8
 
+#EXTINF:-1,IRIB 3 
+
+https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
+
 #EXTINF:-1,IRIB Varzesh
 
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
 
-#EXTINF:-1,radio javan
+#EXTINF:-1,IRIB Varzesh
 
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-
-#EXTINF:-1,caltextv
-
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
+https://api.telewebion.com/v2/varzesh/live.m3u8?soltaan_varzesh.m3u8
 
 #EXTINF:-1,PBS kids
 
@@ -215,6 +263,15 @@ http://live-cdn.pbskids.org/out/u/est_3.m3u8
 #EXTINF:-1,royal tv
 
 http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/hmn.png",Health Media Network
+
+https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
+
+#EXTINF:-1,Kayhan TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,Pamir TV
+http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
@@ -234,6 +291,10 @@ https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://img-medianova.mncdn.com/wp-content/uploads/2019/06/blutv_logo.png" group-title="Türkiye",BLUTV Aksiyon
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1 tvg-logo="https://img-medianova.mncdn.com/wp-content/uploads/2019/06/blutv_logo.png" group-title="Türkiye",BLUTV KOMEDİ
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 
 #EXTINF:-1,WWE
 
