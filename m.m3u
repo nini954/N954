@@ -216,6 +216,25 @@ http://live-cdn.pbskids.org/out/u/est_3.m3u8
 
 http://stream.rtimetv.com/rtimetv/playlist1/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="السعودية",MBC 2
+https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="السعودية",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="السعودية",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="السعودية",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="السعودية",MBC Action
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="السعودية",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+
 #EXTINF:-1,WWE
 
 http://cdnak19.cast4u.info/channels/4/10804.m3u8
