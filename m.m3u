@@ -100,6 +100,10 @@ http://51.15.193.127/hls/stream.m3u8
 
 http://51.158.116.146/hls/stream.m3u8
 
+#EXTINF:-1,Navahang
+
+http://163.172.134.85/hls/stream.m3u8
+
 #EXTINF:-1,Mihan TV
 
 http://iptv.mihantv.com/live/playlist.m3u8
