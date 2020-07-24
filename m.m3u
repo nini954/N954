@@ -244,6 +244,10 @@ https://livetv.persianleague.com/live/tv3/chunks.m3u8
 
 https://api.telewebion.com/v2/tv3/live?soltaan.com/tv3.m3u8
 
+#EXTINF:-1,IRIB 3 HD
+
+https://soltaan.com/iptv/irib3hd.m3u8
+
 #EXTINF:-1,IRIB Varzesh
 
 https://livetv.persianleague.com/live/varzesh/chunks.m3u8
