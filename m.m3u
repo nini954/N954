@@ -24,13 +24,14 @@ http://163.172.134.85/hls/stream.m3u8
 
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 
-#EXTINF:-1,MBC
-
-https://soltaan.com/iptv/mbcpersiahd.m3u8
-
 #EXTINF:-1,Oxir TV
 
 http://212.47.226.211/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Iran" tvg-logo="https://i.imgur.com/wWKyJDs.png",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Iran" tvg-logo="https://i.imgur.com/Iz8re8Z.png",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
 
@@ -82,7 +83,7 @@ https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
 #EXTINF:-1,mellitv
 
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1786907993.m3u8
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
 
 #EXTINF:-1,EBC1
 
