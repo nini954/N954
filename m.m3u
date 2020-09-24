@@ -24,6 +24,10 @@ http://163.172.134.85/hls/stream.m3u8
 
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 
+#EXTINF:-1,MBC
+
+https://soltaan.com/iptv/mbcpersiahd.m3u8
+
 #EXTINF:-1,Oxir TV
 
 http://212.47.226.211/hls/stream.m3u8
