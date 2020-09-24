@@ -256,9 +256,25 @@ https://soltaan.com/iptv/irib3hd.m3u8
 
 https://cdn1live.irib.ir/live-channels/smil:tv3/media-u7x41fau9_b307200_slFa_70253.ts?s=hPIJ84p_M6ZavhqMdWqFow&t=1595620470
 
+#EXTINF:-1,beIN Sports 1 
+
+https://5g9s179kfgx9wn8tqwj9-cul47i.p5cdn.com/dlive/transcode-81-37/greetec/1600972525/src/live.m3u8
+
+#EXTINF:-1,beIN Sports 2
+
+https://verizon-me.cdn.booyah.live/hls/113134/25347846.m3u8
+
 #EXTINF:-1,IRIB Varzesh
 
-https://livetv.persianleague.com/live/varzesh/chunks.m3u8
+https://livetv.persianleague.com/live/varzsh/chunks.m3u8
+
+#EXTINF:-1,IRIB Varzesh
+
+https://astreaming.ott.tva.tv/eyJvc19uYW1lIjoibWFjIiwidXNlcl91aWQiOiJhbm9ueW1vdXNfYTk5MTMzYjEtNTg2Mi00MTU0LTlhNzItMDZmNDM5ZGEzOGUwIiwicHJvdG9jb2wiOiJobHMiLCJkcm0iOiJzcGJ0dmNhcyIsInNlc3Npb25faWQiOiI4MzZkMDU1OS1iMTE0LTQ3ZTEtOGQ4YS03NWVkMGQ2ODJiNDIiLCJkb21haW5fbmFtZSI6ImFzdHJlYW1pbmcub3R0LnR2YS50diIsImlwX2FkZHJlc3MiOiI0Ny4yNS4xMjUuMTkyIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wOS0yNVQyMDowOTo0N1oiLCJzdHJlYW1fbmFtZSI6IjMyMyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6InNoYSJ9/MCwCFA5J2THSo1hV_aesFGsiqJRYRd5fAhRyLp8Upzqjey2T6dFU_RRqEvI30A%3D%3D/ip_v5/323-inadv-qidx-4k_v5.m3u8?
+
+#EXTINF:-1,IRIB Varzesh
+
+https://livetv.persianleague.com/live/varzsh/chunks.m3u8?
 
 #EXTINF:-1,IRIB Varzesh
 
