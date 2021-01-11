@@ -26,7 +26,7 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 
 #EXTINF:-1,Oxir TV
 
-http://212.47.226.211/hls/stream.m3u8
+http://51.210.199.36/hls/stream.m3u8
 
 #EXTINF:-1 group-title="Iran" tvg-logo="https://i.imgur.com/wWKyJDs.png",Cine Film
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
@@ -69,6 +69,22 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
+#EXTINF:-1,Gem food
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
+
+#EXTINF:-1,Gem life
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8
+
+#EXTINF:-1,Your time
+
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1,Negah TV
+
+https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png",Mifa
 
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
@@ -101,10 +117,6 @@ https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66
 
 https://nl.live21.ir/hls2/AMG_src.m3u8
 
-#EXTINF:-1,Persiana TV 1
-
-http://51.15.229.209/hls/stream.m3u8
-
 #EXTINF:-1,parsiland
 
 http://vps.parsiland.net/hls/ParsiLand.m3u8
@@ -113,25 +125,65 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 http://51.15.254.60/hls/stream.m3u8
 
-#EXTINF:-1,Persiana TV 2
+#EXTINF:-1,AVA family
 
-http://51.15.193.156/hls/stream.m3u8
+http://51.210.199.5/hls/stream.m3u8
 
-#EXTINF:-1,Persiana TV 3
+#EXTINF:-1,AVA Series
 
-http://51.158.74.129/hls/stream.m3u8
+http://51.210.199.4/hls/stream.m3u8
 
-#EXTINF:-1,Persiana TV 4
+#EXTINF:-1,Bazme Asheghan
 
-http://51.158.97.214/hls/stream.m3u8
+https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
 
-#EXTINF:-1,Persiana TV 5
+#EXTINF:-1,Persiana Technology
 
-http://163.172.174.60/hls/stream.m3u8
+http://51.210.199.25/hls/stream.m3u8
 
-#EXTINF:-1,Persiana TV 6
+#EXTINF:-1,Persiana Comedy
 
-http://163.172.147.113/hls/stream.m3u8
+http://51.210.199.27/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Bilboard
+
+http://51.210.199.10/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Nostalgia
+
+http://51.210.199.20/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Entertainment
+
+http://51.210.199.14/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Family
+
+http://51.210.199.19/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Music
+
+http://51.210.199.24/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Cinema
+
+http://51.210.199.15/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Junior
+
+http://51.210.199.18/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Varzesh
+
+http://51.210.199.16/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Doc
+
+http://51.210.199.23/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Iranian
+
+http://51.210.199.22/hls/stream.m3u8
 
 #EXTINF:-1,varzesh 1
 
