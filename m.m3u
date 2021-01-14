@@ -45,7 +45,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png",Gem mafia
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png",Gem mifa
 
 https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 
@@ -69,13 +69,65 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 
-#EXTINF:-1,Gem food
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png",Gem food
 
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist.m3u8
 
-#EXTINF:-1,Gem life
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_life.png",Gem life
 
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_fit.png",Gem fit
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png",Maxx
+
+https://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_comedy.png",Gem Comedy
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/onyx.png",Onyx
+
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/24b.png",Gem 24b
+
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png",Gem Film
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png",Gem AZ
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_travel.png",Gem Travel
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_nature.png",Gem Nature
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png",Gem Arabia
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/modern_economy.png",Gem Modern Economy
+
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_property.png",Gem Property
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_latino.png",Gem Latino
+
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
 
 #EXTINF:-1,Your time
 
