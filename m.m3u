@@ -418,6 +418,10 @@ https://sdm.telewebion.com/live/tv4/tv4-576p/index.m3u8
 
 https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
 
+#EXTINF:-1,IRIB 6
+
+https://bozz.bebinhd.com/live/khabar-hd/chunks.m3u8
+
 #EXTINF:-1,IRIB 3
 
 https://livetv.persianleague.com/live/irib3/chunks.m3u8
