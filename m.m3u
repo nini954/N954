@@ -33,6 +33,23 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mo
 #EXTINF:-1 group-title="Iran" tvg-logo="https://i.imgur.com/Iz8re8Z.png",Cineseries
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1, Flix HD
+
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Bollywood TV
+
+https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+
+#EXTINF:-1, American Horrors
+
+http://170.178.189.66:1935/live/Stream1/chunklist_w1774050999.m3u8
+
+#EXTINF:-1, Rakuten TV
+
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/3000.m3u8
+
 #EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
 
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
@@ -391,11 +408,11 @@ https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/
 
 #EXTINF:-1,IRIB 1
 
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tv01/chunks.m3u8
 
 #EXTINF:-1,IRIB 2
 
-https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
 #EXTINF:-1,IRIB 4
 
@@ -403,11 +420,11 @@ https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,IRIB 5
 
-https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
 
 #EXTINF:-1,IRIB 3
 
-https://astreaming.ott.tva.tv/eyJvc19uYW1lIjoibWFjIiwidXNlcl91aWQiOiJhbm9ueW1vdXNfYTk5MTMzYjEtNTg2Mi00MTU0LTlhNzItMDZmNDM5ZGEzOGUwIiwicHJvdG9jb2wiOiJobHMiLCJkcm0iOiJzcGJ0dmNhcyIsInNlc3Npb25faWQiOiIzNWY2NzhmNi04ZjZkLTRkYjYtODZhZC05OGRmNzJiZDUwZmMiLCJkb21haW5fbmFtZSI6ImFzdHJlYW1pbmcub3R0LnR2YS50diIsImlwX2FkZHJlc3MiOiI0Ny4yNS4xMjUuMTkyIiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMC0wOS0yNVQxOTo1NzowNloiLCJzdHJlYW1fbmFtZSI6IjMzMyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6InNoYSJ9/MCwCFGjbTccGFG7hYPlZWNETCpFMotqrAhQRGZfzjwBnX8Bmj8bNGKaAeAd8cQ%3D%3D/ip_v5/333-inadv-qidx-3k_v5.m3u8?
+https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
 
 #EXTINF:-1,IRIB 3
 
@@ -435,7 +452,7 @@ https://verizon-me.cdn.booyah.live/hls/113134/25347846.m3u8
 
 #EXTINF:-1,IRIB Varzesh
 
-https://livetv.persianleague.com/live/varzsh/chunks.m3u8
+https://sdm.telewebion.com/live/varzesh/varzesh-720p/index.m3u8
 
 #EXTINF:-1,IRIB Varzesh
 
