@@ -38,14 +38,6 @@ https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/
 
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, Bollywood TV
-
-https://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-
-#EXTINF:-1, American Horrors
-
-http://170.178.189.66:1935/live/Stream1/chunklist_w1774050999.m3u8
-
 #EXTINF:-1, Rakuten TV
 
 https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/3000.m3u8
@@ -414,17 +406,17 @@ https://bozz.bebinhd.com/live/tv01/chunks.m3u8
 
 https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
+#EXTINF:-1,IRIB 3
+
+https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
+
 #EXTINF:-1,IRIB 4
 
-https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+https://sdm.telewebion.com/live/tv4/tv4-576p/index.m3u8
 
 #EXTINF:-1,IRIB 5
 
 https://bozz.bebinhd.com/live/tehran0/chunks.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
 
 #EXTINF:-1,IRIB 3
 
