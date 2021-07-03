@@ -1,12 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1,Manoto
+
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+
 #EXTINF:-1,Simaye azzadi
 
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 
-#EXTINF:-1,Manoto
 
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pmc.tv/img/logo-light@2x.png",PMC
 
