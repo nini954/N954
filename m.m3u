@@ -1,16 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1,Manoto
-
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
-
 #EXTINF:-1,Simaye azzadi
 
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 
 
+#EXTINF:-1,Manoto
 
-#EXTINF:-1 tvg-logo="https://www.pmc.tv/img/logo-light@2x.png",PMC
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+
+
+
+
+#EXTINF:-1,PMC
 
 #EXTINF:-1,Navahang
 
@@ -23,14 +25,14 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/index_576_av-b.m3u8
 http://51.15.139.108/hls/stream.m3u8
 
 
+#EXTINF:-1,AVA family
+
+http://51.210.199.5/hls/stream.m3u8
 
 #EXTINF:-1,AVA Series
 
 http://51.210.199.4/hls/stream.m3u8
 
-#EXTINF:-1,AVA family
-
-http://51.210.199.5/hls/stream.m3u8
 
 #EXTINF:-1,MBC Persia
 
