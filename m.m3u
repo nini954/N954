@@ -22,13 +22,15 @@ https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/index_576_av-b.m3u8
 
 http://51.15.139.108/hls/stream.m3u8
 
-#EXTINF:-1,AVA family
 
-http://51.210.199.5/hls/stream.m3u8
 
 #EXTINF:-1,AVA Series
 
 http://51.210.199.4/hls/stream.m3u8
+
+#EXTINF:-1,AVA family
+
+http://51.210.199.5/hls/stream.m3u8
 
 #EXTINF:-1,MBC Persia
 
