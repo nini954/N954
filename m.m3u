@@ -20,9 +20,11 @@ http://51.210.199.5/hls/stream.m3u8
 
 http://51.210.199.4/hls/stream.m3u8
 
-#EXTINF:-1,caltextv
+#EXTINF:-1,MBC Persia
 
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+
+
 
 #EXTINF:-1,Navahang
 
@@ -80,6 +82,10 @@ http://51.210.199.17/hls/stream.m3u8
 
 https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
 
+#EXTINF:-1,Persiana Korea
+
+http://51.210.199.14/hls/stream.m3u8
+
 #EXTINF:-1,Persiana Technology
 
 http://51.210.199.25/hls/stream.m3u8
@@ -135,6 +141,34 @@ http://51.210.199.23/hls/stream.m3u8
 #EXTINF:-1,Persiana Iranian
 
 http://51.210.199.22/hls/stream.m3u8
+
+#EXTINF:-1,FX movie
+
+http://51.210.199.52/hls/stream.m3u8
+
+#EXTINF:-1,Smack down
+
+http://51.210.199.16/hls/stream.m3u8
+
+#EXTINF:-1, SL one
+
+http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:-1, SL Two
+
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1, S
+
+http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:-1, Ecron Tv
+
+http://51.210.199.40/hls/stream.m3u8
+
+#EXTINF:-1, MONO TV
+
+http://51.210.227.137/hls/stream.m3u8
 
 #EXTINF:-1,Your time
 
@@ -220,6 +254,10 @@ http://184.75.208.99:1935/live/kalemeh/playlist.m3u8
 
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 
+#EXTINF:-1,Sharq
+
+http://51.210.199.50/hls/stream.m3u8
+
 #EXTINF:-1,Ganje Hozoor
 
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
@@ -246,7 +284,11 @@ https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
 #EXTINF:-1,IRIB 3
 
-https://sdm.telewebion.com/live/tv3/tv3-480p/index.m3u8
+https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://live.farsiland.com/twtv3-480/twtv3-480.m3u8
 
 #EXTINF:-1,IRIB 5
 
@@ -415,4 +457,8 @@ https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:-1,mellitv
 
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1,caltextv
+
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
