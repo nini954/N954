@@ -10,9 +10,10 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
 
 
-
-
 #EXTINF:-1,PMC
+
+http://51.15.139.108/hls/stream.m3u8
+
 
 #EXTINF:-1,Navahang
 
@@ -22,7 +23,7 @@ http://51.210.227.130/hls/stream.m3u8
 
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/index_576_av-b.m3u8
 
-http://51.15.139.108/hls/stream.m3u8
+
 
 
 #EXTINF:-1,AVA family
