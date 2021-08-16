@@ -238,6 +238,19 @@ http://51.210.199.45/hls/stream.m3u8
 
 http://51.210.199.47/hls/stream.m3u8
 
+#EXTINF:-1,ATNNEWS
+
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1052699811.m3u8
+
+#EXTINF:-1,ATNNAT
+
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1395796805.m3u8
+
+#EXTINF:-1,BAHARTV
+
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w957734549.m3u8
+
+
 #EXTINF:-1,Mihan TV
 
 http://iptv.mihantv.com/live/playlist.m3u8
