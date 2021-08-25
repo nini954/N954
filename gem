@@ -1,0 +1,59 @@
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
+
+https://stream-cdn.gemonline.tv/live/gem/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
+
+https://stream-cdn.gemonline.tv/live/gemseries/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
+
+https://stream-cdn.gemonline.tv/live/gembollywood/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
+
+https://stream-cdn.gemonline.tv/live/gemclassic/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
+
+https://stream-cdn.gemonline.tv/live/gemdrama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemjunior-icon.png",GEM Junior
+
+https://stream-cdn.gemonline.tv/live/gemjunior/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemkids-icon.png",GEM Kids
+
+https://stream-cdn.gemonline.tv/live/gemkids/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png",Gem food
+
+https://stream-cdn.gemonline.tv/live/gemfood/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_life.png",Gem life
+
+https://stream-cdn.gemonline.tv/live/gemlife/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png",Maxx
+
+https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png",Gem Film
+
+https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_travel.png",Gem Travel
+
+https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
+
+https://stream-cdn.gemonline.tv/live/river/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
+
+https://stream-cdn.gemonline.tv/live/rubix/index.m3u8
+
+#EXTINF:-1,gemcrypto
+
+https://stream-cdn.gemonline.tv/live/gemcrypto/index.m3u8
