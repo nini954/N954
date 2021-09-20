@@ -98,22 +98,14 @@ https://glwizhstb39.glwiz.com/GemLife1_HD/GemLife1_High/24822203.ts?user=sgls765
 
 
 
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png",Gem Film
-
-https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_travel.png",Gem Travel
-
-https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
 
-https://glwizhstb42.glwiz.com/RIVER_HD/RIVER_High/24822288.ts?user=sgls76551&session=c8e6e774ae03e9c568ba44edd2239bf70f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
+https://glwizhstb37.glwiz.com/RIVER_HD/RIVER_High.m3u8?user=sgls76551&session=2c018fb2f8512ce668ba44edd2239bf70f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
 
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
 
-https://glwizhstb40.glwiz.com/RUBIX_HD/RUBIX_High/24822298.ts?user=sgls76551&session=d9c1b38bbe08c15c4077f52465d910140f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
-
+https://glwizhstb57.glwiz.com/RUBIX_HD/RUBIX_High.m3u8?user=sgls76551&session=fb24ec764a1d9fae8137e4b743ff81610f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
 
 
 #EXTINF:-1,gem usa
@@ -470,3 +462,12 @@ https://stream-cdn.gemonline.tv/live/gemcrypto/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/maxx.png",Maxx
 
 https://stream-cdn.gemonline.tv/live/gemmaxx/index.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_film.png",Gem Film
+
+https://stream-cdn.gemonline.tv/live/gemfilm/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_travel.png",Gem Travel
+
+https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
