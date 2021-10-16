@@ -384,9 +384,21 @@ https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
 
 https://live.farsiland.com/twtv3-480/twtv3-480.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,IRIB 3
 
-https://ss.90minlive.online/live/tv3-h/chunks.m3u8
+https://dsxo7rmhu4o7a.cloudfront.net/out/v1/1efc65a7a501429b96930f2e54117884/index_4.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://v2.cdn4kora.com/live/ch4/index.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://bozz.bebinhd.com/live/test-sporttv1/chunks.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://llhls-live.akamaized.net/exp=1634413667~acl=%2F2bd88b6b-1dd3-4548-a9f8-f31b07a548d7_llhls%2F%2A~hmac=8c21a0fc78f9af918a127da367f4a5bedb78ab73933c0abffc89bcd0c6226854/2bd88b6b-1dd3-4548-a9f8-f31b07a548d7_llhls/chunklist_b600000_cmaf_v.m3u8
 
 #EXTINF:-1,IRIB 5
 
