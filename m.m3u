@@ -76,7 +76,7 @@ https://stream-live.gemonline.tv/live/gem/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
 
-https://glwizhstb56.glwiz.com/GemSeries_HD/GemSeries_High.m3u8?user=sgls76551&session=910e153346c86935b70b731fc1d9f0e6eaba844fb2b246bf1e59b900a26caadf9403843a7f40ba61de2a9a15d4e21705
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
 
@@ -84,8 +84,7 @@ https://glwizhstb47.glwiz.com/GEMBollywood_HD/GEMBollywood_High.m3u8?user=sgls76
 
 #EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
 
-https://glwizhstb47.glwiz.com/GemClassic_HD/GemClassic_High/24822195.ts?user=sgls76551&session=0696c31018b5e5fb70961949eea0d57c5e2008f226c9c74d902c620dee4bd601178ea33f58b617822954b840755761c2
-
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
 
 #EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png",Gem food
