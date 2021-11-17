@@ -66,46 +66,49 @@ https://glwizhstb57.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&sess
 
 https://glwizhstb45.glwiz.com/CineSeries_HD/CineSeries_High.m3u8?user=sgls76551&session=871f4bde740fe65c25e1fb50f4e140de1d96bc4637a55c1f902c620dee4bd601178ea33f58b617822954b840755761c2
 
-#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
+#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
 
-https://glwizhstb38.glwiz.com/GEMDrama_HD/GEMDrama_High.m3u8?user=sgls76551&session=ecbefa2ba543a293a7935ff92fbec92d78a6d26d0474b49e76db27adeaad524b7183e0d774bb53c4&hlsid=HTTP_ID_10234&group_id=76551
+https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
+#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
 
 https://stream-live.gemonline.tv/live/gem/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
 
 https://stream-live.gemonline.tv/live/gemseries/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
+#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
 
-https://glwizhstb47.glwiz.com/GEMBollywood_HD/GEMBollywood_High.m3u8?user=sgls76551&session=264539731f0e794ff7f452c462e15dcd217142a0b1774aa5faa4c09b0ac6841b70832c74507d7c761f4e1a57557c4af1
+https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
 
 https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
+#EXTINF:-1,Gem Junior
+
+https://stream-live.gemonline.tv/live/gemjunior/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png",Gem food
 
-https://glwizhstb47.glwiz.com/GemFood_HD/GemFood_High.m3u8?user=sgls76551&session=e147e0ccb693b1449a1a590242dd3cd37daea6cab4d598d826f724dc219eda1fc0da100fa126c465
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
 
 #EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_life.png",Gem life
 
-https://glwizhstb39.glwiz.com/GemLife1_HD/GemLife1_High/24822203.ts?user=sgls76551&session=69b5828f62bbd36ee0102a271bc097622f1e9709f645c88276db27adeaad524b7183e0d774bb53c4
+https://stream-live.gemonline.tv/live/gemlife/index.m3u8
 
+#EXTINF:-1,Gem Travel
 
+https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
+https://stream-live.gemonline.tv/live/river/index.m3u8
 
-https://glwizhstb37.glwiz.com/RIVER_HD/RIVER_High.m3u8?user=sgls76551&session=2c018fb2f8512ce668ba44edd2239bf70f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
+#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
 
-#EXTINF:-1 tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
-
-https://glwizhstb57.glwiz.com/RUBIX_HD/RUBIX_High.m3u8?user=sgls76551&session=fb24ec764a1d9fae8137e4b743ff81610f89716983153dfa8a3dbee8eae0e82c0cdeca9cfc850884
-
+https://stream-live.gemonline.tv/live/rubix/index.m3u8
 
 #EXTINF:-1,gem usa
 
