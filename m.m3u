@@ -41,6 +41,13 @@ http://51.210.199.5/hls/stream.m3u8
 
 http://51.210.199.4/hls/stream.m3u8
 
+#EXTINF:-1,film
+
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1,cartoon
+
+http://51.210.227.134/hls/stream.m3u8
 
 #EXTINF:-1,MBC Persia
 
