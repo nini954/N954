@@ -66,13 +66,27 @@ http://51.210.199.2/hls/stream.m3u8
 
 http://51.210.199.3/hls/stream.m3u8
 
-#EXTINF:-1,cine film
+#EXTINF:-1, S
 
-https://glwizhstb57.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&session=6952e57bc8f14ab00864a13a23817201268a4e56c6ca85d476db27adeaad524b7183e0d774bb53c4
+http://51.210.199.30/hls/stream.m3u8
 
-#EXTINF:-1,cine series
+#EXTINF:-1, Ecron Tv
 
-https://glwizhstb45.glwiz.com/CineSeries_HD/CineSeries_High.m3u8?user=sgls76551&session=871f4bde740fe65c25e1fb50f4e140de1d96bc4637a55c1f902c620dee4bd601178ea33f58b617822954b840755761c2
+http://51.210.199.40/hls/stream.m3u8
+
+#EXTINF:-1, MONO TV
+
+http://51.210.227.137/hls/stream.m3u8
+
+
+#EXTINF:-1,VOX2
+
+http://51.210.199.9/hls/stream.m3u8
+
+#EXTINF:-1,Madar+
+
+http://51.210.199.40/hls/stream.m3u8
+
 
 #EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
 
@@ -198,15 +212,15 @@ http://51.210.199.22/hls/stream.m3u8
 
 http://51.210.199.36/hls/stream.m3u8
 
-#EXTINF:-1, Flix HD
+#EXTINF:-1, American Horrors
 
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+http://170.178.189.66:1935/live/Stream1/chunklist_w1000250718.m3u8
 
-#EXTINF:-1, Rakuten TV
+#EXTINF:-1, Gravitas Movies
 
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/3000.m3u8
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/254c2fb0-f152-444a-9148-4958423c0185:DLS/variant/b0103bf35de44606e1712f275330a0b0/bandwidth/3072000.m3u8
 
-#EXTINF:-1,EBC1
+#EXTINF:-1, EBC1
 
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 
@@ -216,11 +230,11 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 #EXTINF:-1,T2
 
-http://51.210.199.44/hls/stream.m3u8
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
 
 #EXTINF:-1,ITN
 
-https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/chunks.m3u8
+https://2nbyjjx7y53k-hls-live.5centscdn.com/itnapp/4e0ea63032b868402b61d3a35e7ca168.sdp/chunks.m3u8
 
 #EXTINF:-1,ITN
 
@@ -245,17 +259,7 @@ http://vps.parsiland.net/hls/ParsiLand.m3u8
 http://51.210.199.16/hls/stream.m3u8
 
 
-#EXTINF:-1, S
 
-http://51.210.199.30/hls/stream.m3u8
-
-#EXTINF:-1, Ecron Tv
-
-http://51.210.199.40/hls/stream.m3u8
-
-#EXTINF:-1, MONO TV
-
-http://51.210.227.137/hls/stream.m3u8
 
 #EXTINF:-1,Your time
 
@@ -281,45 +285,14 @@ http://51.210.199.2/hls/stream.m3u8
 
 http://51.210.199.3/hls/stream.m3u8
 
-#EXTINF:-1,UPbet
 
-http://51.210.199.6/hls/stream.m3u8
 
-#EXTINF:-1,VOX2
-
-http://51.210.199.9/hls/stream.m3u8
-
-#EXTINF:-1,Madar+
-
-http://51.210.199.40/hls/stream.m3u8
 
 #EXTINF:-1,11
 
 http://51.210.199.43/hls/stream.m3u8
 
-#EXTINF:-1,Poker TV
 
-http://51.210.199.17/hls/stream.m3u8
-
-#EXTINF:-1,Bazme Asheghan
-
-https://5dc143936e9ae.streamlock.net/saeed_nl/saeed_nl/chunklist.m3u8
-
-#EXTINF:-1,Donyaye Now
-
-http://51.210.199.45/hls/stream.m3u8
-
-#EXTINF:-1,International
-
-http://51.210.199.47/hls/stream.m3u8
-
-#EXTINF:-1,ATNNEWS
-
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1052699811.m3u8
-
-#EXTINF:-1,ATNNAT
-
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1395796805.m3u8
 
 #EXTINF:-1,BAHARTV
 
@@ -336,7 +309,7 @@ http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/ind
 
 #EXTINF:-1,Andisheh tv
 
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/chunks.m3u8
 
 #EXTINF:-1, Voa persian
 
@@ -344,11 +317,7 @@ http://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
 
 #EXTINF:-1, Iran International tv
 
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-
-#EXTINF:-1, Iran International tv
-
-https://live.playstop.me/LS-63503-4/index.m3u8
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
 #EXTINF:-1, Radio Farda
 
@@ -390,29 +359,11 @@ https://bozz.bebinhd.com/live/tv1/chunks.m3u8
 
 https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
-#EXTINF:-1,IRIB 3
-
-https://livetv.farsiland.com/tv3-1k/tv3-1k.m3u8
 
 #EXTINF:-1,IRIB 3
 
-https://live.farsiland.com/twtv3-480/twtv3-480.m3u8
+http://srv-stream-1.liv3.ir/live/smil:tv3.smil/chunklist_w1679131026_b1396000.m3u8
 
-#EXTINF:-1,IRIB 3
-
-https://dsxo7rmhu4o7a.cloudfront.net/out/v1/1efc65a7a501429b96930f2e54117884/index_4.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://v2.cdn4kora.com/live/ch4/index.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://bozz.bebinhd.com/live/test-sporttv1/chunks.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://llhls-live.akamaized.net/exp=1634413667~acl=%2F2bd88b6b-1dd3-4548-a9f8-f31b07a548d7_llhls%2F%2A~hmac=8c21a0fc78f9af918a127da367f4a5bedb78ab73933c0abffc89bcd0c6226854/2bd88b6b-1dd3-4548-a9f8-f31b07a548d7_llhls/chunklist_b600000_cmaf_v.m3u8
 
 #EXTINF:-1,IRIB 5
 
@@ -501,3 +452,16 @@ https://stream-cdn.gemonline.tv/live/gemtravel/index.m3u8
 #EXTINF:-1,gem
 
 https://stream-live.gemonline.tv/live/gem/index.m3u8
+
+#EXTINF:-1,UPbet
+
+http://51.210.199.6/hls/stream.m3u8
+
+#EXTINF:-1,cine film
+
+https://glwizhstb57.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&session=6952e57bc8f14ab00864a13a23817201268a4e56c6ca85d476db27adeaad524b7183e0d774bb53c4
+
+#EXTINF:-1,cine series
+
+https://glwizhstb45.glwiz.com/CineSeries_HD/CineSeries_High.m3u8?user=sgls76551&session=871f4bde740fe65c25e1fb50f4e140de1d96bc4637a55c1f902c620dee4bd601178ea33f58b617822954b840755761c2
+
