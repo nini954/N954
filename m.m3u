@@ -362,8 +362,16 @@ https://bozz.bebinhd.com/live/tv02/chunks.m3u8
 
 #EXTINF:-1,IRIB 3
 
-http://srv-stream-1.liv3.ir/live/smil:tv3.smil/chunklist_w1679131026_b1396000.m3u8
+http://srv-stream-1.liv3.ir:1935/live/tv3/chunklist_w907610268.m3u8
 
+#EXTINF:-1,IRIB 3
+
+https://rr2---sn-n4v7sney.googlevideo.com/videoplayback?expire=1646089716&ei=lAEdYsO-GeCAsfIPx7qCgAU&ip=75.141.205.95&id=A7KqF46MQlE.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=fV&mm=44%2C26&mn=sn-n4v7sney%2Csn-a5msen7s&ms=lva%2Conr&mv=m&mvi=2&pl=18&initcwndbps=1682500&spc=4ocVC3RIn-T8Luzd4dQVVdDABERy&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=tBFUXnJLjQzUA7BefJgJG5UG&gir=yes&mt=1646067401&fvip=2&keepalive=yes&fexp=24001373%2C24007246&beids=24010694&c=WEB_EMBEDDED_PLAYER&n=9-TOl3flfPpqJA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgNiXcXwzdDGA2vLPv4AlO8dGC6hePL8egpo5PITW1158CIQDfxbBY1VqfNvZ-u9uWuRqTO8n9J2r2YwNiX4lCwVwnHg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANk_x3VvOHKldOvqYCjuejDMUzmv_DKn31p_Nf4avV7OAiEAoDpev1oXL5tY5z4n9o_yWOZlPOqASlZDv7Ypr9J1XSo%3D&alr=yes&cpn=FyhlUE6rkQIVc3hC&cver=1.20220223.01.00&headm=4&rn=1
+
+
+#EXTINF:-1,IRIB 3
+
+https://cdn.telewebion.com/tv3/live/240p/index.m3u8?uid=GjJzu1i833aLaA9d4meNZglRev3YGTnJVveZCE5E6mHFG4hP0pMtVZR74XFaVAaN
 
 #EXTINF:-1,IRIB 5
 
