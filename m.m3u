@@ -1,6 +1,6 @@
 
 #EXTINF:-1,Simaye azzadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 #EXTINF:-1,nbc olympic
 https://v-ca.mybtv.net/event/121/1920x1080.m3u8?start_time=2021-05-16T23%3A45%3A00%2B00%3A00&end_time=2023-05-17T05%3A00%3A00%2B00%3A00&env=prd&uid=33630
 #EXTINF:-1,nbc olympic2
@@ -11,7 +11,8 @@ https://streams.the6tv.duckdns.org:2443/locals/BayArea/kntv-dt1.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1,Manoto
 
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
+https://edge-cdn1.manoto.click/live_2500.m3u8
+
 
 #EXTINF:-1,caltextv
 
@@ -469,7 +470,10 @@ http://51.210.199.6/hls/stream.m3u8
 
 https://glwizhstb57.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&session=6952e57bc8f14ab00864a13a23817201268a4e56c6ca85d476db27adeaad524b7183e0d774bb53c4
 
-#EXTINF:-1,cine series
+cine series
 
 https://glwizhstb45.glwiz.com/CineSeries_HD/CineSeries_High.m3u8?user=sgls76551&session=871f4bde740fe65c25e1fb50f4e140de1d96bc4637a55c1f902c620dee4bd601178ea33f58b617822954b840755761c2
 
+#EXTINF:-1,manoto
+
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
