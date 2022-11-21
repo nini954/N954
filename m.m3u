@@ -422,10 +422,6 @@ https://stream-live.gemonline.tv/live/gem/index.m3u8
 
 http://51.210.199.6/hls/stream.m3u8
 
-#EXTINF:-1,cine film
-
-https://glwizhstb57.glwiz.com/CineFilm_HD/CineFilm_High.m3u8?user=sgls76551&session=6952e57bc8f14ab00864a13a23817201268a4e56c6ca85d476db27adeaad524b7183e0d774bb53c4
-
 #EXTINF:-1,manoto
 
 https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8
