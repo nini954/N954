@@ -9,49 +9,6 @@ https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:,-1,fox sport 2
 http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/577-5776874_fite-tv-logo-fitness-hd-png-download.png" group-title="SPORTS", FITE SPORT HD
-https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_fightsport_small.png" group-title="SPORTS", FIGHT SPORTS
-http://iptvid.my.id/hmm/fightsport.m3u8
-http://rr1.dens.tv/h/h05/index.m3u8
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS", NBA
-http://iptvid.my.id/hmm/nba.m3u8
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png" group-title="SPORTS", HORISON SPORTS
-http://iptvid.my.id/hmm/horisonsport.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEESPORTS 1
-http://iptvid.my.id/hmm/useetl1.m3u8 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEESPORTS 2
-http://iptvid.my.id/hmm/useetl2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png" group-title="SPORTS", CHAMPION TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png" group-title="SPORTS", CHAMPION TV 2
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c895Dgv/champ3.png" group-title="SPORTS", CHAMPION TV 3
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png?v=2.0.0.13" group-title="SPORTS", FOX SPORTS 1
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png?v=2.0.0.13" group-title="SPORTS", FOX SPORTS 2
-http://89.187.175.143:80/3028/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS PREMIUM 1
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/9
-http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS PREMIUM 2
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/8
-http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS PREMIUM 3
-http://server.sibfungold.info:8080/naasiptv/gutNC1gKgm/11
-http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 1
-http://iptvid.my.id/hmm/bskunyak1.m3u8
-http://iptvtree.net:8080/ace2524d/15a571c413/100
-#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13" group-title="SPORTS", BEIN SPORTS 3
-http://iptvid.my.id/hmm/bskunyak2.m3u8
-http://iptvtree.net:8080/ace2524d/15a571c413/101
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_spotv_small.png" group-title="SPORTS", SPOTV
-http://iptvid.my.id/hmm/spotv.m3u8
-#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_spotv2_small.png" group-title="SPORTS", SPOTV 2
-http://iptvid.my.id/hmm/spotv2.m3u8
-
 #EXTINF:,-1,Simaye azzadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 #EXTINF:-1,mtv
