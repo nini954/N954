@@ -1,14 +1,22 @@
 #EXTM3U
 #EXTINF:,-1,irib3
-https://live.aionet.ir/hls/tv3/tv3_1080/index.m3u8
+https://dk13.dk14.footballii.ir/hls2/scoreboard1_high.m3u8
 #EXTINF:,-1,irib3
-https://live.aionet.ir/hls/tv3/tv3_720/index.m3u8
+https://dk13.dk14.footballii.ir/hls2/scoreboard1_mid.m3u8
 #EXTINF:,-1,irib3
-https://live.aionet.ir/hls/tv3/tv3_540/index.m3u8
+https://dk13.dk14.footballii.ir/hls2/scoreboard1_low.m3u8
+#EXTINF:,-1,irib3
+https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-1k_v5.m3u8?
+#EXTINF:,-1,irib3
+https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-2k_v5.m3u8?
 #EXTINF:,-1,fox sport 1
 http://89.187.175.143:80/3056/index.m3u8
 #EXTINF:,-1,fox sport 2
 http://89.187.175.143:80/3028/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TNT" group="" logo="", TNT
+http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="FX" group="" logo="", FX
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:,-1,Simaye azzadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 #EXTINF:-1,mtv
