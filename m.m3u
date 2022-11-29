@@ -11,6 +11,16 @@ https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-1k_v5.m3u8?
 https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-2k_v5.m3u8?
 #EXTINF:,-1,fox sport 1
 http://89.187.175.143:80/3056/index.m3u8
+#EXTINF:,-1,fox sport 1
+https://live.tv247us.com/tv247/fs1.m3u8
+#EXTINF:,-1,tnt
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295
+#EXTINF:,-1,fox
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061400
+#EXTINF:,-1,espn
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71215
+#EXTINF:,-1,fox
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044434
 #EXTINF:,-1,fox sport 2
 http://89.187.175.143:80/3028/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="TNT" group="" logo="", TNT
