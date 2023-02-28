@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:,-1,tnt
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295
-#EXTINF:,-1,fox
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061400
-#EXTINF:,-1,espn
-http://platin4k.eu:80/eagleiptv/SsFAljPDDi/71215
-#EXTINF:,-1,fox
-http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044434
-#EXTINF:,-1,fox sport 2
-http://89.187.175.143:80/3028/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="TNT" group="" logo="", TNT
 http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" name="FX" group="" logo="", FX
@@ -37,10 +27,6 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1460239180_b2892000.m3
 
 https://hls.247box.live/hls/stream.m3u8
 
-#EXTINF:-1,AVA family
-
-http://51.210.199.5/hls/stream.m3u8
-
 #EXTINF:-1,AVA Series
 
 http://51.210.199.4/hls/stream.m3u8
@@ -55,7 +41,7 @@ http://51.210.227.134/hls/stream.m3u8
 
 #EXTINF:-1,MBC Persia
 
-https://e1.taghtia.com/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 #EXTINF:-1,FX movie
 
