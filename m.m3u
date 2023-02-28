@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:,-1,irib3
-https://dk13.dk14.footballii.ir/hls2/scoreboard1_high.m3u8
-#EXTINF:,-1,irib3
-https://dk13.dk14.footballii.ir/hls2/scoreboard1_mid.m3u8
-#EXTINF:,-1,irib3
-https://dk13.dk14.footballii.ir/hls2/scoreboard1_low.m3u8
-#EXTINF:,-1,irib3
-https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-1k_v5.m3u8?
-#EXTINF:,-1,irib3
-https://liveproxy.splus.ir/tva_IRIB-TV3/333-inadv-qidx-2k_v5.m3u8?
-#EXTINF:,-1,fox sport 1
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:,-1,fox sport 1
-https://live.tv247us.com/tv247/fs1.m3u8
 #EXTINF:,-1,tnt
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1061295
 #EXTINF:,-1,fox
@@ -32,7 +18,7 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 #EXTINF:-1,mtv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1,Manoto
-https://edge-cdn1.manoto.click/live_1500.m3u8
+https://edge-uk2.manoto.click/live_2500.m3u8
 
 #EXTINF:-1,PMC
 
