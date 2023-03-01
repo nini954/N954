@@ -62,7 +62,7 @@ http://51.210.199.3/hls/stream.m3u8
 
 http://51.210.199.9/hls/stream.m3u8
 
-#EXTINF:-1 family 24
+#EXTINF:-1,family 24
 
 http://51.210.199.15/hls/stream.m3u8
 
