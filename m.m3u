@@ -5,23 +5,31 @@ https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1,Manoto
 
-https://edge-nuk1.manoto.click/live_2500.m3u8
+https://edge-uk3.manoto.click/live_2500.m3u8
 
 #EXTINF:-1,PMC
 
 https://hls.pmchd.live/hls/stream.m3u8
 
+#EXTINF:-1,MTV
+
+https://mtchls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,Caltex Music TV
 
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
-
-#EXTINF:-1,Navahang
-
-https://hls.navahang.live/hls/stream.m3u8
+https://video.caltexmusic.com/hls/caltextv.m3u8
 
 #EXTINF:-1,radio javan
 
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1460239180_b2892000.m3u8
+
+#EXTINF:-1,Avang TV
+
+https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1,AMG
+
+https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
 #EXTINF:-1,247 Box TV
 
@@ -31,13 +39,17 @@ https://hls.247box.live/hls/stream.m3u8
 
 https://avaserieshls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1,GrandCinema
+
+https://gcinemahls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,MBC Persia
 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 #EXTINF:-1,FX TV
 
-https://fxtvhls.wns.live/hls/stream.m3u8
+https://fxtvhls.wns.live/hls/stream-599779.ts
 
 #EXTINF:-1, SL one
 
@@ -47,9 +59,17 @@ https://slonehls.wns.live/hls/stream.m3u8
 
 https://sltwohls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1,VOX1
+#EXTINF:-1,ITC
 
-https://hls.vox1.live/hls/stream.m3u8
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqIFRqtKud7XlQ4NJFM1bX0CMm5ZDAsuvpFDAgpaC3pDlPjKQPwAQSC2YW5_pH-PlkbUK6ZMrB_z02DJwq3BjqODO2KFLFeEMnZSx8aJbf-z1Z1Rn6wfO80IPj90R_46xWs5tZUq5hC91VePlt90OuWlKNqwSmg7oylhYbcNF5OACa-wWtFuxfZMWZhIqSkJ9k7jcarmGKS7OelODi7qfUqoZdGfU_-TXIDye1Nq99L6ykaNnZv51O-VkxbQG6QXYhZbcYAM5IoQQFrBVI82eDPO1CpCxfjg71ixWGx7GH03k7hy4DCaJIfsBnPOp5mzUdSgGGr93qO-hdBCQMNuY_UjD0wPyFQi7DgspkzQ6mJUgXt6mTRN3L6LSmC0FDU1OB6VazkJ-V0ptjjYCIO9wBbJIvVQwerqbfC3LVF5xK9l7bp9-vopMIu_J3LA52ln6INZYVBev1VbmbCtF9RtuKLYs-fKftjK2DPgAIeGvA5S0yAFLmUBZb-1JcdG-Z-nlHim8rYHMSMUSrKGtrByCALeAgQ2Ta0b6ZzAYICDN2MbzQSQdlgk7qwyk39zJ0MDiSK6H5zSFPjBCtMOU-gev6ITzfYA0GvhMdRT5Fpz4ig9uLjq3lRICC6b9VItX_bQT5XZkqnHod7Lowm_FHl_c0EzfP2hlUKBmijX77qHjopuxwcT5zeX0uFwCk-zmeILf-er55_bnKuP5E0VrR6JZlSHgwbYwMKnHTJ577ysohPx1SwSvjD23_2D_JpCtVo5uuPILHsfFYmB9nEXkPQZtGpB7dGj_s0p8UqwBstcAek_SGbOqbHDSUB1zOSdsepXwCGRyeDnz-qDXaVrbVP1GfXIdrO9fq1pe0NoNZVyfPrKFWzNltX8V-1OXwsEtybO45866wkaDEVxCEVjG7QXtv48oiABKgl1cy1lYXN0LTIwzQc.m3u8
+
+#EXTINF:-1,ITN
+
+https://itnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Tasvir Iran
+
+https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
 
 #EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
 
@@ -109,15 +129,11 @@ https://stream-live.gemonline.tv/live/gemkids/index.m3u8
 
 #EXTINF:-1,Persiana Cinema
 
-http://51.210.199.15/hls/stream.m3u8
+https://persiana-cinema.icdndhcp.com/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Korea
 
 http://51.210.199.14/hls/stream.m3u8
-
-#EXTINF:-1,Persiana Technology
-
-http://51.210.199.25/hls/stream.m3u8
 
 #EXTINF:-1,Persiana HD
 
@@ -126,10 +142,6 @@ http://51.210.199.21/hls/stream.m3u8
 #EXTINF:-1,Persiana Comedy
 
 http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1,Persiana Bilboard
-
-http://51.210.199.10/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Nostalgia
 
@@ -147,14 +159,13 @@ http://51.210.199.19/hls/stream.m3u8
 
 http://51.210.199.24/hls/stream.m3u8
 
-
 #EXTINF:-1,Persiana Junior
 
 http://51.210.199.18/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Varzesh
 
-http://51.210.199.16/hls/stream.m3u8
+https://af.ayas.ir/hls2/persiana-31015488690.ts
 
 #EXTINF:-1,Persiana Classic
 
@@ -172,14 +183,6 @@ http://51.210.199.22/hls/stream.m3u8
 
 https://hls.oxir.live/hls/stream.m3u8
 
-#EXTINF:-1, American Horrors
-
-http://170.178.189.66:1935/live/Stream1/chunklist_w1000250718.m3u8
-
-#EXTINF:-1, Gravitas Movies
-
-https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/23db5a90-af96-4eda-a5f8-b360652ffb65:DLS/variant/b0103bf35de44606e1712f275330a0b0/bandwidth/3072000.m3u8
-
 #EXTINF:-1,Tapesh
 
 http://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8
@@ -188,17 +191,17 @@ http://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8
 
 https://hls.yourtime.live/hls/stream.m3u8
 
-#EXTINF:-1,Negah TV
+#EXTINF:-1,Royal TV
 
-https://iptv.negahtv.com/negahtv/playlist_src/index.m3u8
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, Voa persian
 
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_1080/chunklist.m3u8
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 
 #EXTINF:-1, Iran International tv
 
-https://live.playstop.me/1816184091/chunklist_b2796000.m3u8
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
