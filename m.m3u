@@ -203,6 +203,30 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 
+#EXTINF:-1,IRIB 3
+
+https://stream.live12.ir/hls2/ayassport1.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://zp02.dlive.click/ZX61xIFufhtOhpYP-7aTQQ/1701140536/37312e38392e3234302e313633/ff271/playlist.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://stream.live12.ir/hls2/ayassport1.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://af.ayas.ir/hls2/tv3.m3u8
+
+#EXTINF:-1,IRIB 3
+
+https://cdn-azd204c.telewebion.com/tv3/live/720p/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
