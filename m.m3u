@@ -39,6 +39,10 @@ https://hls.247box.live/hls/stream.m3u8
 
 https://avaserieshls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1,AVA Family
+
+https://familyhls.avatv.live/hls/stream.m3u8
+
 #EXTINF:-1,GrandCinema
 
 https://gcinemahls.wns.live/hls/stream.m3u8
