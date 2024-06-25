@@ -3,9 +3,6 @@
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
 #EXTINF:-1,mtv
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1,Manoto
-
-https://edge-uk3.manoto.click/live_2500.m3u8
 
 #EXTINF:-1,Gem S
 
@@ -15,9 +12,17 @@ https://ok.ru/video/7224015986311
 
 https://hls.pmchd.live/hls/stream.m3u8
 
-#EXTINF:-1,MTV
+#EXTINF:-1,PMC Royale
+
+https://rohls.pmc.live/hls/stream.m3u8
+
+#EXTINF:-1,MTC
 
 https://mtchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Payam Javan
+
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w172368679.m3u8
 
 #EXTINF:-1,Caltex Music TV
 
@@ -30,6 +35,10 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1460239180_b2892000.m3
 #EXTINF:-1,Avang TV
 
 https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1,Navahang
+
+https://hls.navahang.live/hls/stream.m3u8
 
 #EXTINF:-1,AMG
 
@@ -59,13 +68,17 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 
 https://fxtvhls.wns.live/hls/stream-599779.ts
 
-#EXTINF:-1, SL one
+#EXTINF:-1,SL one
 
 https://slonehls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1, SL Two
+#EXTINF:-1,SL Two
 
 https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Grand Cinema
+
+https://gcinemahls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,ITC
 
@@ -75,9 +88,25 @@ https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqIFRqtKud7XlQ4NJFM1bX0CMm5
 
 https://itnhls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1,ICC
+
+https://icchls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,4U
+
+https://hls.4utv.live/hls/stream.m3u8
+
+#EXTINF:-1,4U+
+
+https://bravoohls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,Tasvir Iran
 
 https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
+
+#EXTINF:-1,ME2
+
+https://me2hls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
 
@@ -137,55 +166,67 @@ https://stream-live.gemonline.tv/live/gemkids/index.m3u8
 
 #EXTINF:-1,Persiana Cinema
 
-https://persiana-cinema.icdndhcp.com/hls/stream.m3u8
+https://cinehls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Korea
 
-http://51.210.199.14/hls/stream.m3u8
+https://korhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana HD
 
-http://51.210.199.21/hls/stream.m3u8
+https://euhls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana One
+
+https://onehls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Two
+
+https://twohls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Comedy
 
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1,Persiana Nostalgia
-
-http://51.210.199.20/hls/stream.m3u8
-
-#EXTINF:-1,Persiana Entertainment
-
-http://51.210.199.14/hls/stream.m3u8
+https://comedyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Family
 
-http://51.210.199.19/hls/stream.m3u8
+https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Music
 
-http://51.210.199.24/hls/stream.m3u8
+https://musichls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Rap
+
+https://raphls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Nostalgia
+
+https://noshls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Latina
+
+https://latinohls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1,Persiana Sonnati
+
+https://sonhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Junior
 
-http://51.210.199.18/hls/stream.m3u8
+https://junhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1,Persiana Varzesh
+#EXTINF:-1,Persiana Science
 
-https://af.ayas.ir/hls2/persiana-31015488690.ts
+https://scihls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1,Persiana Classic
+#EXTINF:-1,Persiana Turkiye
 
-http://51.210.199.26/hls/stream.m3u8
-
-#EXTINF:-1,Persiana Doc
-
-http://51.210.199.23/hls/stream.m3u8
+https://turkhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Persiana Iranian
 
-http://51.210.199.22/hls/stream.m3u8
+https://irhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1,Oxir TV
 
@@ -193,7 +234,15 @@ https://hls.oxir.live/hls/stream.m3u8
 
 #EXTINF:-1,Tapesh
 
-http://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8
+https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
+
+#EXTINF:-1,T2
+
+https://t2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Maah TV
+
+https://hls.maahtv.live/hls/stream.m3u8
 
 #EXTINF:-1,Your time
 
@@ -207,9 +256,21 @@ https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11e
 
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
 
+#EXTINF:-1, hannel one
+
+https://ch1hls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1, Iran International tv
 
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
+
+#EXTINF:-1, Iran International tv
+
+https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1, Israel Pars TV
+
+https://live.pars-israel.com/iptv/stream.m3u8
 
 #EXTINF:-1,IRIB 3
 
