@@ -292,6 +292,21 @@ https://af.ayas.ir/hls2/tv3.m3u8
 
 https://cdn-azd204c.telewebion.com/tv3/live/720p/index.m3u8
 
+#EXTINF:-1,varzesh 1080
+
+https://liveproxy.splus.ir/hls/varzesh/varzesh_1080/index.m3u8
+
+#EXTINF:-1,varzesh 720
+
+https://liveproxy.splus.ir/hls/varzesh/varzesh_720/index.m3u8
+
+#EXTINF:-1,varzesh 480
+
+https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8
+
+#EXTINF:-1, IRIB 3
+
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/G2pRs_PHc7NUE-LIA9gVxMlQOy5uWn7bc_v0gOLoYmjloLhe96URRqW9ZEV7UCScxKyYieQViH0LrAwBPvsYKg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live
 
 
 
