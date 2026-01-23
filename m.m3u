@@ -1,7 +1,14 @@
 #EXTM3U
 #EXTINF:,-1,Simaye azzadi
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/07.m3u8
+
+https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/44/media.m3u8
+
+#EXTINF:,-1,Manoto TV
+
+https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
+
 #EXTINF:-1,mtv
+
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1,Gem S
@@ -22,19 +29,35 @@ https://mtchls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,Payam Javan
 
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w172368679.m3u8
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1458386539.m3u8
 
 #EXTINF:-1,Caltex Music TV
 
 https://video.caltexmusic.com/hls/caltextv.m3u8
 
+#EXTINF:-1,Royal Time
+
+https://tixbolt.com/royaltv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,radio javan
 
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1460239180_b2892000.m3u8
 
+#EXTINF:-1,radio javan
+
+https://rjtvhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,Avang TV
 
 https://hls.avang.live/hls/stream.m3u8
+
+#EXTINF:-1,iTV Persian Music
+
+https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sun Music
+
+https://hls.sunmusic.live/hls/stream.m3u8
 
 #EXTINF:-1,Navahang
 
@@ -47,6 +70,10 @@ https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1,247 Box TV
 
 https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1,T2 Movies
+
+https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 
 #EXTINF:-1,AVA Series
 
@@ -64,9 +91,45 @@ https://gcinemahls.wns.live/hls/stream.m3u8
 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
+#EXTINF:-1,MBC Persia
+
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/manifest/video/720p1750kbps/video.m3u8
+
+#EXTINF:-1,Atrina TV
+
+https://atrihls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Khatereh TV
+
+https://corsply-lw732ndpe2a5z.cfpass1.workers.dev/?url=https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+
+#EXTINF:-1,Arvan TV
+
+https://arvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Classic TV
+
+https://clshls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Omid e Iran
+
+https://oitnhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Iran Nama
+
+https://hls.ashena.live/hls/stream.m3u8
+
 #EXTINF:-1,FX TV
 
 https://fxtvhls.wns.live/hls/stream-599779.ts
+
+#EXTINF:-1,FX TV One
+
+https://fxtvhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,FX TV Two
+
+https://toonixhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,SL one
 
@@ -75,6 +138,14 @@ https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1,SL Two
 
 https://sltwohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Newflix
+
+https://newfhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Goldstar
+
+https://moviethls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,Grand Cinema
 
@@ -100,13 +171,41 @@ https://hls.4utv.live/hls/stream.m3u8
 
 https://bravoohls.wns.live/hls/stream.m3u8
 
+#EXTINF:-1,Meta Film
+
+https://metafilmhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Arko
+
+https://arkhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Afra Film
+
+https://afrafhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Arax
+
+https://araxhls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,Tasvir Iran
 
 https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
 
+#EXTINF:-1,AFN Music
+
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
 #EXTINF:-1,ME2
 
 https://me2hls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,eplanet
+
+https://eplhls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1,Datis
+
+https://dathls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
 
@@ -236,9 +335,17 @@ https://stream.sainaertebat.com/hls2/persianas.m3u8
 
 https://hls.oxir.live/hls/stream.m3u8
 
+#EXTINF:-1,Radio Farda
+
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist_0576.m3u8
+
 #EXTINF:-1,Tapesh
 
-https://iptv.tapesh.tv/tapesh/playlist_src/index.m3u8
+https://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8
+
+#EXTINF:-1,Tapesh Iran
+
+https://iptv.tapesh.tv/tapeshiran/playlist_mid/index.m3u8
 
 #EXTINF:-1,T2
 
@@ -248,6 +355,10 @@ https://t2hls.wns.live/hls/stream.m3u8
 
 https://hls.maahtv.live/hls/stream.m3u8
 
+#EXTINF:-1,Net TV
+
+https://nethls.wns.live/hls/stream.m3u8
+
 #EXTINF:-1,Your time
 
 https://hls.yourtime.live/hls/stream.m3u8
@@ -256,9 +367,11 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, Voa persian
+#EXTINF:-1,Royal TV
 
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_1080.m3u8
+https://arvhls.wns.live/hls/stream.m3u8
+
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
 
 #EXTINF:-1, hannel one
 
@@ -271,6 +384,14 @@ https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 #EXTINF:-1, Iran International tv
 
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
+
+#EXTINF:-1, Iran International tv
+
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_10.m3u8
+
+#EXTINF:-1, BBC
+
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1, Israel Pars TV
 
@@ -338,4 +459,5 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1,MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+
 
