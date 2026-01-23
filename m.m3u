@@ -17,11 +17,11 @@ https://ok.ru/video/7224015986311
 
 #EXTINF:-1,PMC
 
-https://hls.pmchd.live/hls/stream.m3u8
+https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
 
 #EXTINF:-1,PMC Royale
 
-https://rohls.pmc.live/hls/stream.m3u8
+https://pmcrohls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,MTC
 
@@ -459,5 +459,6 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
 #EXTINF:-1,MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
+
 
 
