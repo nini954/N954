@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:,-1,Simaye azzadi
-
-https://simaytv.akamaized.net/hls/live/a162cb6c-3be1-4e57-87dc-a75a50b3b8d9/simayhls/44/media.m3u8
-
 #EXTINF:,-1,Manoto TV
 
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
@@ -47,10 +43,6 @@ https://hls.sunmusic.live/hls/stream.m3u8
 #EXTINF:-1,Navahang
 
 https://hls.navahang.live/hls/stream.m3u8
-
-#EXTINF:-1,AMG
-
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
 
 #EXTINF:-1,T2 Movies
 
@@ -291,3 +283,4 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/2.m3u8
 #EXTINF:-1,varzesh 720
 
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/2.m3u8
+
