@@ -12,10 +12,6 @@ https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.ap
 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f9847fd513250000728a9a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1,Gem S
-
-https://ok.ru/video/7224015986311
-
 #EXTINF:-1,PMC
 
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/PMCMusic/index-0.m3u8
@@ -32,17 +28,9 @@ https://mtchls.wns.live/hls/stream.m3u8
 
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1458386539.m3u8
 
-#EXTINF:-1,Caltex Music TV
-
-https://video.caltexmusic.com/hls/caltextv.m3u8
-
 #EXTINF:-1,Royal Time
 
 https://tixbolt.com/royaltv/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1,radio javan
-
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w1460239180_b2892000.m3u8
 
 #EXTINF:-1,radio javan
 
@@ -51,10 +39,6 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Avang TV
 
 https://hls.avang.live/hls/stream.m3u8
-
-#EXTINF:-1,iTV Persian Music
-
-https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Sun Music
 
@@ -67,10 +51,6 @@ https://hls.navahang.live/hls/stream.m3u8
 #EXTINF:-1,AMG
 
 https://nl.livekadeh.com/hls2/AMG_src.m3u8
-
-#EXTINF:-1,247 Box TV
-
-https://hls.247box.live/hls/stream.m3u8
 
 #EXTINF:-1,T2 Movies
 
@@ -87,10 +67,6 @@ https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1,GrandCinema
 
 https://gcinemahls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1,MBC Persia
-
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
 
 #EXTINF:-1,MBC Persia
 
@@ -152,10 +128,6 @@ https://moviethls.wns.live/hls/stream.m3u8
 
 https://gcinemahls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1,ITC
-
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqIFRqtKud7XlQ4NJFM1bX0CMm5ZDAsuvpFDAgpaC3pDlPjKQPwAQSC2YW5_pH-PlkbUK6ZMrB_z02DJwq3BjqODO2KFLFeEMnZSx8aJbf-z1Z1Rn6wfO80IPj90R_46xWs5tZUq5hC91VePlt90OuWlKNqwSmg7oylhYbcNF5OACa-wWtFuxfZMWZhIqSkJ9k7jcarmGKS7OelODi7qfUqoZdGfU_-TXIDye1Nq99L6ykaNnZv51O-VkxbQG6QXYhZbcYAM5IoQQFrBVI82eDPO1CpCxfjg71ixWGx7GH03k7hy4DCaJIfsBnPOp5mzUdSgGGr93qO-hdBCQMNuY_UjD0wPyFQi7DgspkzQ6mJUgXt6mTRN3L6LSmC0FDU1OB6VazkJ-V0ptjjYCIO9wBbJIvVQwerqbfC3LVF5xK9l7bp9-vopMIu_J3LA52ln6INZYVBev1VbmbCtF9RtuKLYs-fKftjK2DPgAIeGvA5S0yAFLmUBZb-1JcdG-Z-nlHim8rYHMSMUSrKGtrByCALeAgQ2Ta0b6ZzAYICDN2MbzQSQdlgk7qwyk39zJ0MDiSK6H5zSFPjBCtMOU-gev6ITzfYA0GvhMdRT5Fpz4ig9uLjq3lRICC6b9VItX_bQT5XZkqnHod7Lowm_FHl_c0EzfP2hlUKBmijX77qHjopuxwcT5zeX0uFwCk-zmeILf-er55_bnKuP5E0VrR6JZlSHgwbYwMKnHTJ577ysohPx1SwSvjD23_2D_JpCtVo5uuPILHsfFYmB9nEXkPQZtGpB7dGj_s0p8UqwBstcAek_SGbOqbHDSUB1zOSdsepXwCGRyeDnz-qDXaVrbVP1GfXIdrO9fq1pe0NoNZVyfPrKFWzNltX8V-1OXwsEtybO45866wkaDEVxCEVjG7QXtv48oiABKgl1cy1lYXN0LTIwzQc.m3u8
-
 #EXTINF:-1,ITN
 
 https://itnhls.wns.live/hls/stream.m3u8
@@ -196,10 +168,6 @@ https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
 
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 
-#EXTINF:-1,ME2
-
-https://me2hls.wns.live/hls/stream.m3u8
-
 #EXTINF:-1,eplanet
 
 https://eplhls.wns.live/hls/stream.m3u8
@@ -207,62 +175,6 @@ https://eplhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Datis
 
 https://dathls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMDrama-300x180.jpg",GEM Drama
-
-https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
-
-#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMTV-300x180.gif",GEM TV
-
-https://stream-live.gemonline.tv/live/gem/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemseries-icon.png",Gem Series
-
-https://stream-live.gemonline.tv/live/gemseries/index.m3u8
-
-#EXTINF:-1,tvg-logo="http://irandigitaltv.com/wp-content/uploads/2019/05/GEMBollywood-300x180.gif",GEM Bollywood
-
-https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemclassic-icon.png",GEM Classic
-
-https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
-
-#EXTINF:-1,Gem Junior
-
-https://stream-live.gemonline.tv/live/gemjunior/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_food.png",Gem food
-
-https://stream-live.gemonline.tv/live/gemfood/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_life.png",Gem life
-
-https://stream-live.gemonline.tv/live/gemlife/index.m3u8
-
-#EXTINF:-1,Gem Travel
-
-https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png",River
-
-https://stream-live.gemonline.tv/live/river/index.m3u8
-
-#EXTINF:-1,tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png",Rubix
-
-https://stream-live.gemonline.tv/live/rubix/index.m3u8
-
-#EXTINF:-1,gem usa
-
-https://glwizhstb56.glwiz.com/GemUSA_HD/GemUSA_High.m3u8?user=sgls76551&session=a998178de91ba309b908c5f63038a130c7339c3ad83a927268530e503534598e06d024fd36b3b3a5
-
-#EXTINF:-1,gem onyx
-
-https://glwizhstb49.glwiz.com/ONYX_HD/ONYX_High.m3u8?user=sgls76551&session=f6d903ec96631c04b67ff3876a348fc4faa4c09b0ac6841b70832c74507d7c761f4e1a57557c4af1
-
-#EXTINF:-1,gem kid
-
-https://stream-live.gemonline.tv/live/gemkids/index.m3u8
 
 #EXTINF:-1,Persiana Cinema
 
@@ -304,10 +216,6 @@ https://raphls.persiana.live/hls/stream.m3u8
 
 https://noshls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1,Persiana Latina
-
-https://latinohls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1,Persiana Sonnati
 
 https://sonhls.persiana.live/hls/stream.m3u8
@@ -327,10 +235,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,Persiana Iranian
 
 https://irhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1,Persiana sport
-
-https://stream.sainaertebat.com/hls2/persianas.m3u8
 
 #EXTINF:-1,Oxir TV
 
@@ -366,27 +270,11 @@ https://hls.yourtime.live/hls/stream.m3u8
 
 #EXTINF:-1,Royal TV
 
-https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Royal TV
-
 https://arvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1,VOA
 
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
-
-#EXTINF:-1, channel one
-
-https://ch1hls.wns.live/hls/stream.m3u8
-
-#EXTINF:-1, Iran International tv
-
-https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
-
-#EXTINF:-1, Iran International tv
-
-https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 
 #EXTINF:-1, Iran International tv
 
@@ -396,74 +284,10 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1, Israel Pars TV
-
-https://live.pars-israel.com/iptv/stream.m3u8
-
 #EXTINF:-1,IRIB 3
 
-https://spstr.abntv.live/hls/psstream.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://zp02.dlive.click/ZX61xIFufhtOhpYP-7aTQQ/1701140536/37312e38392e3234302e313633/ff271/playlist.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://stream.live12.ir/hls2/ayassport1.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://af.ayas.ir/hls2/tv3.m3u8
-
-#EXTINF:-1,IRIB 3
-
-https://cdn-azd204c.telewebion.com/tv3/live/720p/index.m3u8
-
-#EXTINF:-1,varzesh 1080
-
-https://liveproxy.splus.ir/hls/varzesh/varzesh_1080/index.m3u8
+https://lenz.splus.ir/PLTV/88888888/224/3221226868/2.m3u8
 
 #EXTINF:-1,varzesh 720
 
-https://liveproxy.splus.ir/hls/varzesh/varzesh_720/index.m3u8
-
-#EXTINF:-1,varzesh 480
-
-https://liveproxy.splus.ir/hls/varzesh/varzesh_480/index.m3u8
-
-#EXTINF:-1, IRIB 3
-
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/G2pRs_PHc7NUE-LIA9gVxMlQOy5uWn7bc_v0gOLoYmjloLhe96URRqW9ZEV7UCScxKyYieQViH0LrAwBPvsYKg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_playlist.m3u8?type=live
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="السعودية",MBC 1
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC2.ae.png" group-title="السعودية",MBC 2
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC3.ae.png" group-title="السعودية",MBC 3
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="السعودية",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="السعودية",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCActionEn.sa.png" group-title="السعودية",MBC Action
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="السعودية",MBC Drama
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBCBollywoodEn.sa.png" group-title="السعودية",MBC Bollywood
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCMax.ae.png" group-title="السعودية",MBC Max
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF:-1,MBC Masr
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_2.m3u8
-#EXTINF:-1,MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8
-
-
-
-
-
+https://lenz.splus.ir/PLTV/88888888/224/3221226845/2.m3u8
