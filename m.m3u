@@ -1,6 +1,10 @@
 #EXTM3U
 
-#EXTINF:,-1,Manoto TV
+#EXTINF:-1,NBC News
+
+https://d1bl6tskrpq9ze.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/e8064a59-9891-4f94-a596-5a29c98a50e7/4.m3u8
+
+#EXTINF:-1,Manoto TV
 
 https://spf-cors-onetv-54ghnd401.cfpass1.workers.dev/?url=https://ca-rt.onetv.app/manototv/index-0.m3u8
 
@@ -283,4 +287,5 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/2.m3u8
 #EXTINF:-1,varzesh 720
 
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/2.m3u8
+
 
