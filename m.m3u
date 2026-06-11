@@ -228,5 +228,15 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
+#EXTINF:-1,Telemundo
 
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_3.m3u8
+
+#EXTINF:-1,Telemundo
+
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
+
+#EXTINF:-1,FS1
+
+https://stream.fs1.tv/hls/webstream.m3u8
 
