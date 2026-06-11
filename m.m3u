@@ -240,3 +240,20 @@ https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master_5.m3u8
 
 https://stream.fs1.tv/hls/webstream.m3u8
 
+#EXTINF:-1,TRT 1
+
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1,TRT 1
+
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1,Das Erste
+
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master1080p5000.m3u8
+
+#EXTINF:-1,ZDF
+
+https://corsply-r7x4jn9.cfcross.workers.dev/?url=https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
+
+
