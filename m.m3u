@@ -272,3 +272,24 @@ https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a4
 
 https://am.sherton.store/xooor1_720/index.m3u8
 
+#EXTINF:-1,3
+
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
+
+#EXTINF:-1,3
+
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/IRIB3bb/index-0.m3u8
+
+#EXTINF:-1,3
+
+https://varzcors-b9v3.cfwrkr.workers.dev/?url=https://live-aburayhan1104.telewebion.ir/ek/tv3/live/480p/index.m3u8
+
+#EXTINF:-1,3
+
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app:8443/IRIBChannel3/index-0.m3u8
+
+#EXTINF:-1,3
+
+https://edge22.776740.ir.cdn.ir/hls2/persiana.m3u8
+
+
