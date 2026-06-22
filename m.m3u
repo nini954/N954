@@ -256,10 +256,19 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master1080p5000.m3u8
 
 https://corsply-r7x4jn9.cfcross.workers.dev/?url=https://s6.hopslan.com/zdfX1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,ITC
+#EXTINF:-1,worldcup
 
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/stream_t9098d0bdf1dcd3520208f17cc0c183dd_r1747826292.m3u8?llhlsHBs=0.5
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/stream_tbd8a1506d5fe45c9b5df363067178d20_r1755736257.m3u8?llhlsHBs=0.5
 
-#EXTINF:-1,ITC1
+#EXTINF:-1,fifa
 
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/stream_t9098d0bdf1dcd3520208f17cc0c183dd_r1747826291.m3u8?llhlsHBs=0.5
+https://spf-cors-onetv-t9fz.cfwrkr.workers.dev/?url=https://ca-rt.onetv.app/IRIB3bb/index-0.m3u8
+
+#EXTINF:-1,fifa
+
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/stream_tbd8a1506d5fe45c9b5df363067178d20_r1755736258.m3u8?llhlsHBs=0.5
+
+#EXTINF:-1,fifa
+
+https://am.sherton.store/xooor1_720/index.m3u8
+
