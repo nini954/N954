@@ -430,4 +430,16 @@ http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465859
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465873
 #EXTINF:-1 group-title="FIFA World Cup 2026",Channel 465875
 http://10k.lucastv.pro/2c99755ae255/gJnMAT2/465875
+#EXTINF:-1,TSN1
+http://40.160.24.55/TSN_1/index.m3u8
+#EXTINF:-1,TSN2
+http://40.160.24.55/TSN_2/index.m3u8
+#EXTINF:-1,TSN3
+http://40.160.24.55/TSN_3/index.m3u8
+#EXTINF:-1,TSN4
+http://40.160.24.55/TSN_4/index.m3u8
+#EXTINF:-1,TSN5
+http://40.160.24.55/TSN_5/index.m3u8
+#EXTINF:-1,bein sport
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
